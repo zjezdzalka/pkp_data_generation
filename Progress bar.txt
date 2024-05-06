@@ -3,7 +3,7 @@ Biura - Halfway done (not implemented into DB)
 Firmy Produkcyjne - NOT done
 Linie Kolejowe - Halfway done (not implemented into DB)
 Naprawy - NOT done
-Nieruchomości - NOT done
+Nieruchomości - Halfway done (not implemented into DB)
 Numery Pociągów - NOT done
 Pracownicy - Halfway done (not implemented into DB)
 Przewoźnicy - NOT done
