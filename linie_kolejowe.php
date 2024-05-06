@@ -29,23 +29,30 @@
             /*echo "<p class='zatrudniony'>".(rand()%2)."</p>"; // 7 oddziałów random*/
         echo "</div>";
     }
+    echo "all cities";
+    echo "<div style='display:flex;'>";
+    for($i=0;$i<50;++$i){
+        echo '"'.$cities[$i].'"'.",";
+    }
+    echo "</div>";
+    /*
     echo "new line";
     //cities not in a LK
     for($i=0;$i<125;++$i){
-        $faker = Faker\Factory::create("pl_PL");
-        echo "<div style='display:flex;'>";
-            $city = $faker->city();
-            while(in_array($city, $cities)){
-                $city = $faker->city();
-            }
-            array_push($cities, $city);
-            $str = ($i+1).",".$city;
-            echo $str; // 7 oddziałów random
-            /*echo "<p class='lat_y'>".$faker->latitude($min = 49.50, $max = 54) .","."</p>";
-            echo "<p class='long_x'>".$faker->longitude($min = 14.50, $max = 23.5).","."</p>"; // 7 oddziałów random*/
-            /*echo "<p class='zatrudniony'>".(rand()%2)."</p>"; // 7 oddziałów random*/
-        echo "</div>";
+    $faker = Faker\Factory::create("pl_PL");
+    echo "<div style='display:flex;'>";
+    $city = $faker->city();
+    while(in_array($city, $cities)){
+        $city = $faker->city();
     }
+    array_push($cities, $city);
+    $str = ($i+1).",".$city;
+    echo $str; // 7 oddziałów random
+    /*echo "<p class='lat_y'>".$faker->latitude($min = 49.50, $max = 54) .","."</p>";
+    echo "<p class='long_x'>".$faker->longitude($min = 14.50, $max = 23.5).","."</p>"; // 7 oddziałów random*/
+    /*echo "<p class='zatrudniony'>".(rand()%2)."</p>"; // 7 oddziałów random*/
+    /*echo "</div>";*/
+    /*}*/
     ?>
 </body>
 </html>

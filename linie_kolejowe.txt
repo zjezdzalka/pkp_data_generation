@@ -1,25 +1,25 @@
-1,Gołubie,Tczew,180
-2,Czarna Woda,Legnica,120
-3,Jastrzębie,Nowy Targ,96
-4,Lubartów,Bogaczów,109
-5,Grodzisk Mazowiecki,Darłowo,165
-6,Lębork,Świdwin,346
-7,Ząbki,Dąbrowa Górnicza,130
-8,Szczawin,Głogów,143
-9,Gdańsk,Krapkowice,212
-10,Szczytno,Czerwionka-Leszczyny,103
-11,Wilkowice,Łomianki,294
-12,Zborowskie,Malbork,334
-13,Świebodzin,Sopot,325
-14,Leszno,Gdynia,171
-15,Płazów,Suwałki,53
-16,Swarzędz,Bochnia,154
-17,Jastrzębie-Zdrój,Przędzel,65
-18,Nysa,Jemielnica,138
-19,Słupsk,Kuźnica Masłońska,144
-20,Zgorzelec,Bielawa,152
-21,Brodnica,Łódź,48
-22,Konin,Świebodzice,283
-23,Kłodzko,Bielsko-Biała,60
-24,Postęp,Zielona Góra,280
-25,Kalisz,Kętrzyn,86
+1,Tczew,Pabianice,244
+2,Świdnica,Babienica,341
+3,Jadowniki,Stargard,319
+4,Bogatynia,Szczawin,105
+5,Marylka,Knurów,280
+6,Nowe Kramsko,Kalisz,253
+7,Gdynia,Bełchatów,227
+8,Tarnowskie Góry,Lędziny,252
+9,Ruda Śląska,Krosno,176
+10,Kołobrzeg,Kolonowskie,323
+11,Świnoujście,Tychy,115
+12,Żyrardów,Trzebiatów,139
+13,Pawłowice,Ostrowiec Świętokrzyski,285
+14,Gorzów Wielkopolski,Suwałki,97
+15,Lubliniec,Czarna Woda,89
+16,Starogard Gdański,Ilkowice,78
+17,Olsztyn,Studzienice,153
+18,Bielawa,Tarnów,299
+19,Brzeg,Kłobuck,98
+20,Kamień,Bydgoszcz,172
+21,Mielec,Piotrków Trybunalski,218
+22,Legionowo,Sopot,45
+23,Katowice,Mikołów,344
+24,Ostrów Mazowiecka,Piaseczno,76
+25,Kuźnica Masłońska,Zgorzelec,225

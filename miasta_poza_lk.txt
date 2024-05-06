@@ -1,125 +1,197 @@
-1,Olkusz
-2,Szczecinek
-3,Siedlce
-4,Elbląg
-5,Świętochłowice
-6,Szczecin
-7,Tomaszów Mazowiecki
-8,Magdalenka
-9,Zduńska Wola
-10,Ostróda
-11,Świdnica
-12,Nowy Sącz
-13,Skarżysko-Kamienna
-14,Bytom
-15,Szówsko
-16,Września
-17,Opole
-18,Rybnik
-19,Oświęcim
-20,Bartoszyce
-21,Skalbmierz
-22,Kozienice
-23,Pułtusk
-24,Mysłowice
-25,Chrzanów
-26,Stargard
-27,Zgierz
-28,Grudziądz
-29,Gniezno
-30,Sulejówek
-31,Wola Kiedrzyńska
-32,Lublin
-33,Łoś
-34,Świecie
-35,Studzienice
-36,Kwidzyn
-37,Warszawa
-38,Katowice
-39,Poznań
-40,Jadowniki
-41,Ostrołęka
-42,Franciszków
-43,Zabrze
-44,Turek
-45,Lubin
-46,Otwock
-47,Stalowa Wola
-48,Sandomierz
-49,Ustka
+1,Władysławowo
+2,Tarnów
+3,Lubartów
+4,Kłobuck
+5,Konstancin-Jeziorna
+6,Sochaczew
+7,Września
+8,Sulejówek
+9,Pabianice
+10,Olsztyn
+11,Lubliniec
+12,Łęczna
+13,Giżycko
+14,Sanok
+15,Jadowniki
+16,Magdalenka
+17,Myszków
+18,Nysa
+19,Lębork
+20,Skarżysko-Kamienna
+21,Lublin
+22,Zawiercie
+23,Żywiec
+24,Dąbrowa Górnicza
+25,Koszwały
+26,Mysłowice
+27,Jemielnica
+28,Iława
+29,Kościerzyna
+30,Jaworzno
+31,Ostrołęka
+32,Poznań
+33,Ostrowiec Świętokrzyski
+34,Kwidzyn
+35,Tychy
+36,Świętochłowice
+37,Suwałki
+38,Piekary Śląskie
+39,Ząbki
+40,Wejherowo
+41,Braniewo
+42,Nowy Sącz
+43,Radom
+44,Ełk
+45,Zgorzelec
+46,Wągrowiec
+47,Ruda Śląska
+48,Tomaszów Mazowiecki
+49,Przemyśl
 50,Kołobrzeg
-51,Szteklin
-52,Jaworzno
-53,Pszczyna
-54,Jeziorna
-55,Braniewo
-56,Śrem
-57,Sosnowiec
-58,Luboń
-59,Józefów
-60,Tychy
-61,Skierniewice
-62,Świnoujście
+51,Leszno
+52,Postęp
+53,Krosno
+54,Starachowice
+55,Nowy Targ
+56,Ostrów Mazowiecka
+57,Jeziorna
+58,Kamień
+59,Franciszków
+60,Chrzanów
+61,Bogatynia
+62,Kluczbork
 63,Pisz
-64,Częstochowa
-65,Mokrzyska
-66,Żary
-67,Pilchowo
-68,Lędziny
-69,Wrocław
-70,Kędzierzyn-Koźle
-71,Koło
-72,Ciechanów
-73,Kłobuck
-74,Starachowice
-75,Dębogórze
-76,Ostrów Mazowiecka
-77,Mielec
-78,Bieruń
-79,Żywiec
-80,Bydgoszcz
-81,Tarnobrzeg
-82,Starogard Gdański
-83,Ruda Śląska
-84,Jasło
-85,Lubojenka
-86,Łomża
-87,Gorlice
-88,Świdnik
-89,Legionowo
-90,Piła
-91,Kluczbork
-92,Ełk
-93,Sochaczew
-94,Brzeg
-95,Toruń
-96,Jaroszowa Wola
-97,Wągrowiec
-98,Bełchatów
-99,Tarnów
-100,Siemianowice Śląskie
-101,Wałbrzych
-102,Police
-103,Łowicz
-104,Konstancin-Jeziorna
-105,Czechowice-Dziedzice
-106,Trzebiatów
-107,Władysławowo
-108,Będzin
-109,Lidzbark Warmiński
-110,Giżycko
-111,Kolonowskie
-112,Kielce
-113,Żory
-114,Przemyśl
-115,Zawiercie
-116,Sieradz
-117,Nowe Kramsko
-118,Ławy
-119,Rzeszów
-120,Wodzisław Śląski
-121,Iława
-122,Pruszcz Gdański
-123,Koszalin
-124,Wyszków
-125,Kościerzyna
+64,Pieszyce
+65,Grodzisk Mazowiecki
+66,Krapkowice
+67,Bydgoszcz
+68,Katowice
+69,Toruń
+70,Chorzów
+71,Kłodzko
+72,Kędzierzyn-Koźle
+73,Łomża
+74,Otwock
+75,Jelcz-Laskowice
+76,Gdańsk
+77,Skalbmierz
+78,Turek
+79,Ilkowice
+80,Mokrzyska
+81,Studzienice
+82,Nowa Sól
+83,Wodzisław Śląski
+84,Bytom
+85,Koszalin
+86,Kielce
+87,Koło
+88,Piła
+89,Nowy Dwór Mazowiecki
+90,Jelenia Góra
+91,Lidzbark Warmiński
+92,Włocławek
+93,Pszczyna
+94,Elbląg
+95,Jaroszowa Wola
+96,Opole
+97,Gliwice
+98,Konin
+99,Bełchatów
+100,Bolesławiec
+101,Kuźnica Masłońska
+102,Piotrków Trybunalski
+103,Pruszcz Gdański
+104,Mielec
+105,Siedlce
+106,Szwecja
+107,Jastrzębie-Zdrój
+108,Kętrzyn
+109,Chojnice
+110,Zgierz
+111,Bogaczów
+112,Szczecin
+113,Pułtusk
+114,Stargard
+115,Śrem
+116,Tczew
+117,Stalowa Wola
+118,Ostróda
+119,Boguszów-Gorce
+120,Jawor
+121,Kamieniec Ząbkowicki
+122,Będzin
+123,Gołubie
+124,Wałbrzych
+125,Orzesze
+126,Dębica
+127,Zborowskie
+128,Rzeszów
+129,Bielsko-Biała
+130,Przędzel
+131,Jastrzębie
+132,Oświęcim
+133,Legionowo
+134,Busko-Zdrój
+135,Zakopane
+136,Czeladź
+137,Grudziądz
+138,Łaziska Górne
+139,Szczytno
+140,Czarna Woda
+141,Ustka
+142,Krępiec
+143,Kutno
+144,Szówsko
+145,Starogard Gdański
+146,Pruszków
+147,Głogów
+148,Płazów
+149,Malbork
+150,Rumia
+151,Wyszków
+152,Gdynia
+153,Ostrów Wielkopolski
+154,Marylka
+155,Tarnobrzeg
+156,Trzebiatów
+157,Bielawa
+158,Dębogórze
+159,Jastarnia
+160,Dzierżoniów
+161,Nowe Kramsko
+162,Bartoszyce
+163,Bieruń
+164,Bezrzecze
+165,Lędziny
+166,Łomianki
+167,Zamość
+168,Olkusz
+169,Kościan
+170,Żary
+171,Warszawa
+172,Babienica
+173,Gniezno
+174,Świecie
+175,Świdnica
+176,Józefów
+177,Chełm
+178,Wilkowice
+179,Knurów
+180,Bochnia
+181,Ciechanów
+182,Zduńska Wola
+183,Żyrardów
+184,Mikołów
+185,Kozienice
+186,Puławy
+187,Skierniewice
+188,Świebodzice
+189,Pawłowice
+190,Kraków
+191,Szczecinek
+192,Łoś
+193,Słupsk
+194,Rynarzewo
+195,Gorlice
+196,Sosnowiec
+197,Kalisz
