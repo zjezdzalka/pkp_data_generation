@@ -1,0 +1,16 @@
+Progress bar:
+Biura - NOT done
+Firmy Produkcyjne - NOT done
+Linie Kolejowe - NOT done
+Naprawy - NOT done
+Nieruchomości - NOT done
+Numery Pociągów - NOT done
+Pracownicy - NOT done
+Przewoźnicy - NOT done
+Rodzaj Pociągu - NOT done
+Rodzaj Taboru - NOT done
+Stacje - NOT done
+Stanowiska - DONE
+Status - NOT done
+Tabory - NOT done
+Trasy - NOT done
