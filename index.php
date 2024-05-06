@@ -31,17 +31,17 @@
                 echo rand(0,9);
             }
             echo ",</p>";
-            echo "<p class='oddział'>".$faker->address().","."</p>"; // 7 oddziałów random
-            echo "<p class='biuro'>".$faker->country().","."</p>"; // 7 oddziałów random
+            echo "<p class='oddział'>".$faker->address().","."</p>";
+            echo "<p class='biuro'>".$faker->country().","."</p>";
             $city = $faker->city();
             while(in_array($city, $cities)){
                 $city = $faker->city();
             }
             array_push($cities, $city);
-            echo "<p class='miasto'>".end($cities).","."</p>"; // 7 oddziałów random
+            echo "<p class='miasto'>".end($cities).","."</p>";
             echo "<p class='lat_y'>".$faker->latitude($min = 49.50, $max = 54) .","."</p>";
-            echo "<p class='long_x'>".$faker->longitude($min = 14.50, $max = 23.5).","."</p>"; // 7 oddziałów random
-            echo "<p class='zatrudniony'>".(rand()%2)."</p>"; // 7 oddziałów random
+            echo "<p class='long_x'>".$faker->longitude($min = 14.50, $max = 23.5).","."</p>"; 
+            echo "<p class='zatrudniony'>".(rand()%2)."</p>";
         echo "</div>";
     }
     ?>
