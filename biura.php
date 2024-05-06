@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test PHP</title>
+    <title>Biura PHP</title>
 </head>
 <body>
     <?php
@@ -24,14 +24,15 @@
                     $city .= " ";
                 }
             }
-            $str = ($i+1).",".$city.","; //
+            $str = ($i+1); // id
+            $str .= ",".$city.","; // miasto
             for($j=0;$j<count($adres3) - 1;++$j){
                 $str .= $adres3[0];
                 if($j != count($adres3) - 2){
                     $str .= ",";
                 }
-            }
-            $str .= ",".$adres2[1];
+            } // adres
+            $str .= ",".$adres2[1]; // kod pocztowy
             echo $str; 
         echo "</div>";
     }
