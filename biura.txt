@@ -1,0 +1,31 @@
+1,Magdalenka,Kasprzaka Marcina 30A/63,90-092
+2,Gliwice,Wyzwolenia 80A/44,07-643
+3,Świdnik,Bytomska 87/37,15-001
+4,Szczecinek,Kasztanowa 92,77-063
+5,Świętochłowice,Pułaskiego 18,25-343
+6,LidzbarkWarmiński,Myśliwska 62A/16,98-345
+7,Łęczna,Słowiańska 41,60-020
+8,Płazów,Torowa 67/77,94-912
+9,Warszawa,Racławicka 88A/45,82-953
+10,DąbrowaGórnicza,Turystyczna 19,42-994
+11,Świdnica,Czarnieckiego 65A,14-650
+12,Ławy,Prosta 54/80,81-588
+13,Kościan,Krasińskiego 69/22,84-158
+14,Kalisz,Widok 29,98-595
+15,NowyTarg,Kamienna 97A,02-284
+16,Konin,Bukowa 38A,57-904
+17,Konstancin-Jeziorna,Węglowa 75A/43,55-428
+18,Zabrze,Stalowa 24/76,86-772
+19,Rzeszów,Gdańska 71/17,95-614
+20,LidzbarkWarmiński,Żwirowa 86A/61,25-600
+21,Szwecja,Jaworowa 80/26,27-691
+22,Żyrardów,Kazimierza Wielkiego 92A,84-345
+23,Zgorzelec,Ułańska 83,71-734
+24,NowaSól,Wojska Polskiego 72A,23-288
+25,Pszczyna,Jagiełły 22A/67,49-938
+26,Bogatynia,Oświęcimska 84/60,37-125
+27,Chorzów,Lubelska 78A/68,04-053
+28,NoweKramsko,Małachowskiego 90A/75,41-391
+29,Koło,Górna 10,09-379
+30,Krosno,Jana III Sobieskiego 86A,74-051
+31,Krotoszyn,Małopolska 49,23-718
