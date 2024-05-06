@@ -1,0 +1,125 @@
+1,Olkusz
+2,Szczecinek
+3,Siedlce
+4,Elbląg
+5,Świętochłowice
+6,Szczecin
+7,Tomaszów Mazowiecki
+8,Magdalenka
+9,Zduńska Wola
+10,Ostróda
+11,Świdnica
+12,Nowy Sącz
+13,Skarżysko-Kamienna
+14,Bytom
+15,Szówsko
+16,Września
+17,Opole
+18,Rybnik
+19,Oświęcim
+20,Bartoszyce
+21,Skalbmierz
+22,Kozienice
+23,Pułtusk
+24,Mysłowice
+25,Chrzanów
+26,Stargard
+27,Zgierz
+28,Grudziądz
+29,Gniezno
+30,Sulejówek
+31,Wola Kiedrzyńska
+32,Lublin
+33,Łoś
+34,Świecie
+35,Studzienice
+36,Kwidzyn
+37,Warszawa
+38,Katowice
+39,Poznań
+40,Jadowniki
+41,Ostrołęka
+42,Franciszków
+43,Zabrze
+44,Turek
+45,Lubin
+46,Otwock
+47,Stalowa Wola
+48,Sandomierz
+49,Ustka
+50,Kołobrzeg
+51,Szteklin
+52,Jaworzno
+53,Pszczyna
+54,Jeziorna
+55,Braniewo
+56,Śrem
+57,Sosnowiec
+58,Luboń
+59,Józefów
+60,Tychy
+61,Skierniewice
+62,Świnoujście
+63,Pisz
+64,Częstochowa
+65,Mokrzyska
+66,Żary
+67,Pilchowo
+68,Lędziny
+69,Wrocław
+70,Kędzierzyn-Koźle
+71,Koło
+72,Ciechanów
+73,Kłobuck
+74,Starachowice
+75,Dębogórze
+76,Ostrów Mazowiecka
+77,Mielec
+78,Bieruń
+79,Żywiec
+80,Bydgoszcz
+81,Tarnobrzeg
+82,Starogard Gdański
+83,Ruda Śląska
+84,Jasło
+85,Lubojenka
+86,Łomża
+87,Gorlice
+88,Świdnik
+89,Legionowo
+90,Piła
+91,Kluczbork
+92,Ełk
+93,Sochaczew
+94,Brzeg
+95,Toruń
+96,Jaroszowa Wola
+97,Wągrowiec
+98,Bełchatów
+99,Tarnów
+100,Siemianowice Śląskie
+101,Wałbrzych
+102,Police
+103,Łowicz
+104,Konstancin-Jeziorna
+105,Czechowice-Dziedzice
+106,Trzebiatów
+107,Władysławowo
+108,Będzin
+109,Lidzbark Warmiński
+110,Giżycko
+111,Kolonowskie
+112,Kielce
+113,Żory
+114,Przemyśl
+115,Zawiercie
+116,Sieradz
+117,Nowe Kramsko
+118,Ławy
+119,Rzeszów
+120,Wodzisław Śląski
+121,Iława
+122,Pruszcz Gdański
+123,Koszalin
+124,Wyszków
+125,Kościerzyna
