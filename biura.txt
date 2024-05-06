@@ -1,31 +1,31 @@
-1,Magdalenka,Kasprzaka Marcina 30A/63,90-092
-2,Gliwice,Wyzwolenia 80A/44,07-643
-3,Świdnik,Bytomska 87/37,15-001
-4,Szczecinek,Kasztanowa 92,77-063
-5,Świętochłowice,Pułaskiego 18,25-343
-6,LidzbarkWarmiński,Myśliwska 62A/16,98-345
-7,Łęczna,Słowiańska 41,60-020
-8,Płazów,Torowa 67/77,94-912
-9,Warszawa,Racławicka 88A/45,82-953
-10,DąbrowaGórnicza,Turystyczna 19,42-994
-11,Świdnica,Czarnieckiego 65A,14-650
-12,Ławy,Prosta 54/80,81-588
-13,Kościan,Krasińskiego 69/22,84-158
-14,Kalisz,Widok 29,98-595
-15,NowyTarg,Kamienna 97A,02-284
-16,Konin,Bukowa 38A,57-904
-17,Konstancin-Jeziorna,Węglowa 75A/43,55-428
-18,Zabrze,Stalowa 24/76,86-772
-19,Rzeszów,Gdańska 71/17,95-614
-20,LidzbarkWarmiński,Żwirowa 86A/61,25-600
-21,Szwecja,Jaworowa 80/26,27-691
-22,Żyrardów,Kazimierza Wielkiego 92A,84-345
-23,Zgorzelec,Ułańska 83,71-734
-24,NowaSól,Wojska Polskiego 72A,23-288
-25,Pszczyna,Jagiełły 22A/67,49-938
-26,Bogatynia,Oświęcimska 84/60,37-125
-27,Chorzów,Lubelska 78A/68,04-053
-28,NoweKramsko,Małachowskiego 90A/75,41-391
-29,Koło,Górna 10,09-379
-30,Krosno,Jana III Sobieskiego 86A,74-051
-31,Krotoszyn,Małopolska 49,23-718
+1,Piekary Śląskie,Turystyczna 20A/50,44-123
+2,Gliwice,Marszałkowska 79A/73,98-860
+3,Czaplinek,Łabędzia 46,49-942
+4,Kuźnica Masłońska,Liliowa 92,32-588
+5,Nowa Ruda,Al. Wojska Polskiego 22/66,49-618
+6,Pruszków,Głogowska 64/68,99-893
+7,Bezrzecze,Moniuszki 51A/32,18-153
+8,Żary,Łączna 85A/71,46-940
+9,Włocławek,Dąbrowskiej 65/64,85-021
+10,Gniezno,Krańcowa 11,52-307
+11,Jelenia Góra,Os. Jagiellońskie 94/20,04-711
+12,Stargard,Al. Piłsudskiego 94A,49-767
+13,Jastrzębie,Jaśminowa 61/89,91-339
+14,Turek,Orkana 63A,41-812
+15,Zamość,Średnia 19,25-396
+16,Piła,Dąbrowszczaków 23/17,29-092
+17,Kędzierzyn-Koźle,Reymonta 80A,97-286
+18,Radom,Zajęcza 60,17-172
+19,Kraśnik,Grunwaldzka 51,58-981
+20,Rzeszów,Zdrojowa 26A,84-348
+21,Chełm,Wróblewskiego 46A/66,99-098
+22,Kluczbork,Podgórna 30/81,75-490
+23,Kołobrzeg,Drzymały 36A,20-294
+24,Świebodzin,Opolska 39A/24,44-382
+25,Jemielnica,3 Maja 98A,25-705
+26,Szczytno,Bratków 38/86,85-709
+27,Malbork,Świętokrzyska 76,56-267
+28,Łaziska Górne,Piłsudskiego 41,58-234
+29,Lędziny,Gagarina 48A/31,85-348
+30,Kamienica Królewska,Nowy Świat 57A,36-662
+31,Starogard Gdański,Sobieskiego 28/20,18-748

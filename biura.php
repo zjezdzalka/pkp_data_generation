@@ -20,6 +20,9 @@
             $city = "";
             for($j=2;$j<=count($adres2)-1;++$j){
                 $city .= $adres2[$j];
+                if($j != count($adres2) - 1){
+                    $city .= " ";
+                }
             }
             $str = ($i+1).",".$city.","; //
             for($j=0;$j<count($adres3) - 1;++$j){
