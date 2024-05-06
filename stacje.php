@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test PHP</title>
+    <title>Stacje PHP</title>
 </head>
 <body>
     <?php
@@ -21,11 +21,11 @@
                 $city = $faker->city();
             }
             array_push($cities, $city);
-            $str = ($i+1).",".$city.",".$faker->numberBetween(1, 31).",".$faker->numberBetween(1, 25); //0-25 TO BIURo, 1-25 LK
-            echo $str; // 7 oddziałów random
-            /*echo "<p class='lat_y'>".$faker->latitude($min = 49.50, $max = 54) .","."</p>";
-            echo "<p class='long_x'>".$faker->longitude($min = 14.50, $max = 23.5).","."</p>"; // 7 oddziałów random*/
-            /*echo "<p class='zatrudniony'>".(rand()%2)."</p>"; // 7 oddziałów random*/
+            $str = ($i+1).",";//id
+            $str .= $city.","; // miasto
+            $str .= $faker->numberBetween(1, 31).","; // oddział
+            $str .= $faker->numberBetween(1, 25); //linia kolejowa
+            echo $str; 
         echo "</div>";
     }
     $lk = 0;
@@ -35,11 +35,11 @@
         }
         echo "<div style='display:flex;'>";
             $city = $cities2[$i-197];
-            $str = ($i+1).",".$city.",".$faker->numberBetween(1, 31).",".$lk; //0-25 TO BIURo, 1-25 LK
-            echo $str; // 7 oddziałów random
-            /*echo "<p class='lat_y'>".$faker->latitude($min = 49.50, $max = 54) .","."</p>";
-            echo "<p class='long_x'>".$faker->longitude($min = 14.50, $max = 23.5).","."</p>"; // 7 oddziałów random*/
-            /*echo "<p class='zatrudniony'>".(rand()%2)."</p>"; // 7 oddziałów random*/
+            $str = ($i+1).",";//id
+            $str .= $city.","; // miasto
+            $str .= $faker->numberBetween(1, 31).","; // oddział
+            $str .= $lk; // linia kolejowa
+            echo $str;
         echo "</div>";
     }
     ?>
