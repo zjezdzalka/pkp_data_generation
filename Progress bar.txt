@@ -1,16 +1,13 @@
 Progress bar:
-Biura - NOT done
+Biura - Halfway done (not implemented into DB)
 Firmy Produkcyjne - NOT done
-Linie Kolejowe - NOT done
+Linie Kolejowe - Halfway done (not implemented into DB)
 Naprawy - NOT done
 Nieruchomości - NOT done
 Numery Pociągów - NOT done
-Pracownicy - NOT done
+Pracownicy - Halfway done (not implemented into DB)
 Przewoźnicy - NOT done
-Rodzaj Pociągu - NOT done
-Rodzaj Taboru - NOT done
-Stacje - NOT done
+Stacje - Halfway done (not implemented into DB)
 Stanowiska - DONE
-Status - NOT done
 Tabory - NOT done
-Trasy - NOT done
+Trasy - Halfway done (not implemented into DB)
