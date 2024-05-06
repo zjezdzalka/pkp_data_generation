@@ -1,0 +1,197 @@
+1,Franciszków,31,7
+2,Zakopane,24,16
+3,Elbląg,10,22
+4,Poznań,5,7
+5,Płock,19,21
+6,Grudziądz,4,24
+7,Skierniewice,22,17
+8,Kozienice,9,8
+9,Radomsko,7,23
+10,Września,5,10
+11,Konin,21,6
+12,Lubartów,30,25
+13,Puławy,15,23
+14,Koszalin,25,20
+15,Bezrzecze,14,15
+16,Pszczyna,25,18
+17,Kamienica Królewska,20,2
+18,Ostrzeszów,11,2
+19,Rybnik,17,21
+20,Chełm,28,5
+21,Konstancin-Jeziorna,31,21
+22,Jelcz-Laskowice,4,20
+23,Boguszów-Gorce,13,14
+24,Ełk,27,7
+25,Dzierżoniów,20,11
+26,Chorzów,7,8
+27,Przemyśl,30,17
+28,Zamość,6,6
+29,Szczytno,20,1
+30,Inowrocław,23,22
+31,Oświęcim,28,1
+32,Jelenia Góra,14,13
+33,Stalowa Wola,30,1
+34,Jastrzębie,14,1
+35,Orzesze,12,10
+36,Ząbki,26,13
+37,Zawiercie,13,6
+38,Rynarzewo,30,18
+39,Kamieniec Ząbkowicki,30,24
+40,Przędzel,17,2
+41,Kętrzyn,21,23
+42,Jeziorna,15,5
+43,Pęcice,24,19
+44,Płazów,31,20
+45,Legnica,12,9
+46,Magdalenka,12,3
+47,Pilchowo,5,4
+48,Sanok,15,12
+49,Ostrołęka,4,15
+50,Łowicz,16,23
+51,Świecie,30,1
+52,Czaplinek,3,6
+53,Łoś,15,4
+54,Jemielnica,28,17
+55,Kielce,20,1
+56,Kłodzko,24,5
+57,Braniewo,9,12
+58,Świdnik,7,23
+59,Wągrowiec,24,10
+60,Opole,30,8
+61,Nowa Ruda,16,25
+62,Kraków,30,9
+63,Sandomierz,17,15
+64,Racibórz,21,22
+65,Kędzierzyn-Koźle,10,21
+66,Kościan,24,2
+67,Ustka,14,15
+68,Mokrzyska,22,11
+69,Olkusz,13,18
+70,Łęczna,3,23
+71,Toruń,19,20
+72,Jastrzębie-Zdrój,8,25
+73,Siemianowice Śląskie,21,10
+74,Bochnia,8,23
+75,Kutno,8,23
+76,Leszno,20,12
+77,Pruszków,30,13
+78,Lębork,22,24
+79,Swarzędz,23,5
+80,Żary,6,14
+81,Rzeszów,6,11
+82,Wejherowo,17,2
+83,Tarnobrzeg,4,24
+84,Gniezno,23,6
+85,Zielona Góra,14,15
+86,Kościerzyna,9,4
+87,Wola Kiedrzyńska,8,13
+88,Nowa Sól,11,12
+89,Nowy Targ,18,23
+90,Zgierz,7,16
+91,Ławy,31,7
+92,Koło,27,17
+93,Ostrów Wielkopolski,11,2
+94,Sosnowiec,11,12
+95,Czerwionka-Leszczyny,18,24
+96,Zborowskie,21,4
+97,Darłowo,21,12
+98,Kluczbork,3,15
+99,Włocławek,26,22
+100,Myszków,11,3
+101,Zduńska Wola,27,4
+102,Jawor,26,3
+103,Turek,31,6
+104,Lublin,26,15
+105,Nowy Sącz,29,6
+106,Pisz,21,7
+107,Ostróda,8,16
+108,Łaziska Górne,14,10
+109,Świebodzin,15,15
+110,Słupsk,14,25
+111,Luboń,29,14
+112,Wilkowice,31,8
+113,Ciechanów,19,14
+114,Warszawa,4,3
+115,Będzin,17,11
+116,Iława,21,19
+117,Lubojenka,10,16
+118,Skarżysko-Kamienna,31,20
+119,Pruszcz Gdański,25,3
+120,Czechowice-Dziedzice,29,8
+121,Jastarnia,19,15
+122,Jaroszowa Wola,5,19
+123,Biała Podlaska,18,6
+124,Szówsko,12,12
+125,Szczecin,5,25
+126,Radom,22,18
+127,Krępiec,16,20
+128,Lidzbark Warmiński,2,5
+129,Gorlice,17,3
+130,Grodzisk Mazowiecki,23,25
+131,Busko-Zdrój,18,11
+132,Zabrze,3,1
+133,Głogów,6,24
+134,Józefów,2,6
+135,Tomaszów Mazowiecki,22,18
+136,Wrocław,19,25
+137,Żywiec,8,10
+138,Świdwin,11,15
+139,Bielsko-Biała,8,24
+140,Bolesławiec,11,20
+141,Bartoszyce,9,19
+142,Gdańsk,10,17
+143,Chrzanów,4,24
+144,Mysłowice,20,19
+145,Czeladź,8,2
+146,Pułtusk,22,11
+147,Skalbmierz,14,20
+148,Wodzisław Śląski,17,16
+149,Nysa,24,8
+150,Jarosław,13,9
+151,Szteklin,28,9
+152,Bieruń,22,2
+153,Świebodzice,6,1
+154,Nowy Dwór Mazowiecki,6,23
+155,Cieszyn,5,9
+156,Łomianki,31,13
+157,Malbork,28,8
+158,Sieradz,5,13
+159,Kwidzyn,7,14
+160,Kraśnik,14,5
+161,Osówiec,13,13
+162,Jaworzno,13,19
+163,Chojnice,18,12
+164,Krapkowice,4,20
+165,Łomża,25,21
+166,Starachowice,30,3
+167,Piła,3,20
+168,Piekary Śląskie,9,16
+169,Częstochowa,28,17
+170,Koszwały,11,4
+171,Dębogórze,4,24
+172,Żory,30,1
+173,Dąbrowa Górnicza,2,4
+174,Sochaczew,4,9
+175,Sulejówek,26,15
+176,Brodnica,4,7
+177,Otwock,28,2
+178,Bytom,18,15
+179,Jasło,17,20
+180,Łódź,2,14
+181,Świętochłowice,25,21
+182,Lubin,6,3
+183,Rumia,26,19
+184,Wałbrzych,18,17
+185,Police,9,3
+186,Pieszyce,18,12
+187,Postęp,19,5
+188,Śrem,21,20
+189,Białystok,8,13
+190,Władysławowo,6,4
+191,Krotoszyn,18,17
+192,Gliwice,3,9
+193,Giżycko,26,12
+194,Bogaczów,20,20
+195,Szwecja,16,12
+196,Szczecinek,27,19
+197,Gołubie,19,11

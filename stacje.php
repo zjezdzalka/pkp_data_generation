@@ -20,7 +20,7 @@
                 $city = $faker->city();
             }
             array_push($cities, $city);
-            $str = ($i+1).",".$city.",".$faker->numberBetween(0, 25).",".$faker->numberBetween(1, 25); //0-25 TO BIURo, 1-25 LK
+            $str = ($i+1).",".$city.",".$faker->numberBetween(1, 31).",".$faker->numberBetween(1, 25); //0-25 TO BIURo, 1-25 LK
             echo $str; // 7 oddziałów random
             /*echo "<p class='lat_y'>".$faker->latitude($min = 49.50, $max = 54) .","."</p>";
             echo "<p class='long_x'>".$faker->longitude($min = 14.50, $max = 23.5).","."</p>"; // 7 oddziałów random*/
