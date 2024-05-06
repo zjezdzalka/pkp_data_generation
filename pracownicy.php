@@ -26,7 +26,7 @@
             }
             $str .= $name[$counter].","; //imie
             $str .= $name[$counter+1].","; //nazwisko
-            $str .= $faker->numberBetween(3,21).","; //stanowisko
+            $str .= $faker->numberBetween(3,22).","; //stanowisko
             $str .= (rand(1,9)); // numer
             for($j = 0; $j<8; ++$j){
                 $str .= rand(0,9);
