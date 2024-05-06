@@ -1,0 +1,25 @@
+1,Konin,Kielce,303
+2,Babienica,Kętrzyn,153
+3,Starogard Gdański,Jaworzno,33
+4,Rynarzewo,Tomaszów Mazowiecki,101
+5,Siedlce,Łoś,246
+6,Ostrowiec Świętokrzyski,Tarnowskie Góry,129
+7,Puławy,Włocławek,158
+8,Kutno,Bieruń,272
+9,Pęcice,Sosnowiec,242
+10,Elbląg,Wągrowiec,34
+11,Bogatynia,Lębork,254
+12,Kraków,Śrem,331
+13,Września,Nowe Kramsko,106
+14,Tarnobrzeg,Pruszcz Gdański,156
+15,Płazów,Łomianki,95
+16,Bielawa,Zawiercie,299
+17,Wilkowice,Grudziądz,264
+18,Zduńska Wola,Świętochłowice,201
+19,Pawłowice,Koszalin,37
+20,Czerwionka-Leszczyny,Warszawa,59
+21,Zgierz,Jelcz-Laskowice,151
+22,Siemianowice Śląskie,Stalowa Wola,166
+23,Otwock,Lędziny,145
+24,Inowrocław,Jarosław,264
+25,Tczew,Lubojenka,180
