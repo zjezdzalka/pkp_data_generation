@@ -1,0 +1,21 @@
+1,Prezes zarządu PKP
+2,Członek zarządu
+3,Inspektor ochrony danych
+4,Media
+5,Ekspert BHP
+6,Ekspert higieny zdrowia
+7,Ekspert cyberbezpieczeństwa
+8,Programista
+9,Ekspert telekomunikacji
+10,Inżynier torów
+11,Pracownik obsługi peronowej
+12,Technik utrzymania infrastruktury
+13,Kierownik bazy taborowej
+14,Specjalista ds. logistyki
+15,Pracownik biurowy
+16,Specjalista ds. marketingu
+17,Obsługa klienta
+18,Instruktor
+19,Maszynista
+20,Straż ochrony kolei
+21,Operator systemu sterowania ruchem kolejowym
