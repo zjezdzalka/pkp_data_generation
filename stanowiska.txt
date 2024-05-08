@@ -20,3 +20,4 @@
 20,Straż ochrony kolei
 21,Operator systemu sterowania ruchem kolejowym
 22,Sprzedaż nieruchomości
+23,Baza taborowa
