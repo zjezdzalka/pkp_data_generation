@@ -35,6 +35,9 @@
     $rodzaj = ["elektryczny", "spalinowy", "elektryczno-spalinowy"];
     $counter = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
     $models = [];
+    $uszkodzony = [];
+    $w_naprawie = [];
+    $po_naprawie = [];
 
     echo "new line";
     for($i=0;$i<427;++$i){
@@ -51,17 +54,25 @@
             $model .= $type_nr;
             $str = $model.",";// numer taboru (id)
             $str .= $faker->numberBetween(1980,2014).",";// rok produkcji
-            $str .= $statusy[rand(0,5)].",";// status
+            $status = rand(0,5);
+            if($status == 1) array_push($uszkodzony, $model);
+            else if($status == 2) array_push($po_naprawie, $model);
+            else if($status == 3) array_push($w_naprawie, $model);
+            $str .= $statusy[$status].",";// status
             $year = $faker->numberBetween(2014,2020);
             $month = $faker->numberBetween(1,12);
             $str .= $year; // rok ostatniego przeglądu (RRRR-MM-DD)
             $str .= "-";
             $str .= $month<10?"0".$month:$month; // miesiąc ostatniego przeglądu
             $str .= "-";
-            $str .= ($month==1||$month==3||$month==5||$month==7||$month==8||$month==10||$month==12)?$faker->numberBetween(1,31):
+            $date = ($month==1||$month==3||$month==5||$month==7||$month==8||$month==10||$month==12)?$faker->numberBetween(1,31):
             (($month==4||$month==6||$month==9||$month==11)?$faker->numberBetween(1,30):
             (($year%4==400)?$faker->numberBetween(1,29):
-            (($year%4==0 && $year%100!=0)?$faker->numberBetween(1,29):$faker->numberBetween(1,28)))); // dzień ostatniego przeglądu
+            (($year%4==0 && $year%100!=0)?$faker->numberBetween(1,29):$faker->numberBetween(1,28))));
+            if($date<10){
+                $date = "0".$date;
+            }
+            $str .= $date; // dzień ostatniego przeglądu
             $str .= ","; // ostatni przegląd koniec
             $str .= $rodzaj[$type_id%3]; // rodzaj
             echo $str;
@@ -71,6 +82,24 @@
     echo "<div style='display:flex;'>"; // all models
     for($i=0;$i<count($models);++$i){
         echo $models[$i].",";
+    }
+    echo "</div>";
+    echo "<p>uszkodzone</p>";
+    echo "<div style='display:flex;'>"; // uszkodzone
+    for($i=0;$i<count($uszkodzony);++$i){
+        echo '"'.$uszkodzony[$i].'"'.",";
+    }
+    echo "</div>";
+    echo "<p>w naprawie</p>";
+    echo "<div style='display:flex;'>"; // w naprawie
+    for($i=0;$i<count($w_naprawie);++$i){
+        echo '"'.$w_naprawie[$i].'"'.",";
+    }
+    echo "</div>";
+    echo "<p>po naprawie</p>";
+    echo "<div style='display:flex;'>"; // po naprawie
+    for($i=0;$i<count($po_naprawie);++$i){
+        echo '"'.$po_naprawie[$i].'"'.",";
     }
     echo "</div>";
     ?>
