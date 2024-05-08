@@ -10,7 +10,10 @@
     require_once 'vendor/autoload.php';
     echo "pracownicy w php go brrrrr!";
     $cities = [];
-    for($i=0;$i<278;++$i){
+    $maszynisci = [];
+    $baza_taborowa = [];
+    $nieruchomosci = [];
+    for($i=0;$i<534;++$i){
         $faker = Faker\Factory::create("pl_PL");
         echo "<div style='display:flex;'>";
             $str = "";
@@ -26,7 +29,23 @@
             }
             $str .= $name[$counter].","; //imie
             $str .= $name[$counter+1].","; //nazwisko
-            $str .= $faker->numberBetween(3,22).","; //stanowisko
+            if($i%2==0){
+                $str .= "19".","; //stanowisko
+                array_push($maszynisci, $i+1);
+            }
+            else{
+                $stanowisko = $faker->numberBetween(3,23);
+                $str .= $stanowisko.","; //stanowisko
+                if($stanowisko == 23){
+                    array_push($baza_taborowa, $i+1);
+                }
+                else if($stanowisko == 22){
+                    array_push($nieruchomosci, $i+1);
+                }
+                else if($stanowisko == 19){
+                    array_push($maszynisci, $i+1);
+                }
+            }
             $str .= (rand(1,9)); // numer
             for($j = 0; $j<8; ++$j){
                 $str .= rand(0,9);
@@ -37,6 +56,24 @@
             echo $str;
         echo "</div>";
     }
+    echo "<div style:'display:flex;'>";
+            echo "<p>maszynisci</p>";
+            for($j=0;$j<count($maszynisci);++$j){
+                echo $maszynisci[$j].",";
+            }
+        echo "</div>";
+        echo "<div style:'display:flex;'>";
+            echo "<p>baza taborowa</p>";
+            for($j=0;$j<count($baza_taborowa);++$j){
+                echo $baza_taborowa[$j].",";
+            }
+        echo "</div>";
+        echo "<div style:'display:flex;'>";
+            echo "<p>nieruchomosci</p>";
+            for($j=0;$j<count($nieruchomosci);++$j){
+                echo $nieruchomosci[$j].",";
+            }
+        echo "</div>";
     ?>
 </body>
 </html>
