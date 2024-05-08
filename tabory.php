@@ -38,6 +38,7 @@
     $uszkodzony = [];
     $w_naprawie = [];
     $po_naprawie = [];
+    $nowy = [];
 
     echo "new line";
     for($i=0;$i<427;++$i){
@@ -58,6 +59,7 @@
             if($status == 1) array_push($uszkodzony, $model);
             else if($status == 2) array_push($po_naprawie, $model);
             else if($status == 3) array_push($w_naprawie, $model);
+            else if($status == 0) array_push($nowy, $model);
             $str .= $statusy[$status].",";// status
             $year = $faker->numberBetween(2014,2020);
             $month = $faker->numberBetween(1,12);
@@ -81,7 +83,7 @@
     }
     echo "<div style='display:flex;'>"; // all models
     for($i=0;$i<count($models);++$i){
-        echo $models[$i].",";
+        echo '"'.$models[$i].'"'.",";
     }
     echo "</div>";
     echo "<p>uszkodzone</p>";
@@ -100,6 +102,12 @@
     echo "<div style='display:flex;'>"; // po naprawie
     for($i=0;$i<count($po_naprawie);++$i){
         echo '"'.$po_naprawie[$i].'"'.",";
+    }
+    echo "</div>";
+    echo "<p>nowy</p>";
+    echo "<div style='display:flex;'>"; // po naprawie
+    for($i=0;$i<count($nowy);++$i){
+        echo '"'.$nowy[$i].'"'.",";
     }
     echo "</div>";
     ?>
