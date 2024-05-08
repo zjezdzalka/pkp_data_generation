@@ -5,7 +5,7 @@ Linie Kolejowe - Halfway done (not implemented into DB)
 Naprawy - NOT done
 Nieruchomości - Halfway done (not implemented into DB)
 Numery Pociągów - NOT done
-Pracownicy - Halfway done (not implemented into DB) - do wygenerowania again (więcej maszynistów
+Pracownicy - Halfway done (not implemented into DB)
 Przewoźnicy - Halfway done (not implemented into DB)
 Stacje - Halfway done (not implemented into DB)
 Stanowiska - DONE
