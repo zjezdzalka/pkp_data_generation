@@ -38,7 +38,7 @@
             $city = $faker->city();
             $str = ($i+1).","; // id
             $str .= $names[$i].","; // nazwa
-            $str .= $city.","; // nazwa
+            $str .= $city; // nazwa
             echo $str;
         echo "</div>";
     }
