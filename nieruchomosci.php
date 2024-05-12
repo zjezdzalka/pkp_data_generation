@@ -53,7 +53,7 @@
         "Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",
     ];
     $stan = ["do remontu", "po remoncie", "w budowie", "nowy", "opuszczony"];
-    $pracownicy = [5,18,38,52,56,69,87,94,115,141,153,167,204,232,235,251,252,258,267,273];
+    $pracownicy = [16,44,58,96,118,132,220,224,344,424,436,470,502,514];
     function getAddress($faker){
         $adres = $faker->address();
         $adres3 = explode(",", $adres); // Podział na [Ulica, kod-pocztowy + miasto]
@@ -100,7 +100,7 @@
             $str .= $faker->numberBetween(375000, 1300000).","; // cena
             $str .= $faker->numberBetween(25, 354).","; // powierzchnia
             $str .= $stan[rand(0,4)].","; // powierzchnia
-            $str .= $pracownicy[rand(0,19)]; // id_pracownika
+            $str .= $pracownicy[rand(0,count($pracownicy)-1)]; // id_pracownika
 
             echo $str;
         echo "</div>";
