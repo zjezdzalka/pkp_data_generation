@@ -1,31 +1,31 @@
-1,Piekary Śląskie,Turystyczna 20A/50,44-123
-2,Gliwice,Marszałkowska 79A/73,98-860
-3,Czaplinek,Łabędzia 46,49-942
-4,Kuźnica Masłońska,Liliowa 92,32-588
-5,Nowa Ruda,Al. Wojska Polskiego 22/66,49-618
-6,Pruszków,Głogowska 64/68,99-893
-7,Bezrzecze,Moniuszki 51A/32,18-153
-8,Żary,Łączna 85A/71,46-940
-9,Włocławek,Dąbrowskiej 65/64,85-021
-10,Gniezno,Krańcowa 11,52-307
-11,Jelenia Góra,Os. Jagiellońskie 94/20,04-711
-12,Stargard,Al. Piłsudskiego 94A,49-767
-13,Jastrzębie,Jaśminowa 61/89,91-339
-14,Turek,Orkana 63A,41-812
-15,Zamość,Średnia 19,25-396
-16,Piła,Dąbrowszczaków 23/17,29-092
-17,Kędzierzyn-Koźle,Reymonta 80A,97-286
-18,Radom,Zajęcza 60,17-172
-19,Kraśnik,Grunwaldzka 51,58-981
-20,Rzeszów,Zdrojowa 26A,84-348
-21,Chełm,Wróblewskiego 46A/66,99-098
-22,Kluczbork,Podgórna 30/81,75-490
-23,Kołobrzeg,Drzymały 36A,20-294
-24,Świebodzin,Opolska 39A/24,44-382
-25,Jemielnica,3 Maja 98A,25-705
-26,Szczytno,Bratków 38/86,85-709
-27,Malbork,Świętokrzyska 76,56-267
-28,Łaziska Górne,Piłsudskiego 41,58-234
-29,Lędziny,Gagarina 48A/31,85-348
-30,Kamienica Królewska,Nowy Świat 57A,36-662
-31,Starogard Gdański,Sobieskiego 28/20,18-748
+1,Ilkowice,Turkusowa 60/10,85-895
+2,Racibórz,Błękitna 88A,06-997
+3,Franciszków,Saperów 72,52-190
+4,Jadowniki,Wiosenna 15,94-199
+5,Łęczna,Różana 78,79-237
+6,Ostrów Wielkopolski,Os. Jagiellońskie 97A,52-399
+7,Biała Podlaska,Wodna 58,32-007
+8,Turek,Gnieźnieńska 96A,80-818
+9,Wrocław,Wieniawskiego 21,24-539
+10,Jawor,Lawendowa 10A,67-325
+11,Przędzel,Konarskiego 49,48-511
+12,Bogatynia,Sandomierska 03A/47,89-698
+13,Luboń,Mokra 82/56,48-993
+14,Ostrołęka,Rolnicza 23A,29-305
+15,Zielona Góra,Legnicka 05A,40-568
+16,Jastarnia,Agrestowa 86A,34-428
+17,Tarnobrzeg,Gdańska 57A,81-704
+18,Bartoszyce,Reymonta 04A/61,08-545
+19,Pisz,Nowy Świat 85A/48,26-851
+20,Franciszków,Jagodowa 80A,59-144
+21,Rynarzewo,Lompy 89,00-192
+22,Jeziorna,Klonowa 47/15,11-230
+23,Katowice,Senatorska 58/71,27-408
+24,Białystok,Modlińska 95A/98,24-883
+25,Turek,Sowińskiego 48/19,13-201
+26,Toruń,Husarska 24A,89-686
+27,Żory,Brzechwy 23,50-834
+28,Skalbmierz,Wrocławska 44,94-391
+29,Łowicz,Turystyczna 51/90,69-881
+30,Studzienice,Dworska 06A/59,54-283
+31,Czeladź,Świętojańska 46A/40,43-853
