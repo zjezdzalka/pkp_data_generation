@@ -1,0 +1,21 @@
+1,Pesa,Częstochowa
+2,Newag,Legnica
+3,Alstom Konstal,Kościerzyna
+4,H.Cegielski - Fabryka Pojazdów Szynowych,Włocławek
+5,ZNTK Mińsk Mazowiecki,Lębork
+6,ZNTK Poznań,Wejherowo
+7,ZNTK Radom,Wyszków
+8,ZNTK Nowy Sącz,Olkusz
+9,ZNTK Oleśnica,Kłobuck
+10,ZNTK Gdańsk,Lubin
+11,ZNTK Jaworzyna Śląska,Kraków
+12,ZNTK Zakopane,Szczawin
+13,Pafawag,Starachowice
+14,FPS Łabędy,Radomsko
+15,HCP Szczecin,Magdalenka
+16,Konstal,Krapkowice
+17,Bombardier Transportation Polska,Tarnowskie Góry
+18,Siemens Mobility Polska,Giżycko
+19,Stadler Polska,Jawor
+20,Skoda Transportation Polska,Łowicz
+21,CAF Polska,Piła
