@@ -31,20 +31,21 @@
             $str .= $name[$counter].","; //imie
             $str .= $name[$counter+1].","; //nazwisko
             $email = strtolower($name[$counter]).".".strtolower($name[$counter+1]).$koncowki[rand(0, count($koncowki)-1)];
-            if($i%2==0){
+            $zatrudniony = (rand(0,15)%15 != 0?1:0);
+            if($i%2==0 && $zatrudniony){
                 $str .= "19".","; //stanowisko
                 array_push($maszynisci, $i+1);
             }
             else{
                 $stanowisko = $faker->numberBetween(3,23);
                 $str .= $stanowisko.","; //stanowisko
-                if($stanowisko == 23){
+                if($stanowisko == 23 && $zatrudniony){
                     array_push($baza_taborowa, $i+1);
                 }
-                else if($stanowisko == 22){
+                else if($stanowisko == 22 && $zatrudniony){
                     array_push($nieruchomosci, $i+1);
                 }
-                else if($stanowisko == 19){
+                else if($stanowisko == 19 && $zatrudniony){
                     array_push($maszynisci, $i+1);
                 }
             }
@@ -55,7 +56,7 @@
             $str .= ",";
             $str .= $faker->numberBetween(1,31).","; // oddział
             $str .= $email.","; // email
-            $str .= (rand(0,15)%15 != 0?1:0); //zatrudniony
+            $str .= $zatrudniony; //zatrudniony
             echo $str;
         echo "</div>";
     }
