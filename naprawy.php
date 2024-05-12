@@ -8,9 +8,9 @@
 <body>
     <?php
     require_once 'vendor/autoload.php';
-    $uszkodzony = ["SM42Dn-001","EP09-002","SA103-002","36WEhd-002","48We-002","33We-001","ED74-002","EP07-002","EN71-002","SA106-007","EU160-003","ET22-002","SM42-002","36WEhd-006","EU160-005","EP07-003","E4MSUa-004","EP09-005","SA106-010","SM42-003","SM42-004","EN57AKM-003","EN78-004","ED74-006","SA103-012","EN76-009","48We-008","EU160-009","EU160-010","EP07-008","E4MSUa-007","SA106-015","ED74-009","SA133-009","EN57AKM-007","EN78-011","EN71-014","SA103-016","SM42-007","EP07-009","33We-011","33We-012","SA133-014","EN78-013","SA103-017","SA103-018","48We-010","33We-015","EN57AL-009","33We-017","EN78-018","SA103-021","ED250-011","SM42-011","SA106-021","E4MSUa-015","EN71-017","SA103-023","EN78-022","36WEhd-017","EN57AL-011","36WEhd-018","EU160-014","EN76-016","SM42Dn-012","SA106-025","SA106-027","EN71-021","48We-018","EU160-019","EN76-022","EN76-023","EN78-025","ED160-015"];
-    $w_naprawie = ["EU160-001","EN76-002","36WEhd-001","SA106-002","EN57AL-001","SA103-001","48We-001","SA106-003","E4MSUa-002","ET22-001","36WEhd-005","48We-005","SA133-003","SA103-004","EN76-005","SA103-007","SM42Dn-004","EN78-005","EN57AL-004","ED160-004","ED250-004","48We-007","EP09-007","SA106-013","ET22-006","EN78-008","EN57AKM-005","EN76-012","ED74-010","SA133-010","EN71-013","ED160-008","EN57AKM-009","EN78-012","SA133-011","SA133-012","SM42-008","33We-014","48We-011","SM42Dn-009","SM42-010","SA133-016","EP09-010","48We-013","SA103-022","ED74-013","EP07-014","ED74-014","ET22-009","EP07-016","SA106-023","EP09-013","EP07-017","SM42Dn-011","ED160-012","ED250-014","48We-016","EN71-019","SM42-015","48We-017","EN57AKM-013","ED250-017","33We-020","33We-021","SA103-031","EP09-017","E4MSUa-017","SM42-016","EN57AKM-017","SA103-032","EU160-018","ET22-012","EP09-019"];
-    $po_naprawie = ["EN78-001","EN71-001","E4MSUa-001","EN57AKM-002","SA106-005","36WEhd-004","SA106-006","SA133-002","EU160-004","33We-003","EP09-004","SA103-005","SA103-006","EN78-002","SA106-012","E4MSUa-005","EP07-004","EN78-006","EP07-005","EN78-007","EP07-006","EP09-008","36WEhd-010","EP07-007","36WEhd-011","SA106-014","48We-009","ED250-007","SA103-014","EN78-009","SA106-017","33We-009","SM42-006","EU160-011","E4MSUa-010","SA133-015","EU160-012","33We-016","EN78-015","E4MSUa-013","EN78-017","SA133-017","ET22-007","EP09-011","SM42-012","SM42-013","EN57AL-010","ED160-010","SA103-027","36WEhd-016","ET22-010","ED250-013","ED74-017","EN76-017","ED250-015","EN78-024","SA106-028","ED250-018","33We-022","36WEhd-019","48We-020"];
+    $uszkodzony = ["33We-001","EN78-001","EN76-001","ED160-002","EP07-002","EN57AL-001","EU160-002","SM42Dn-002","SA106-003","E4MSUa-004","EP07-004","ET22-005","ED160-004","48We-004","E4MSUa-005","EN76-005","SA103-003","36WEhd-002","SA103-004","EN71-004","EN57AKM-007","E4MSUa-007","ED74-005","SA103-008","SM42Dn-007","EN71-010","ED74-007","SM42Dn-008","EP09-009","ED74-009","SA133-012","EP07-007","SA106-009","ED160-012","ED74-010","48We-013","SM42Dn-012","ED250-011","EU160-009","SM42-012","EP07-010","33We-006","ET22-010","SA106-013","48We-015","SA103-012","SM42Dn-014","SA133-019","33We-007","ED160-018","EN57AL-018","36WEhd-013","SA106-019","SA133-022","EN71-020","EU160-014","EP07-012","ED250-021","ED74-017","33We-009","EN71-023","EN71-025","SM42-019","E4MSUa-022","SM42Dn-019","EU160-015","48We-021","EN57AL-025"];
+    $w_naprawie = ["SA133-001","ET22-002","SA106-002","SA133-005","EP09-004","48We-003","EP09-005","ET22-004","EU160-004","E4MSUa-003","EN76-004","ED250-005","EP09-008","EN71-003","EN57AL-008","SM42Dn-004","EN78-007","EN78-009","EN78-010","ED74-004","48We-008","ED160-007","SA106-005","EN57AKM-009","EN78-012","SA106-006","E4MSUa-009","SM42-005","48We-009","36WEhd-006","ED74-008","SM42Dn-009","SA133-011","EN57AKM-013","SA103-010","ED250-008","SA133-013","48We-012","E4MSUa-011","33We-004","E4MSUa-014","SA106-012","ED160-014","ED250-012","EN76-011","ED160-015","EP09-013","EN57AKM-020","ED74-012","48We-014","EN78-016","ED250-015","36WEhd-009","E4MSUa-017","ED160-017","SA103-013","ED74-015","ET22-014","EU160-011","SA133-020","48We-017","ED74-016","ED160-020","EU160-013","EN71-021","SM42-016","EP07-013","ET22-016","ED160-021","EN78-021","33We-012","EN78-022","SA133-024",];
+    $po_naprawie = ["SM42Dn-001","EN78-002","48We-001","EU160-003","ED74-002","SM42Dn-003","ED250-003","EN57AL-004","EN57AKM-002","EU160-005","EU160-006","SA106-004","EN57AL-009","EN78-006","EN57AKM-005","EN71-006","EN71-008","SM42-007","SA103-007","EP07-006","EN57AKM-011","EN57AKM-012","ET22-008","SA133-010","EN76-007","ED160-011","36WEhd-007","EN57AL-012","EN78-014","EN71-012","EN57AKM-015","EN57AKM-016","SA106-011","EP09-011","SA133-015","EN71-013","EP09-012","EN71-015","ET22-011","ED74-013","ED250-014","EN76-013","SM42Dn-013","EN76-015","SA133-021","SM42Dn-016","E4MSUa-018","ED250-017","48We-018","EN78-018","SA103-016","36WEhd-015","48We-019","33We-011","ET22-017","EN78-019","EN57AL-023","EN57AL-024","SA103-020","48We-022",];
     $status = ["nie rozpoczęte", "w naprawie", "po naprawie"];
     $przyczyny = [
         "zużycie mechaniczne",
@@ -29,7 +29,7 @@
         "uszkodzenia spowodowane uderzeniami",
         "defekty fabryczne lub wadliwe części"
     ];
-    $baza_taborowa = [36,100,134,162,170,180,242,344,356,368,380,410,448];
+    $baza_taborowa = [10,18,40,92,168,206,300,304,404,432,494];
     echo "generation start:";
     $id = 1;
     for($i=0;$i<(count($uszkodzony));++$i){
@@ -57,7 +57,7 @@
             $str .= $miejsce_uszkodzenia.","; // miejsce uszkodzenia
             $przyczyna = $faker->numberBetween(0,14);
             $str .= $przyczyny[$przyczyna]; // przyczyna
-            $odpowiedzialnyPracownik = $faker->numberBetween(0,12); // pracownik odpowiedzialny za naprawe
+            $odpowiedzialnyPracownik = $faker->numberBetween(0,count($baza_taborowa)-1); // pracownik odpowiedzialny za naprawe
             $str .= ",".$baza_taborowa[$odpowiedzialnyPracownik];
             echo $str;
         echo "</div>";
@@ -88,7 +88,7 @@
             $str .= $miejsce_uszkodzenia.","; // miejsce uszkodzenia
             $przyczyna = $faker->numberBetween(0,14);
             $str .= $przyczyny[$przyczyna]; // przyczyna
-            $odpowiedzialnyPracownik = $faker->numberBetween(0,12); // pracownik odpowiedzialny za naprawe
+            $odpowiedzialnyPracownik = $faker->numberBetween(0,count($baza_taborowa)-1); // pracownik odpowiedzialny za naprawe
             $str .= ",".$baza_taborowa[$odpowiedzialnyPracownik];
             echo $str;
         echo "</div>";
@@ -118,7 +118,7 @@
             $str .= $miejsce_uszkodzenia.","; // miejsce uszkodzenia
             $przyczyna = $faker->numberBetween(0,14);
             $str .= $przyczyny[$przyczyna]; // przyczyna
-            $odpowiedzialnyPracownik = $faker->numberBetween(0,12); // pracownik odpowiedzialny za naprawe
+            $odpowiedzialnyPracownik = $faker->numberBetween(0,count($baza_taborowa)-1); // pracownik odpowiedzialny za naprawe
             $str .= ",".$baza_taborowa[$odpowiedzialnyPracownik];
             echo $str;
         echo "</div>";
@@ -148,7 +148,7 @@
             $str .= $miejsce_uszkodzenia.","; // miejsce uszkodzenia
             $przyczyna = $faker->numberBetween(0,14);
             $str .= $przyczyny[$przyczyna]; // przyczyna
-            $odpowiedzialnyPracownik = $faker->numberBetween(0,12); // pracownik odpowiedzialny za naprawe
+            $odpowiedzialnyPracownik = $faker->numberBetween(0,count($baza_taborowa)-1); // pracownik odpowiedzialny za naprawe
             $str .= ",".$baza_taborowa[$odpowiedzialnyPracownik];
             echo $str;
         echo "</div>";
@@ -178,7 +178,7 @@
             $str .= $miejsce_uszkodzenia.","; // miejsce uszkodzenia
             $przyczyna = $faker->numberBetween(0,14);
             $str .= $przyczyny[$przyczyna]; // przyczyna
-            $odpowiedzialnyPracownik = $faker->numberBetween(0,12); // pracownik odpowiedzialny za naprawe
+            $odpowiedzialnyPracownik = $faker->numberBetween(0,count($baza_taborowa)-1); // pracownik odpowiedzialny za naprawe
             $str .= ",".$baza_taborowa[$odpowiedzialnyPracownik];
             echo $str;
         echo "</div>";
@@ -208,7 +208,7 @@
             $str .= $miejsce_uszkodzenia.","; // miejsce uszkodzenia
             $przyczyna = $faker->numberBetween(0,14);
             $str .= $przyczyny[$przyczyna]; // przyczyna
-            $odpowiedzialnyPracownik = $faker->numberBetween(0,12); // pracownik odpowiedzialny za naprawe
+            $odpowiedzialnyPracownik = $faker->numberBetween(0,count($baza_taborowa)-1); // pracownik odpowiedzialny za naprawe
             $str .= ",".$baza_taborowa[$odpowiedzialnyPracownik];
             echo $str;
         echo "</div>";
