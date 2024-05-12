@@ -1,0 +1,427 @@
+SA133-001,2002,w naprawie,2019-09-30,spalinowy
+EU160-001,1993,złomowany,2015-04-09,elektryczny
+ET22-001,2012,nowy,2016-12-11,elektryczny
+33We-001,1980,uszkodzony,2018-04-25,spalinowy
+EP07-001,1989,w trakcie złomowania,2014-11-22,spalinowy
+ED160-001,2006,nowy,2020-07-08,elektryczno-spalinowy
+SM42-001,2005,nowy,2018-01-22,elektryczno-spalinowy
+EN78-001,2000,uszkodzony,2015-04-05,elektryczny
+EN57AKM-001,2002,w trakcie złomowania,2020-07-05,spalinowy
+SA133-002,1993,nowy,2018-09-18,spalinowy
+ET22-002,2013,w naprawie,2020-06-02,elektryczny
+EN76-001,2011,uszkodzony,2015-06-24,elektryczny
+EP09-001,1997,nowy,2017-12-14,elektryczno-spalinowy
+SA133-003,2007,w trakcie złomowania,2019-08-19,spalinowy
+ED160-002,1985,uszkodzony,2015-10-04,elektryczno-spalinowy
+EP09-002,1995,w trakcie złomowania,2019-01-25,elektryczno-spalinowy
+EN76-002,2012,nowy,2015-07-06,elektryczny
+ED250-001,1995,nowy,2019-02-26,elektryczny
+ED74-001,1998,w trakcie złomowania,2020-05-05,spalinowy
+EN76-003,2004,nowy,2019-07-14,elektryczny
+SA106-001,2004,w trakcie złomowania,2020-11-17,elektryczny
+ET22-003,1995,złomowany,2018-12-27,elektryczny
+EP09-003,1993,w trakcie złomowania,2016-04-07,elektryczno-spalinowy
+EP07-002,2003,uszkodzony,2016-04-22,spalinowy
+SM42Dn-001,2004,po naprawie,2020-02-03,spalinowy
+EN78-002,1991,po naprawie,2018-09-17,elektryczny
+EN57AL-001,2011,uszkodzony,2014-01-29,elektryczno-spalinowy
+E4MSUa-001,1981,w trakcie złomowania,2015-10-13,elektryczno-spalinowy
+48We-001,1986,po naprawie,2018-06-06,elektryczno-spalinowy
+SA133-004,2009,złomowany,2016-11-05,spalinowy
+ED250-002,1986,w trakcie złomowania,2017-12-30,elektryczny
+EN78-003,2001,w trakcie złomowania,2017-03-21,elektryczny
+EP07-003,1999,złomowany,2015-01-10,spalinowy
+EU160-002,1988,uszkodzony,2017-07-19,elektryczny
+48We-002,2007,złomowany,2016-12-26,elektryczno-spalinowy
+SM42Dn-002,2014,uszkodzony,2020-06-24,spalinowy
+EN71-001,2001,złomowany,2016-03-14,elektryczny
+SA106-002,1992,w naprawie,2020-10-06,elektryczny
+EU160-003,1994,po naprawie,2020-10-09,elektryczny
+ED160-003,2013,nowy,2014-07-26,elektryczno-spalinowy
+E4MSUa-002,1990,nowy,2018-01-06,elektryczno-spalinowy
+SA133-005,2014,w naprawie,2019-04-22,spalinowy
+EN57AL-002,2012,w trakcie złomowania,2017-07-25,elektryczno-spalinowy
+EP09-004,2008,w naprawie,2015-03-30,elektryczno-spalinowy
+EN71-002,2009,złomowany,2016-01-29,elektryczny
+ED74-002,2010,po naprawie,2018-02-02,spalinowy
+48We-003,2001,w naprawie,2018-07-09,elektryczno-spalinowy
+SA106-003,1980,uszkodzony,2019-02-08,elektryczny
+EP09-005,1999,w naprawie,2020-09-08,elektryczno-spalinowy
+ET22-004,1993,w naprawie,2020-01-27,elektryczny
+EU160-004,2011,w naprawie,2020-07-10,elektryczny
+SM42Dn-003,2000,po naprawie,2019-10-11,spalinowy
+EN57AL-003,1987,w trakcie złomowania,2019-10-04,elektryczno-spalinowy
+E4MSUa-003,2002,w naprawie,2019-06-10,elektryczno-spalinowy
+SA103-001,1982,złomowany,2019-09-13,elektryczno-spalinowy
+EN76-004,1996,w naprawie,2016-02-10,elektryczny
+ED250-003,1994,po naprawie,2019-02-14,elektryczny
+SA133-006,2004,nowy,2018-04-05,spalinowy
+E4MSUa-004,1990,uszkodzony,2019-10-01,elektryczno-spalinowy
+ED250-004,2007,w trakcie złomowania,2015-07-08,elektryczny
+ED250-005,2004,w naprawie,2014-06-13,elektryczny
+EP09-006,2010,złomowany,2020-12-23,elektryczno-spalinowy
+EP07-004,1997,uszkodzony,2019-06-21,spalinowy
+ET22-005,1983,uszkodzony,2019-01-19,elektryczny
+ED160-004,2011,uszkodzony,2020-02-28,elektryczno-spalinowy
+EP09-007,1992,złomowany,2019-12-09,elektryczno-spalinowy
+48We-004,2010,uszkodzony,2015-08-03,elektryczno-spalinowy
+48We-005,1982,nowy,2015-04-06,elektryczno-spalinowy
+EP09-008,1989,w naprawie,2020-06-20,elektryczno-spalinowy
+EN71-003,1984,w naprawie,2018-05-14,elektryczny
+EN57AL-004,1993,po naprawie,2018-02-12,elektryczno-spalinowy
+EN57AKM-002,2001,po naprawie,2017-01-29,spalinowy
+EN57AKM-003,1985,złomowany,2016-05-07,spalinowy
+E4MSUa-005,1990,uszkodzony,2019-06-07,elektryczno-spalinowy
+SA103-002,2001,nowy,2014-05-22,elektryczno-spalinowy
+EN57AL-005,2012,nowy,2019-01-12,elektryczno-spalinowy
+EU160-005,1996,po naprawie,2014-04-08,elektryczny
+EU160-006,2002,po naprawie,2018-11-01,elektryczny
+EN76-005,1982,uszkodzony,2014-10-28,elektryczny
+ED74-003,1999,złomowany,2020-04-23,spalinowy
+EN78-004,1985,nowy,2016-05-05,elektryczny
+EN57AL-006,2007,w trakcie złomowania,2018-07-14,elektryczno-spalinowy
+SA103-003,1987,uszkodzony,2019-12-25,elektryczno-spalinowy
+EP07-005,1987,w trakcie złomowania,2015-05-03,spalinowy
+EN57AL-007,1985,nowy,2018-03-24,elektryczno-spalinowy
+EN78-005,2008,w trakcie złomowania,2019-04-27,elektryczny
+SA106-004,1983,po naprawie,2015-12-07,elektryczny
+EN57AL-008,1990,w naprawie,2019-05-24,elektryczno-spalinowy
+36WEhd-001,1991,w trakcie złomowania,2016-03-03,spalinowy
+EN57AL-009,1987,po naprawie,2017-08-08,elektryczno-spalinowy
+EN78-006,1993,po naprawie,2020-07-20,elektryczny
+36WEhd-002,1989,uszkodzony,2018-11-06,spalinowy
+SA103-004,2000,uszkodzony,2020-12-03,elektryczno-spalinowy
+EN71-004,2012,uszkodzony,2020-10-30,elektryczny
+SM42Dn-004,1997,w naprawie,2019-12-27,spalinowy
+EN78-007,1996,w naprawie,2016-07-12,elektryczny
+ED160-005,2009,złomowany,2017-08-17,elektryczno-spalinowy
+48We-006,2003,złomowany,2014-02-08,elektryczno-spalinowy
+EN57AKM-004,1999,w trakcie złomowania,2017-01-27,spalinowy
+EN57AKM-005,1993,po naprawie,2014-08-07,spalinowy
+ED250-006,1987,w trakcie złomowania,2015-12-26,elektryczny
+EN71-005,2002,złomowany,2018-12-13,elektryczny
+EN78-008,1999,nowy,2019-12-12,elektryczny
+ED160-006,1989,nowy,2016-11-11,elektryczno-spalinowy
+EN78-009,2007,w naprawie,2017-12-01,elektryczny
+ET22-006,1998,złomowany,2015-12-30,elektryczny
+ET22-007,2009,w trakcie złomowania,2017-06-30,elektryczny
+EN76-006,2013,złomowany,2016-07-19,elektryczny
+48We-007,1990,złomowany,2019-09-05,elektryczno-spalinowy
+E4MSUa-006,2010,w trakcie złomowania,2014-07-10,elektryczno-spalinowy
+EN71-006,1998,po naprawie,2015-07-09,elektryczny
+SA133-007,1981,nowy,2015-06-08,spalinowy
+EN71-007,2000,nowy,2016-02-02,elektryczny
+SA133-008,2001,złomowany,2018-06-23,spalinowy
+EN57AKM-006,2009,nowy,2018-02-25,spalinowy
+EN78-010,1994,w naprawie,2015-05-08,elektryczny
+EN78-011,1981,w trakcie złomowania,2017-11-16,elektryczny
+SM42-002,2000,złomowany,2017-06-17,elektryczno-spalinowy
+SA103-005,2003,złomowany,2019-09-14,elektryczno-spalinowy
+ED74-004,2000,w naprawie,2014-10-22,spalinowy
+EN57AKM-007,1991,uszkodzony,2014-09-01,spalinowy
+36WEhd-003,1990,nowy,2014-04-30,spalinowy
+SA133-009,1995,złomowany,2017-06-02,spalinowy
+36WEhd-004,1995,złomowany,2019-05-22,spalinowy
+48We-008,2009,w naprawie,2014-05-18,elektryczno-spalinowy
+SM42-003,2013,nowy,2016-03-14,elektryczno-spalinowy
+EN57AKM-008,2010,w trakcie złomowania,2018-02-13,spalinowy
+ED160-007,2001,w naprawie,2019-03-03,elektryczno-spalinowy
+SA106-005,2006,w naprawie,2014-10-28,elektryczny
+36WEhd-005,1980,w trakcie złomowania,2016-12-07,spalinowy
+EN57AKM-009,2007,w naprawie,2020-09-23,spalinowy
+SA103-006,1996,w trakcie złomowania,2014-11-10,elektryczno-spalinowy
+E4MSUa-007,2002,uszkodzony,2015-06-09,elektryczno-spalinowy
+SM42Dn-005,2012,w trakcie złomowania,2019-05-06,spalinowy
+ED74-005,2008,uszkodzony,2020-11-30,spalinowy
+EN78-012,2014,w naprawie,2015-12-03,elektryczny
+EN57AKM-010,1989,złomowany,2019-05-17,spalinowy
+E4MSUa-008,2009,nowy,2019-04-24,elektryczno-spalinowy
+SA106-006,1988,w naprawie,2019-08-30,elektryczny
+E4MSUa-009,1993,w naprawie,2018-11-30,elektryczno-spalinowy
+SM42-004,2005,w trakcie złomowania,2020-10-12,elektryczno-spalinowy
+SM42Dn-006,2011,w trakcie złomowania,2017-10-06,spalinowy
+EN71-008,1998,po naprawie,2019-01-06,elektryczny
+SM42-005,2013,w naprawie,2019-06-17,elektryczno-spalinowy
+SM42-006,1995,złomowany,2020-08-03,elektryczno-spalinowy
+SM42-007,2006,po naprawie,2017-04-09,elektryczno-spalinowy
+SA103-007,1982,po naprawie,2018-03-07,elektryczno-spalinowy
+33We-002,2001,złomowany,2014-08-19,spalinowy
+SA103-008,2003,uszkodzony,2019-07-30,elektryczno-spalinowy
+ED250-007,1981,nowy,2018-12-21,elektryczny
+SM42-008,2013,w trakcie złomowania,2014-01-26,elektryczno-spalinowy
+SM42Dn-007,1987,uszkodzony,2018-08-14,spalinowy
+EN78-013,1980,złomowany,2016-03-07,elektryczny
+ED160-008,1994,nowy,2020-01-28,elektryczno-spalinowy
+EN57AL-010,1982,nowy,2020-02-01,elektryczno-spalinowy
+EN71-009,2012,złomowany,2018-06-07,elektryczny
+EP07-006,1990,po naprawie,2018-04-04,spalinowy
+ED74-006,1997,nowy,2014-11-05,spalinowy
+48We-009,2008,w naprawie,2018-07-16,elektryczno-spalinowy
+EN71-010,1980,uszkodzony,2015-08-29,elektryczny
+ED74-007,1988,uszkodzony,2015-12-02,spalinowy
+36WEhd-006,2010,w naprawie,2015-01-26,spalinowy
+EN57AKM-011,1994,po naprawie,2016-10-27,spalinowy
+ED74-008,1983,w naprawie,2016-08-21,spalinowy
+SA103-009,1986,nowy,2017-05-12,elektryczno-spalinowy
+EN57AL-011,1988,złomowany,2017-09-22,elektryczno-spalinowy
+EU160-007,2002,złomowany,2020-08-14,elektryczny
+EN57AKM-012,1980,po naprawie,2017-08-14,spalinowy
+ET22-008,2009,po naprawie,2014-03-23,elektryczny
+48We-010,2011,złomowany,2014-04-18,elektryczno-spalinowy
+ED160-009,1985,złomowany,2019-07-06,elektryczno-spalinowy
+SM42Dn-008,2009,uszkodzony,2017-10-21,spalinowy
+E4MSUa-010,1982,złomowany,2014-09-27,elektryczno-spalinowy
+SM42Dn-009,1990,w naprawie,2018-10-22,spalinowy
+EN71-011,1989,nowy,2014-05-07,elektryczny
+EP09-009,1980,uszkodzony,2016-06-09,elektryczno-spalinowy
+SA133-010,1982,po naprawie,2020-08-15,spalinowy
+SA133-011,1984,w naprawie,2014-04-07,spalinowy
+48We-011,1988,złomowany,2019-09-02,elektryczno-spalinowy
+EN57AKM-013,1998,w naprawie,2016-05-15,spalinowy
+ED74-009,2003,uszkodzony,2016-05-29,spalinowy
+EN76-007,2012,po naprawie,2019-08-23,elektryczny
+SA103-010,1997,w naprawie,2017-05-07,elektryczno-spalinowy
+ED160-010,1990,nowy,2020-06-11,elektryczno-spalinowy
+ED250-008,2000,w naprawie,2016-05-04,elektryczny
+SM42-009,1982,złomowany,2015-01-18,elektryczno-spalinowy
+ED160-011,1985,po naprawie,2015-04-15,elektryczno-spalinowy
+SA133-012,1981,uszkodzony,2016-01-11,spalinowy
+EP07-007,2008,uszkodzony,2019-10-25,spalinowy
+36WEhd-007,2007,po naprawie,2014-06-12,spalinowy
+SM42-010,2002,złomowany,2015-12-26,elektryczno-spalinowy
+SA133-013,1987,w naprawie,2020-12-24,spalinowy
+EP07-008,1989,nowy,2019-06-02,spalinowy
+EN57AL-012,2011,po naprawie,2020-08-11,elektryczno-spalinowy
+SA106-007,2004,nowy,2020-04-23,elektryczny
+EN78-014,1997,po naprawie,2020-02-18,elektryczny
+33We-003,1986,złomowany,2014-03-02,spalinowy
+SA106-008,2001,nowy,2018-12-25,elektryczny
+EN57AKM-014,1993,nowy,2015-11-08,spalinowy
+SA106-009,1983,uszkodzony,2014-03-19,elektryczny
+ED160-012,2007,uszkodzony,2015-11-19,elektryczno-spalinowy
+48We-012,2007,w naprawie,2018-02-23,elektryczno-spalinowy
+EP07-009,2010,złomowany,2016-05-07,spalinowy
+E4MSUa-011,2008,w naprawie,2017-04-17,elektryczno-spalinowy
+EN71-012,1985,po naprawie,2015-08-26,elektryczny
+EN76-008,2013,złomowany,2014-09-25,elektryczny
+SA103-011,1993,nowy,2016-04-05,elektryczno-spalinowy
+E4MSUa-012,1999,złomowany,2014-03-03,elektryczno-spalinowy
+SM42Dn-010,2011,nowy,2017-03-14,spalinowy
+SA106-010,1995,nowy,2016-04-20,elektryczny
+ED74-010,1981,uszkodzony,2018-07-31,spalinowy
+SA133-014,2012,złomowany,2017-12-12,spalinowy
+EP09-010,2001,nowy,2016-02-20,elektryczno-spalinowy
+EN57AKM-015,1983,po naprawie,2014-06-13,spalinowy
+EN57AKM-016,1996,po naprawie,2014-02-27,spalinowy
+SA106-011,2012,po naprawie,2020-11-13,elektryczny
+ED250-009,2014,złomowany,2014-05-26,elektryczny
+EN76-009,2010,w trakcie złomowania,2015-04-08,elektryczny
+E4MSUa-013,2001,nowy,2017-05-10,elektryczno-spalinowy
+ED160-013,1987,złomowany,2015-05-29,elektryczno-spalinowy
+SM42Dn-011,1980,nowy,2017-12-17,spalinowy
+33We-004,1987,w naprawie,2018-11-17,spalinowy
+EN57AKM-017,1991,nowy,2015-02-12,spalinowy
+E4MSUa-014,1988,w naprawie,2019-07-30,elektryczno-spalinowy
+48We-013,1992,uszkodzony,2019-03-11,elektryczno-spalinowy
+EN76-010,1987,w trakcie złomowania,2014-01-14,elektryczny
+ED250-010,1998,złomowany,2020-03-16,elektryczny
+EP09-011,1981,po naprawie,2015-03-07,elektryczno-spalinowy
+EN57AKM-018,2007,złomowany,2014-11-25,spalinowy
+SA133-015,2014,po naprawie,2016-05-22,spalinowy
+SM42Dn-012,2005,uszkodzony,2020-08-09,spalinowy
+ED250-011,1997,uszkodzony,2015-05-30,elektryczny
+E4MSUa-015,1982,nowy,2015-08-19,elektryczno-spalinowy
+SA106-012,2009,w naprawie,2015-01-22,elektryczny
+EN71-013,1985,po naprawie,2015-06-01,elektryczny
+ET22-009,1994,w trakcie złomowania,2016-06-13,elektryczny
+ED160-014,2001,w naprawie,2016-02-28,elektryczno-spalinowy
+EN57AKM-019,1990,złomowany,2017-04-30,spalinowy
+SA133-016,2014,złomowany,2016-10-31,spalinowy
+EU160-008,1984,nowy,2015-03-17,elektryczny
+EP09-012,2000,po naprawie,2014-04-18,elektryczno-spalinowy
+SM42-011,2004,złomowany,2015-04-16,elektryczno-spalinowy
+ED250-012,2012,w naprawie,2017-09-11,elektryczny
+ED250-013,1996,w trakcie złomowania,2017-08-07,elektryczny
+EN76-011,2005,w naprawie,2018-01-06,elektryczny
+EU160-009,1998,uszkodzony,2016-05-15,elektryczny
+33We-005,1997,złomowany,2020-12-05,spalinowy
+SM42-012,1983,uszkodzony,2019-01-19,elektryczno-spalinowy
+SA133-017,1995,złomowany,2015-01-27,spalinowy
+EN71-014,2011,nowy,2017-11-21,elektryczny
+EP07-010,2005,uszkodzony,2016-11-13,spalinowy
+ED160-015,1999,w naprawie,2017-08-14,elektryczno-spalinowy
+ED74-011,1994,w trakcie złomowania,2020-09-16,spalinowy
+ED160-016,2002,w trakcie złomowania,2018-05-26,elektryczno-spalinowy
+EN71-015,1987,po naprawie,2016-02-29,elektryczny
+36WEhd-008,2002,złomowany,2014-04-02,spalinowy
+EP09-013,1987,w naprawie,2018-01-14,elektryczno-spalinowy
+33We-006,1998,uszkodzony,2019-11-24,spalinowy
+EN57AKM-020,1989,w naprawie,2014-12-20,spalinowy
+EN71-016,1996,w trakcie złomowania,2018-10-17,elektryczny
+ED74-012,1988,w naprawie,2020-12-09,spalinowy
+EU160-010,2004,złomowany,2015-08-30,elektryczny
+ET22-010,2014,uszkodzony,2016-04-21,elektryczny
+EN76-012,2003,złomowany,2015-08-05,elektryczny
+48We-014,2000,w naprawie,2018-06-20,elektryczno-spalinowy
+ET22-011,1980,po naprawie,2019-07-28,elektryczny
+ED74-013,2002,po naprawie,2019-08-21,spalinowy
+EN57AKM-021,2007,złomowany,2018-05-02,spalinowy
+ED250-014,1989,po naprawie,2020-08-01,elektryczny
+SA106-013,2010,uszkodzony,2017-05-29,elektryczny
+EN71-017,1991,w trakcie złomowania,2016-12-29,elektryczny
+EN71-018,2008,w trakcie złomowania,2020-12-15,elektryczny
+48We-015,1998,uszkodzony,2015-03-21,elektryczno-spalinowy
+EN57AL-013,2006,nowy,2019-01-26,elektryczno-spalinowy
+EN78-015,2009,nowy,2016-03-09,elektryczny
+EN76-013,2000,po naprawie,2020-09-18,elektryczny
+ED74-014,1993,nowy,2015-11-19,spalinowy
+E4MSUa-016,1991,złomowany,2017-02-25,elektryczno-spalinowy
+EN57AL-014,2009,złomowany,2014-06-16,elektryczno-spalinowy
+EP09-014,2011,w trakcie złomowania,2018-09-12,elektryczno-spalinowy
+EN78-016,2001,w naprawie,2016-06-11,elektryczny
+ED250-015,1989,w naprawie,2016-11-17,elektryczny
+36WEhd-009,1995,w naprawie,2016-12-21,spalinowy
+SA133-018,1981,w trakcie złomowania,2015-10-14,spalinowy
+EN78-017,1981,złomowany,2018-05-05,elektryczny
+36WEhd-010,2011,złomowany,2020-10-27,spalinowy
+SA103-012,2010,uszkodzony,2020-12-19,elektryczno-spalinowy
+ET22-012,1980,nowy,2018-02-18,elektryczny
+SM42Dn-013,1999,po naprawie,2014-03-02,spalinowy
+EN76-014,2008,złomowany,2017-09-28,elektryczny
+SA106-014,1984,w trakcie złomowania,2018-04-28,elektryczny
+SM42-013,2003,złomowany,2014-12-10,elektryczno-spalinowy
+EN57AL-015,2008,w trakcie złomowania,2015-12-18,elektryczno-spalinowy
+E4MSUa-017,1983,w naprawie,2019-10-08,elektryczno-spalinowy
+EN76-015,1988,po naprawie,2015-08-10,elektryczny
+SA106-015,1989,nowy,2018-08-12,elektryczny
+SA106-016,2011,w trakcie złomowania,2017-10-21,elektryczny
+ED160-017,1986,w naprawie,2017-10-11,elektryczno-spalinowy
+SA103-013,2002,w naprawie,2016-11-04,elektryczno-spalinowy
+ED74-015,1992,w naprawie,2018-12-30,spalinowy
+SM42Dn-014,1990,uszkodzony,2018-08-09,spalinowy
+EN57AL-016,1985,w trakcie złomowania,2018-07-04,elektryczno-spalinowy
+EN71-019,1984,złomowany,2014-11-08,elektryczny
+ET22-013,1989,w trakcie złomowania,2016-10-23,elektryczny
+ET22-014,1990,w naprawie,2018-03-10,elektryczny
+SM42-014,2012,w trakcie złomowania,2014-09-08,elektryczno-spalinowy
+SA133-019,2006,uszkodzony,2017-06-14,spalinowy
+EU160-011,1991,w naprawie,2017-02-03,elektryczny
+48We-016,1991,w trakcie złomowania,2017-06-19,elektryczno-spalinowy
+SA133-020,1987,w naprawie,2015-06-30,spalinowy
+33We-007,1997,uszkodzony,2015-08-17,spalinowy
+EN57AL-017,2006,w trakcie złomowania,2014-09-28,elektryczno-spalinowy
+SM42-015,2005,nowy,2017-04-07,elektryczno-spalinowy
+EP07-011,1997,w trakcie złomowania,2020-02-29,spalinowy
+SA133-021,2012,po naprawie,2018-06-30,spalinowy
+SA106-017,1982,nowy,2020-04-20,elektryczny
+ED160-018,1993,uszkodzony,2020-06-08,elektryczno-spalinowy
+48We-017,1983,w naprawie,2020-01-19,elektryczno-spalinowy
+ED250-016,2003,nowy,2020-05-04,elektryczny
+SA103-014,2012,nowy,2019-04-21,elektryczno-spalinowy
+SA106-018,1992,w trakcie złomowania,2018-01-18,elektryczny
+ED160-019,2004,nowy,2015-11-11,elektryczno-spalinowy
+SM42Dn-015,1998,złomowany,2014-10-28,spalinowy
+SM42Dn-016,2013,po naprawie,2016-11-27,spalinowy
+EN57AKM-022,1983,nowy,2018-11-15,spalinowy
+E4MSUa-018,2001,po naprawie,2017-09-14,elektryczno-spalinowy
+ED250-017,2013,po naprawie,2015-05-15,elektryczny
+EN57AL-018,1990,uszkodzony,2016-09-15,elektryczno-spalinowy
+36WEhd-011,2013,złomowany,2015-10-07,spalinowy
+ED74-016,2002,w naprawie,2014-06-25,spalinowy
+36WEhd-012,1997,nowy,2018-09-02,spalinowy
+36WEhd-013,2014,uszkodzony,2018-05-14,spalinowy
+SA103-015,2007,złomowany,2019-04-09,elektryczno-spalinowy
+SM42Dn-017,2012,w trakcie złomowania,2020-12-23,spalinowy
+ED160-020,1980,w naprawie,2020-08-15,elektryczno-spalinowy
+48We-018,2006,po naprawie,2016-03-15,elektryczno-spalinowy
+EN57AL-019,2011,złomowany,2016-01-25,elektryczno-spalinowy
+SA106-019,2009,uszkodzony,2018-11-30,elektryczny
+EU160-012,1981,nowy,2018-08-19,elektryczny
+SA106-020,2010,złomowany,2014-05-03,elektryczny
+SA133-022,1985,uszkodzony,2016-06-29,spalinowy
+EN71-020,1998,uszkodzony,2020-07-05,elektryczny
+E4MSUa-019,1998,w trakcie złomowania,2017-03-27,elektryczno-spalinowy
+36WEhd-014,1986,złomowany,2015-12-22,spalinowy
+EU160-013,1988,w naprawie,2016-12-05,elektryczny
+EN78-018,1987,po naprawie,2016-08-26,elektryczny
+EU160-014,2011,uszkodzony,2016-02-08,elektryczny
+SA103-016,2013,po naprawie,2014-07-21,elektryczno-spalinowy
+EP07-012,1989,uszkodzony,2017-08-20,spalinowy
+EP09-015,2000,złomowany,2014-05-01,elektryczno-spalinowy
+ED250-018,2011,w trakcie złomowania,2017-08-27,elektryczny
+E4MSUa-020,2013,w trakcie złomowania,2019-09-25,elektryczno-spalinowy
+ED250-019,1996,w trakcie złomowania,2016-03-21,elektryczny
+36WEhd-015,1985,po naprawie,2017-06-02,spalinowy
+SM42Dn-018,2008,złomowany,2019-09-01,spalinowy
+ED250-020,2012,złomowany,2014-02-16,elektryczny
+36WEhd-016,2011,nowy,2018-05-30,spalinowy
+EN71-021,1996,w naprawie,2018-05-11,elektryczny
+ED250-021,2002,uszkodzony,2014-10-23,elektryczny
+EN57AL-020,2006,złomowany,2014-03-07,elektryczno-spalinowy
+EN76-016,2010,nowy,2015-12-06,elektryczny
+EN57AL-021,2011,złomowany,2016-10-02,elektryczno-spalinowy
+48We-019,1982,po naprawie,2018-08-13,elektryczno-spalinowy
+EN76-017,1986,nowy,2014-11-28,elektryczny
+SM42-016,1991,w naprawie,2015-10-15,elektryczno-spalinowy
+EN71-022,1981,nowy,2016-10-02,elektryczny
+ED74-017,1993,uszkodzony,2014-08-22,spalinowy
+SM42-017,2002,złomowany,2017-01-14,elektryczno-spalinowy
+SA106-021,2011,w trakcie złomowania,2018-09-19,elektryczny
+33We-008,2011,w trakcie złomowania,2018-09-30,spalinowy
+E4MSUa-021,1989,złomowany,2018-06-28,elektryczno-spalinowy
+EP07-013,1984,w naprawie,2016-08-18,spalinowy
+33We-009,2001,uszkodzony,2019-08-09,spalinowy
+36WEhd-017,2003,nowy,2016-04-25,spalinowy
+EN71-023,2005,uszkodzony,2015-10-15,elektryczny
+48We-020,1990,nowy,2015-08-18,elektryczno-spalinowy
+EN76-018,1995,złomowany,2017-06-03,elektryczny
+EP07-014,1983,w trakcie złomowania,2015-01-23,spalinowy
+ET22-015,2004,w trakcie złomowania,2016-08-14,elektryczny
+ED250-022,1989,w trakcie złomowania,2015-02-11,elektryczny
+ED250-023,2004,w trakcie złomowania,2015-12-07,elektryczny
+33We-010,2006,złomowany,2016-10-04,spalinowy
+SA106-022,2014,w trakcie złomowania,2015-01-23,elektryczny
+SA106-023,2005,w trakcie złomowania,2017-04-21,elektryczny
+EN71-024,2007,złomowany,2016-05-14,elektryczny
+EN71-025,1983,uszkodzony,2014-08-26,elektryczny
+SM42-018,2000,złomowany,2018-12-20,elektryczno-spalinowy
+SA103-017,1982,w trakcie złomowania,2014-11-17,elektryczno-spalinowy
+SM42-019,1993,uszkodzony,2015-11-25,elektryczno-spalinowy
+EN76-019,1999,nowy,2019-10-21,elektryczny
+ET22-016,2008,w naprawie,2016-05-24,elektryczny
+SA106-024,1990,złomowany,2017-01-13,elektryczny
+EN57AL-022,2005,w trakcie złomowania,2017-08-09,elektryczno-spalinowy
+SA133-023,2008,złomowany,2016-01-12,spalinowy
+33We-011,2012,po naprawie,2016-05-05,spalinowy
+E4MSUa-022,2014,uszkodzony,2015-02-09,elektryczno-spalinowy
+SM42Dn-019,1993,uszkodzony,2018-07-23,spalinowy
+ET22-017,2004,po naprawie,2016-11-06,elektryczny
+EN78-019,1992,po naprawie,2018-02-27,elektryczny
+ED74-018,1983,złomowany,2016-04-12,spalinowy
+EN57AL-023,1987,po naprawie,2019-06-12,elektryczno-spalinowy
+E4MSUa-023,2001,nowy,2015-02-27,elektryczno-spalinowy
+SA103-018,1982,złomowany,2019-06-16,elektryczno-spalinowy
+ED160-021,1981,w naprawie,2017-06-07,elektryczno-spalinowy
+EN78-020,2014,w trakcie złomowania,2020-11-06,elektryczny
+36WEhd-018,1981,złomowany,2019-10-08,spalinowy
+EN78-021,1992,w naprawie,2017-10-05,elektryczny
+ED160-022,1993,złomowany,2018-05-01,elektryczno-spalinowy
+SM42-020,1996,nowy,2017-10-02,elektryczno-spalinowy
+33We-012,2013,w naprawie,2017-05-04,spalinowy
+EN78-022,1989,w naprawie,2017-01-02,elektryczny
+SM42Dn-020,1988,złomowany,2015-05-20,spalinowy
+SA103-019,1997,złomowany,2014-02-07,elektryczno-spalinowy
+EN57AL-024,2011,po naprawie,2018-12-31,elektryczno-spalinowy
+SA103-020,1994,po naprawie,2014-02-08,elektryczno-spalinowy
+ED250-024,1999,nowy,2018-04-11,elektryczny
+EP07-015,2005,w trakcie złomowania,2015-10-01,spalinowy
+ED250-025,2007,w trakcie złomowania,2018-09-06,elektryczny
+EU160-015,1994,uszkodzony,2018-04-25,elektryczny
+ED74-019,1988,w trakcie złomowania,2018-10-05,spalinowy
+48We-021,1984,uszkodzony,2017-08-10,elektryczno-spalinowy
+EU160-016,1994,złomowany,2019-08-18,elektryczny
+EN57AL-025,2010,uszkodzony,2016-03-16,elektryczno-spalinowy
+33We-013,1985,złomowany,2019-12-02,spalinowy
+SA133-024,1980,w naprawie,2016-06-25,spalinowy
+EN57AL-026,1992,złomowany,2016-02-27,elektryczno-spalinowy
+48We-022,1987,po naprawie,2016-04-14,elektryczno-spalinowy
