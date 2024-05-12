@@ -50,9 +50,20 @@
     }
     for($i=0;$i<25;$i++){
         echo "<div style='display:flex;'>";
-            echo "Linia kolejowa nr ".($i+1).":";
+            echo "[";
             for($j=0;$j<count($linie[$i]);$j++){
-                echo '"'.$linie[$i][$j].'",';
+                echo '"'.$linie[$i][$j].'"';
+                if($j != count($linie[$i])-1){
+                    echo ",";
+                }
+                else{
+                    if($i!=24){
+                        echo "],";
+                    }
+                    else{
+                        echo "]";
+                    }
+                }
             }
         echo "</div>";
     }
