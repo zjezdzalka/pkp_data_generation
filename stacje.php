@@ -10,7 +10,10 @@
     require_once 'vendor/autoload.php';
     $cities = ["Tczew","Pabianice","Świdnica","Babienica","Jadowniki","Stargard","Bogatynia","Szczawin","Marylka","Knurów","Nowe Kramsko","Kalisz","Gdynia","Bełchatów","Tarnowskie Góry","Lędziny","Ruda Śląska","Krosno","Kołobrzeg","Kolonowskie","Świnoujście","Tychy","Żyrardów","Trzebiatów","Pawłowice","Ostrowiec Świętokrzyski","Gorzów Wielkopolski","Suwałki","Lubliniec","Czarna Woda","Starogard Gdański","Ilkowice","Olsztyn","Studzienice","Bielawa","Tarnów","Brzeg","Kłobuck","Kamień","Bydgoszcz","Mielec","Piotrków Trybunalski","Legionowo","Sopot","Katowice","Mikołów","Ostrów Mazowiecka","Piaseczno","Kuźnica Masłońska","Zgorzelec"];
     $cities2 = ["Tczew","Pabianice","Świdnica","Babienica","Jadowniki","Stargard","Bogatynia","Szczawin","Marylka","Knurów","Nowe Kramsko","Kalisz","Gdynia","Bełchatów","Tarnowskie Góry","Lędziny","Ruda Śląska","Krosno","Kołobrzeg","Kolonowskie","Świnoujście","Tychy","Żyrardów","Trzebiatów","Pawłowice","Ostrowiec Świętokrzyski","Gorzów Wielkopolski","Suwałki","Lubliniec","Czarna Woda","Starogard Gdański","Ilkowice","Olsztyn","Studzienice","Bielawa","Tarnów","Brzeg","Kłobuck","Kamień","Bydgoszcz","Mielec","Piotrków Trybunalski","Legionowo","Sopot","Katowice","Mikołów","Ostrów Mazowiecka","Piaseczno","Kuźnica Masłońska","Zgorzelec"];
-    
+    $linie = [];
+    for($i=0;$i<25;$i++){
+        array_push($linie, []);
+    }
     echo "new line";
     //cities not in a LK
     for($i=0;$i<197;++$i){
@@ -24,7 +27,9 @@
             $str = ($i+1).",";//id
             $str .= $city.","; // miasto
             $str .= $faker->numberBetween(1, 31).","; // oddział
-            $str .= $faker->numberBetween(1, 25); //linia kolejowa
+            $lk = $faker->numberBetween(1, 25);
+            $str .= $lk; //linia kolejowa
+            array_push($linie[$lk-1], $city);
             echo $str; 
         echo "</div>";
     }
@@ -39,7 +44,16 @@
             $str .= $city.","; // miasto
             $str .= $faker->numberBetween(1, 31).","; // oddział
             $str .= $lk; // linia kolejowa
+            array_push($linie[$lk-1], $city);
             echo $str;
+        echo "</div>";
+    }
+    for($i=0;$i<25;$i++){
+        echo "<div style='display:flex;'>";
+            echo "Linia kolejowa nr ".($i+1).":";
+            for($j=0;$j<count($linie[$i]);$j++){
+                echo '"'.$linie[$i][$j].'",';
+            }
         echo "</div>";
     }
     ?>
