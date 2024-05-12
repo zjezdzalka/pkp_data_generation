@@ -13,6 +13,7 @@
     $maszynisci = [];
     $baza_taborowa = [];
     $nieruchomosci = [];
+    $koncowki = ["@gmail.com", "@pkp-sa.pl", "@pkp.pl", "@intercity.pl", "@ic.pl", "@ic-sa.pl", "@intercity-sa.pl"];
     for($i=0;$i<534;++$i){
         $faker = Faker\Factory::create("pl_PL");
         echo "<div style='display:flex;'>";
@@ -29,6 +30,7 @@
             }
             $str .= $name[$counter].","; //imie
             $str .= $name[$counter+1].","; //nazwisko
+            $email = strtolower($name[$counter]).".".strtolower($name[$counter+1]).$koncowki[rand(0, count($koncowki)-1)];
             if($i%2==0){
                 $str .= "19".","; //stanowisko
                 array_push($maszynisci, $i+1);
@@ -52,6 +54,7 @@
             }
             $str .= ",";
             $str .= $faker->numberBetween(1,31).","; // oddział
+            $str .= $email.","; // email
             $str .= (rand(0,15)%15 != 0?1:0); //zatrudniony
             echo $str;
         echo "</div>";
