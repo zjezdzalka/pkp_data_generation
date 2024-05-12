@@ -1,0 +1,243 @@
+1,Kamienica Królewska,Chełm,3
+2,Ilkowice,Grodzisk Mazowiecki,15
+3,Bartoszyce,Kętrzyn,8
+4,Bielawa,Poznań,14
+5,Braniewo,Starogard Gdański,18
+6,Łódź,Szwecja,6
+7,Jasło,Kamieniec Ząbkowicki,15
+8,Jastrzębie-Zdrój,Lębork,19
+9,Łoś,Babienica,11
+10,Malbork,Turek,5
+11,Grudziądz,Wilkowice,25
+12,Bartoszyce,Kutno,8
+13,Kłobuck,Września,12
+14,Swarzędz,Płazów,1
+15,Nowy Dwór Mazowiecki,Nowy Targ,10
+16,Szteklin,Józefów,20
+17,Tarnowskie Góry,Zawiercie,22
+18,Racibórz,Zgierz,10
+19,Żory,Chełm,3
+20,Września,Szczawin,12
+21,Wrocław,Chrzanów,2
+22,Studzienice,Zielona Góra,7
+23,Piaseczno,Mielec,2
+24,Pęcice,Gołubie,24
+25,Marylka,Studzienice,7
+26,Jaworzno,Konstancin-Jeziorna,14
+27,Nowa Sól,Kielce,6
+28,Kościan,Gorzów Wielkopolski,17
+29,Lublin,Września,12
+30,Zawiercie,Katowice,22
+31,Lubartów,Rzeszów,17
+32,Stargard,Poznań,14
+33,Czerwionka-Leszczyny,Lubin,11
+34,Ząbki,Szczecin,14
+35,Ostróda,Malbork,5
+36,Pawłowice,Dzierżoniów,25
+37,Kuźnica Masłońska,Czaplinek,21
+38,Ruda Śląska,Wągrowiec,4
+39,Jasło,Grodzisk Mazowiecki,15
+40,Koszalin,Jaroszowa Wola,10
+41,Kluczbork,Czarna Woda,19
+42,Koło,Rzeszów,17
+43,Kraków,Władysławowo,21
+44,Myszków,Tychy,3
+45,Ostrołęka,Piotrków Trybunalski,24
+46,Bogaczów,Szteklin,20
+47,Kolonowskie,Bogaczów,20
+48,Ostrołęka,Rumia,24
+49,Łowicz,Nowe Kramsko,22
+50,Kielce,Łomża,6
+51,Józefów,Bogaczów,20
+52,Grudziądz,Pawłowice,25
+53,Boguszów-Gorce,Postęp,13
+54,Siemianowice Śląskie,Poznań,14
+55,Wola Kiedrzyńska,Chełm,3
+56,Łowicz,Katowice,22
+57,Sieradz,Bartoszyce,8
+58,Turek,Czechowice-Dziedzice,5
+59,Ilkowice,Jasło,15
+60,Brodnica,Rzeszów,17
+61,Zborowskie,Braniewo,18
+62,Sochaczew,Józefów,20
+63,Zgorzelec,Jadowniki,16
+64,Przędzel,Żary,9
+65,Szczawin,Knurów,12
+66,Pisz,Dębica,17
+67,Szczecin,Stargard,14
+68,Bieruń,Szwecja,6
+69,Żary,Przędzel,9
+70,Suwałki,Przędzel,9
+71,Luboń,Starogard Gdański,18
+72,Bezrzecze,Pruszków,23
+73,Pawłowice,Dzierżoniów,25
+74,Sosnowiec,Czechowice-Dziedzice,5
+75,Mysłowice,Kędzierzyn-Koźle,6
+76,Sosnowiec,Malbork,5
+77,Świętochłowice,Pilchowo,10
+78,Łaziska Górne,Radom,8
+79,Stalowa Wola,Szteklin,20
+80,Szczawin,Kłobuck,12
+81,Olkusz,Lubojenka,16
+82,Trzebiatów,Chorzów,24
+83,Pilchowo,Zabrze,10
+84,Olkusz,Kwidzyn,16
+85,Konstancin-Jeziorna,Poznań,14
+86,Płock,Lędziny,21
+87,Legnica,Piekary Śląskie,23
+88,Dębogórze,Krępiec,9
+89,Zborowskie,Krotoszyn,18
+90,Magdalenka,Katowice,22
+91,Jastrzębie-Zdrój,Kluczbork,19
+92,Poznań,Ząbki,14
+93,Poznań,Konstancin-Jeziorna,14
+94,Mysłowice,Kielce,6
+95,Przędzel,Żary,9
+96,Świdnica,Pawłowice,25
+97,Łomianki,Bieruń,6
+98,Olkusz,Świdwin,16
+99,Pabianice,Bogaczów,20
+100,Stargard,Szczecin,14
+101,Płock,Inowrocław,21
+102,Bolesławiec,Ostróda,5
+103,Magdalenka,Nowe Kramsko,22
+104,Rynarzewo,Bolesławiec,5
+105,Ostrołęka,Pęcice,24
+106,Jemielnica,Kłodzko,7
+107,Pisz,Lubartów,17
+108,Jastarnia,Myszków,3
+109,Magdalenka,Nowe Kramsko,22
+110,Giżycko,Przędzel,9
+111,Grudziądz,Wilkowice,25
+112,Zamość,Szczawin,12
+113,Żywiec,Grodzisk Mazowiecki,15
+114,Czaplinek,Płock,21
+115,Gorlice,Radom,8
+116,Lubartów,Police,17
+117,Szczawin,Września,12
+118,Bochnia,Ilkowice,15
+119,Malbork,Bolesławiec,5
+120,Tczew,Leszno,13
+121,Łowicz,Nowe Kramsko,22
+122,Warszawa,Piaseczno,2
+123,Szczawin,Września,12
+124,Jadowniki,Lubojenka,16
+125,Czerwionka-Leszczyny,Szówsko,11
+126,Żywiec,Kamieniec Ząbkowicki,15
+127,Dębogórze,Żary,9
+128,Biała Podlaska,Kutno,8
+129,Przędzel,Cieszyn,9
+130,Piła,Poznań,14
+131,Wągrowiec,Ełk,4
+132,Szczecin,Poznań,14
+133,Pisz,Lubartów,17
+134,Jawor,Legionowo,4
+135,Police,Lubartów,17
+136,Bielawa,Jaworzno,14
+137,Żyrardów,Płazów,1
+138,Suwałki,Kraśnik,9
+139,Rumia,Chorzów,24
+140,Lidzbark Warmiński,Legnica,23
+141,Busko-Zdrój,Wałbrzych,24
+142,Świecie,Mysłowice,6
+143,Babienica,Czerwionka-Leszczyny,11
+144,Gdynia,Skalbmierz,10
+145,Jastarnia,Nowy Sącz,3
+146,Jeziorna,Ruda Śląska,4
+147,Zawiercie,Magdalenka,22
+148,Sanok,Ostrów Wielkopolski,23
+149,Zgorzelec,Świdwin,16
+150,Jemielnica,Lubliniec,7
+151,Myszków,Chełm,3
+152,Kłobuck,Września,12
+153,Kołobrzeg,Zborowskie,18
+154,Ciechanów,Osówiec,1
+155,Kłodzko,Ustka,7
+156,Zborowskie,Starogard Gdański,18
+157,Skalbmierz,Przemyśl,10
+158,Jastarnia,Pieszyce,3
+159,Inowrocław,Czaplinek,21
+160,Rynarzewo,Sosnowiec,5
+161,Kluczbork,Czarna Woda,19
+162,Rzeszów,Brodnica,17
+163,Ełk,Ruda Śląska,4
+164,Suwałki,Żary,9
+165,Tczew,Tarnobrzeg,13
+166,Bolesławiec,Turek,5
+167,Nowa Ruda,Gorzów Wielkopolski,17
+168,Bolesławiec,Turek,5
+169,Szteklin,Bogaczów,20
+170,Ełk,Wągrowiec,4
+171,Jasło,Bochnia,15
+172,Wejherowo,Opole,11
+173,Września,Lublin,12
+174,Krępiec,Przędzel,9
+175,Żywiec,Ilkowice,15
+176,Gliwice,Szczecinek,23
+177,Pruszków,Piekary Śląskie,23
+178,Lubojenka,Kwidzyn,16
+179,Studzienice,Ustka,7
+180,Czeladź,Tarnobrzeg,13
+181,Lędziny,Władysławowo,21
+182,Leszno,Boguszów-Gorce,13
+183,Łowicz,Włocławek,22
+184,Kętrzyn,Koszwały,8
+185,Świebodzin,Gołubie,24
+186,Chorzów,Pęcice,24
+187,Brodnica,Elbląg,17
+188,Kłodzko,Marylka,7
+189,Lidzbark Warmiński,Sulejówek,23
+190,Jasło,Kamieniec Ząbkowicki,15
+191,Jadowniki,Kwidzyn,16
+192,Suwałki,Giżycko,9
+193,Czarna Woda,Sopot,19
+194,Bydgoszcz,Skalbmierz,10
+195,Wejherowo,Ostrowiec Świętokrzyski,11
+196,Sandomierz,Pisz,17
+197,Płazów,Siedlce,1
+198,Koszwały,Słupsk,8
+199,Kamieniec Ząbkowicki,Ilkowice,15
+200,Opole,Świdnik,11
+201,Nowe Kramsko,Łowicz,22
+202,Lublin,Września,12
+203,Malbork,Turek,5
+204,Kamień,Zborowskie,18
+205,Głogów,Pułtusk,25
+206,Szczecin,Tomaszów Mazowiecki,14
+207,Kłodzko,Ustka,7
+208,Żory,Jastrzębie,3
+209,Skierniewice,Zielona Góra,7
+210,Władysławowo,Kuźnica Masłońska,21
+211,Będzin,Ostrów Wielkopolski,23
+212,Marylka,Zakopane,7
+213,Olsztyn,Ostrów Wielkopolski,23
+214,Mokrzyska,Bartoszyce,8
+215,Świdwin,Kwidzyn,16
+216,Inowrocław,Otwock,21
+217,Dąbrowa Górnicza,Wodzisław Śląski,11
+218,Piotrków Trybunalski,Rumia,24
+219,Konstancin-Jeziorna,Piła,14
+220,Inowrocław,Otwock,21
+221,Pieszyce,Kamienica Królewska,3
+222,Sieradz,Gorlice,8
+223,Sosnowiec,Rynarzewo,5
+224,Kamienica Królewska,Pieszyce,3
+225,Grudziądz,Wilkowice,25
+226,Września,Szczawin,12
+227,Kamienica Królewska,Żory,3
+228,Tychy,Kamienica Królewska,3
+229,Zduńska Wola,Czaplinek,21
+230,Toruń,Żywiec,15
+231,Szteklin,Bielsko-Biała,20
+232,Będzin,Gliwice,23
+233,Rynarzewo,Turek,5
+234,Koło,Sandomierz,17
+235,Sandomierz,Gorzów Wielkopolski,17
+236,Orzesze,Władysławowo,21
+237,Jawor,Wągrowiec,4
+238,Zakopane,Zielona Góra,7
+239,Kościerzyna,Gdynia,10
+240,Sopot,Darłowo,19
+241,Pruszków,Ostrów Wielkopolski,23
+242,Swarzędz,Ciechanów,1
+243,Turek,Bolesławiec,5
