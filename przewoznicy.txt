@@ -1,21 +1,21 @@
-1,Intercity,2008,pasażerskie
-2,Koleje Wielkopolskie,1975,pasażerskie
-3,Polregio,1999,pasażerskie
-4,Koleje Dolnośląskie,1990,pasażerskie
-5,Koleje Mazowieckie,2008,pasażerskie
-6,Arriva,2009,pasażerskie
-7,Koleje Zachodniopomorskie,1978,pasażerskie
-8,Koleje Opolskie,1999,pasażerskie
-9,Koleje Śląskie,1996,pasażerskie
-10,Twoje Linie Kolejowe,1989,pasażerskie
-11,Express Intercity Premium,1988,pasażerskie
-12,Express Intercity,2006,pasażerskie
-13,Szybka Kolej Miejska,1990,pasażerskie
-14,PKP Cargo,1993,cargo
-15,Ceske Drahy,1975,pasażerskie
-16,Deutsche Bahn,2001,pasażerskie
-17,RegioJet,1989,pasażerskie
-18,Łódzka Kolej Aglomeracyjna,1985,pasażerskie
-19,Koleje Małopolskie,1980,pasażerskie
-20,Średzka Kolej Wąskotorowa,2001,pasażerskie
-21,Zastępcza Komunikacja Autobusowa,1984,pasażerskie
+1,Intercity,2001,pasażerskie
+2,Koleje Wielkopolskie,1994,pasażerskie
+3,Polregio,1980,pasażerskie
+4,Koleje Dolnośląskie,1975,pasażerskie
+5,Koleje Mazowieckie,1979,pasażerskie
+6,Arriva,1989,pasażerskie
+7,Koleje Zachodniopomorskie,1980,pasażerskie
+8,Koleje Opolskie,1996,pasażerskie
+9,Koleje Śląskie,1982,pasażerskie
+10,Twoje Linie Kolejowe,2006,pasażerskie
+11,Express Intercity Premium,2007,pasażerskie
+12,Express Intercity,1985,pasażerskie
+13,Szybka Kolej Miejska,2004,pasażerskie
+14,PKP Cargo,1988,cargo
+15,Ceske Drahy,1985,pasażerskie
+16,Deutsche Bahn,1976,pasażerskie
+17,RegioJet,2001,pasażerskie
+18,Łódzka Kolej Aglomeracyjna,2004,pasażerskie
+19,Koleje Małopolskie,2009,pasażerskie
+20,Średzka Kolej Wąskotorowa,1982,pasażerskie
+21,Zastępcza Komunikacja Autobusowa,1980,pasażerskie
