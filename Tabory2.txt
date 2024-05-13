@@ -1,0 +1,427 @@
+"33We-001",5,"elektryczny",1987,"uszkodzony",4/11/2016 00:00:00
+"33We-002",5,"elektryczny",1998,"złomowany",8/5/2014 00:00:00
+"33We-003",5,"spalinowy",1994,"uszkodzony",23/11/2016 00:00:00
+"33We-004",13,"elektryczno-spalinowy",1992,"po naprawie",11/5/2019 00:00:00
+"33We-005",20,"elektryczny",2004,"złomowany",5/10/2020 00:00:00
+"33We-006",12,"elektryczno-spalinowy",2009,"złomowany",17/2/2016 00:00:00
+"33We-007",9,"spalinowy",1995,"w naprawie",5/2/2019 00:00:00
+"33We-008",3,"elektryczny",1994,"uszkodzony",12/8/2014 00:00:00
+"33We-009",12,"elektryczny",1995,"w naprawie",2/12/2015 00:00:00
+"33We-010",20,"elektryczny",1982,"nowy",20/12/2017 00:00:00
+"33We-011",10,"spalinowy",1984,"w naprawie",21/10/2016 00:00:00
+"33We-012",1,"spalinowy",1998,"nowy",14/12/2018 00:00:00
+"33We-013",5,"elektryczny",2010,"uszkodzony",13/12/2015 00:00:00
+"36WEhd-001",15,"spalinowy",2000,"nowy",23/4/2018 00:00:00
+"36WEhd-002",19,"spalinowy",1992,"w naprawie",1/1/2018 00:00:00
+"36WEhd-003",17,"spalinowy",1995,"uszkodzony",14/2/2020 00:00:00
+"36WEhd-004",3,"elektryczny",1986,"w trakcie złomowania",28/12/2018 00:00:00
+"36WEhd-005",19,"elektryczny",1991,"w naprawie",22/11/2018 00:00:00
+"36WEhd-006",13,"elektryczno-spalinowy",1998,"w naprawie",15/2/2016 00:00:00
+"36WEhd-007",18,"elektryczny",1994,"uszkodzony",12/3/2020 00:00:00
+"36WEhd-008",3,"elektryczny",2012,"złomowany",22/6/2018 00:00:00
+"36WEhd-009",4,"elektryczny",1990,"nowy",11/11/2016 00:00:00
+"36WEhd-010",8,"elektryczny",2002,"złomowany",8/10/2015 00:00:00
+"36WEhd-011",19,"spalinowy",2003,"w naprawie",9/3/2017 00:00:00
+"36WEhd-012",7,"elektryczny",2007,"w trakcie złomowania",14/7/2018 00:00:00
+"36WEhd-013",1,"spalinowy",1983,"uszkodzony",1/8/2015 00:00:00
+"36WEhd-014",13,"spalinowy",2001,"w naprawie",9/9/2020 00:00:00
+"36WEhd-015",3,"elektryczno-spalinowy",1991,"w naprawie",24/8/2018 00:00:00
+"36WEhd-016",18,"elektryczno-spalinowy",2005,"nowy",24/3/2015 00:00:00
+"36WEhd-017",5,"spalinowy",2008,"w trakcie złomowania",22/1/2018 00:00:00
+"36WEhd-018",5,"elektryczny",1988,"uszkodzony",22/8/2020 00:00:00
+"48We-001",12,"spalinowy",2013,"w naprawie",14/1/2015 00:00:00
+"48We-002",2,"spalinowy",1981,"nowy",23/11/2015 00:00:00
+"48We-003",2,"spalinowy",2000,"uszkodzony",19/10/2017 00:00:00
+"48We-004",12,"elektryczny",2005,"w naprawie",30/3/2017 00:00:00
+"48We-005",13,"spalinowy",2006,"w naprawie",10/2/2019 00:00:00
+"48We-006",14,"spalinowy",2012,"złomowany",23/8/2017 00:00:00
+"48We-007",19,"elektryczny",1989,"uszkodzony",17/7/2019 00:00:00
+"48We-008",7,"spalinowy",2013,"nowy",27/3/2014 00:00:00
+"48We-009",7,"elektryczno-spalinowy",2002,"uszkodzony",6/9/2015 00:00:00
+"48We-010",8,"spalinowy",1984,"w trakcie złomowania",1/6/2020 00:00:00
+"48We-011",20,"spalinowy",1994,"uszkodzony",10/8/2020 00:00:00
+"48We-012",15,"elektryczny",2001,"po naprawie",11/12/2015 00:00:00
+"48We-013",12,"elektryczno-spalinowy",1998,"w trakcie złomowania",7/11/2016 00:00:00
+"48We-014",14,"elektryczny",1988,"złomowany",12/1/2017 00:00:00
+"48We-015",9,"elektryczno-spalinowy",2005,"po naprawie",26/5/2015 00:00:00
+"48We-016",3,"elektryczno-spalinowy",1996,"złomowany",14/5/2020 00:00:00
+"48We-017",21,"elektryczno-spalinowy",1990,"po naprawie",5/9/2014 00:00:00
+"48We-018",15,"elektryczno-spalinowy",1985,"nowy",6/10/2016 00:00:00
+"48We-019",15,"elektryczno-spalinowy",1994,"po naprawie",16/6/2019 00:00:00
+"48We-020",16,"elektryczny",2007,"uszkodzony",19/2/2019 00:00:00
+"48We-021",19,"elektryczny",2009,"uszkodzony",30/3/2019 00:00:00
+"48We-022",15,"elektryczny",2013,"w trakcie złomowania",4/6/2014 00:00:00
+"E4MSUa-001",3,"elektryczny",2004,"w trakcie złomowania",17/12/2018 00:00:00
+"E4MSUa-002",6,"spalinowy",1984,"w naprawie",23/1/2014 00:00:00
+"E4MSUa-003",4,"elektryczno-spalinowy",2013,"uszkodzony",31/10/2016 00:00:00
+"E4MSUa-004",7,"spalinowy",2000,"po naprawie",12/2/2016 00:00:00
+"E4MSUa-005",15,"spalinowy",2008,"w trakcie złomowania",28/3/2017 00:00:00
+"E4MSUa-006",18,"spalinowy",2010,"złomowany",20/4/2020 00:00:00
+"E4MSUa-007",8,"elektryczny",1996,"uszkodzony",17/6/2019 00:00:00
+"E4MSUa-008",18,"elektryczno-spalinowy",2003,"w trakcie złomowania",5/11/2015 00:00:00
+"E4MSUa-009",19,"spalinowy",1993,"po naprawie",8/6/2016 00:00:00
+"E4MSUa-010",19,"spalinowy",2009,"uszkodzony",14/3/2020 00:00:00
+"E4MSUa-011",11,"elektryczno-spalinowy",1982,"po naprawie",1/3/2016 00:00:00
+"E4MSUa-012",4,"elektryczny",1997,"nowy",22/8/2014 00:00:00
+"E4MSUa-013",4,"elektryczno-spalinowy",1992,"w naprawie",26/9/2019 00:00:00
+"E4MSUa-014",21,"spalinowy",1981,"nowy",12/10/2017 00:00:00
+"E4MSUa-015",4,"spalinowy",2006,"po naprawie",12/12/2016 00:00:00
+"E4MSUa-016",16,"spalinowy",1980,"złomowany",25/4/2017 00:00:00
+"E4MSUa-017",8,"elektryczno-spalinowy",2009,"złomowany",18/3/2016 00:00:00
+"E4MSUa-018",9,"spalinowy",2005,"w trakcie złomowania",11/5/2020 00:00:00
+"E4MSUa-019",6,"elektryczny",2000,"w trakcie złomowania",7/4/2016 00:00:00
+"E4MSUa-020",13,"elektryczny",1989,"w naprawie",31/12/2019 00:00:00
+"E4MSUa-021",16,"spalinowy",2012,"w naprawie",3/6/2014 00:00:00
+"E4MSUa-022",3,"elektryczno-spalinowy",1994,"złomowany",31/5/2018 00:00:00
+"E4MSUa-023",10,"elektryczno-spalinowy",1980,"złomowany",3/12/2019 00:00:00
+"ED160-001",3,"elektryczno-spalinowy",2000,"w trakcie złomowania",15/11/2016 00:00:00
+"ED160-002",12,"elektryczno-spalinowy",1981,"po naprawie",17/11/2018 00:00:00
+"ED160-003",9,"elektryczny",1980,"w naprawie",22/3/2015 00:00:00
+"ED160-004",20,"spalinowy",1980,"w trakcie złomowania",30/1/2014 00:00:00
+"ED160-005",19,"elektryczny",2009,"w naprawie",18/11/2016 00:00:00
+"ED160-006",6,"spalinowy",2014,"po naprawie",15/1/2014 00:00:00
+"ED160-007",17,"spalinowy",1994,"w naprawie",29/3/2018 00:00:00
+"ED160-008",5,"elektryczny",2009,"nowy",23/2/2018 00:00:00
+"ED160-009",11,"elektryczno-spalinowy",1980,"uszkodzony",7/9/2014 00:00:00
+"ED160-010",8,"elektryczny",2014,"nowy",14/2/2018 00:00:00
+"ED160-011",3,"elektryczny",2010,"w naprawie",21/4/2019 00:00:00
+"ED160-012",18,"elektryczno-spalinowy",1982,"uszkodzony",16/4/2014 00:00:00
+"ED160-013",9,"elektryczny",1985,"uszkodzony",11/6/2015 00:00:00
+"ED160-014",4,"elektryczno-spalinowy",1995,"w naprawie",5/2/2017 00:00:00
+"ED160-015",13,"elektryczno-spalinowy",2010,"uszkodzony",17/3/2016 00:00:00
+"ED160-016",17,"spalinowy",1992,"po naprawie",1/5/2020 00:00:00
+"ED160-017",10,"elektryczny",2014,"uszkodzony",15/10/2020 00:00:00
+"ED160-018",7,"spalinowy",2001,"uszkodzony",7/11/2015 00:00:00
+"ED160-019",14,"elektryczny",2003,"w naprawie",9/12/2014 00:00:00
+"ED160-020",7,"spalinowy",1998,"złomowany",29/5/2016 00:00:00
+"ED160-021",14,"spalinowy",2007,"złomowany",20/2/2017 00:00:00
+"ED160-022",14,"elektryczno-spalinowy",2005,"w naprawie",10/8/2018 00:00:00
+"ED250-001",15,"elektryczno-spalinowy",1985,"nowy",24/11/2014 00:00:00
+"ED250-002",21,"elektryczny",2009,"złomowany",3/11/2015 00:00:00
+"ED250-003",15,"elektryczno-spalinowy",2003,"uszkodzony",22/4/2014 00:00:00
+"ED250-004",14,"elektryczno-spalinowy",2001,"w trakcie złomowania",22/7/2018 00:00:00
+"ED250-005",17,"elektryczny",1988,"uszkodzony",28/10/2018 00:00:00
+"ED250-006",11,"spalinowy",1983,"po naprawie",31/3/2018 00:00:00
+"ED250-007",7,"elektryczno-spalinowy",2011,"w naprawie",23/7/2015 00:00:00
+"ED250-008",13,"spalinowy",1981,"po naprawie",20/1/2016 00:00:00
+"ED250-009",6,"elektryczny",1992,"w naprawie",19/4/2017 00:00:00
+"ED250-010",12,"spalinowy",1994,"w naprawie",2/7/2018 00:00:00
+"ED250-011",6,"elektryczny",1990,"nowy",13/5/2018 00:00:00
+"ED250-012",18,"elektryczno-spalinowy",1988,"w naprawie",1/10/2020 00:00:00
+"ED250-013",4,"elektryczny",1999,"złomowany",18/3/2014 00:00:00
+"ED250-014",3,"spalinowy",1991,"złomowany",11/6/2014 00:00:00
+"ED250-015",19,"elektryczno-spalinowy",1980,"uszkodzony",24/1/2014 00:00:00
+"ED250-016",2,"elektryczny",2011,"po naprawie",7/3/2019 00:00:00
+"ED250-017",9,"elektryczno-spalinowy",1988,"złomowany",16/12/2015 00:00:00
+"ED250-018",8,"elektryczno-spalinowy",1991,"po naprawie",16/5/2017 00:00:00
+"ED250-019",13,"spalinowy",1985,"po naprawie",7/7/2017 00:00:00
+"ED250-020",4,"spalinowy",1981,"w trakcie złomowania",24/6/2019 00:00:00
+"ED250-021",8,"spalinowy",2000,"w trakcie złomowania",25/4/2019 00:00:00
+"ED250-022",11,"spalinowy",1999,"uszkodzony",27/6/2014 00:00:00
+"ED250-023",3,"elektryczno-spalinowy",1999,"w naprawie",14/12/2020 00:00:00
+"ED250-024",14,"spalinowy",1992,"nowy",17/12/2019 00:00:00
+"ED250-025",8,"elektryczny",1981,"w trakcie złomowania",19/7/2019 00:00:00
+"ED74-001",20,"elektryczny",1984,"w naprawie",14/7/2020 00:00:00
+"ED74-002",11,"elektryczny",2002,"złomowany",11/3/2020 00:00:00
+"ED74-003",19,"spalinowy",1987,"złomowany",7/2/2014 00:00:00
+"ED74-004",4,"elektryczno-spalinowy",2001,"po naprawie",30/3/2017 00:00:00
+"ED74-005",18,"elektryczno-spalinowy",1984,"złomowany",6/12/2019 00:00:00
+"ED74-006",4,"spalinowy",2001,"w trakcie złomowania",29/8/2019 00:00:00
+"ED74-007",19,"spalinowy",2000,"nowy",7/4/2015 00:00:00
+"ED74-008",9,"spalinowy",2000,"w naprawie",16/8/2014 00:00:00
+"ED74-009",9,"elektryczny",1996,"w naprawie",6/5/2014 00:00:00
+"ED74-010",5,"elektryczny",1993,"uszkodzony",16/5/2015 00:00:00
+"ED74-011",8,"elektryczny",1994,"w naprawie",21/1/2018 00:00:00
+"ED74-012",18,"elektryczno-spalinowy",1996,"po naprawie",6/8/2018 00:00:00
+"ED74-013",8,"elektryczno-spalinowy",1980,"w trakcie złomowania",3/2/2016 00:00:00
+"ED74-014",7,"elektryczny",1998,"nowy",20/1/2015 00:00:00
+"ED74-015",18,"elektryczno-spalinowy",1983,"nowy",10/12/2015 00:00:00
+"ED74-016",10,"elektryczno-spalinowy",1984,"nowy",4/9/2020 00:00:00
+"ED74-017",1,"elektryczny",1998,"złomowany",8/12/2020 00:00:00
+"ED74-018",17,"elektryczny",2012,"w naprawie",2/12/2016 00:00:00
+"ED74-019",12,"elektryczno-spalinowy",1986,"nowy",8/8/2020 00:00:00
+"EN57AKM-001",1,"elektryczno-spalinowy",1980,"złomowany",15/9/2016 00:00:00
+"EN57AKM-002",2,"elektryczno-spalinowy",1997,"złomowany",10/3/2016 00:00:00
+"EN57AKM-003",18,"elektryczny",2014,"po naprawie",24/11/2018 00:00:00
+"EN57AKM-004",7,"elektryczno-spalinowy",1996,"w naprawie",10/7/2015 00:00:00
+"EN57AKM-005",21,"elektryczny",1986,"uszkodzony",16/10/2017 00:00:00
+"EN57AKM-006",18,"elektryczny",2006,"w naprawie",20/1/2019 00:00:00
+"EN57AKM-007",1,"elektryczny",2009,"w naprawie",18/6/2015 00:00:00
+"EN57AKM-008",11,"elektryczny",1991,"złomowany",9/1/2015 00:00:00
+"EN57AKM-009",17,"spalinowy",1990,"złomowany",24/11/2020 00:00:00
+"EN57AKM-010",4,"spalinowy",1999,"złomowany",17/10/2017 00:00:00
+"EN57AKM-011",5,"elektryczny",1998,"złomowany",4/5/2020 00:00:00
+"EN57AKM-012",21,"elektryczno-spalinowy",1992,"złomowany",4/4/2018 00:00:00
+"EN57AKM-013",11,"elektryczno-spalinowy",2003,"uszkodzony",20/2/2015 00:00:00
+"EN57AKM-014",10,"elektryczny",1999,"w trakcie złomowania",3/3/2015 00:00:00
+"EN57AKM-015",18,"elektryczny",1999,"w trakcie złomowania",11/10/2017 00:00:00
+"EN57AKM-016",1,"spalinowy",2010,"nowy",18/9/2014 00:00:00
+"EN57AKM-017",7,"elektryczny",2007,"złomowany",16/5/2020 00:00:00
+"EN57AKM-018",7,"elektryczny",1984,"w trakcie złomowania",13/4/2014 00:00:00
+"EN57AKM-019",16,"elektryczny",1997,"nowy",20/2/2017 00:00:00
+"EN57AKM-020",12,"elektryczny",1992,"po naprawie",17/10/2015 00:00:00
+"EN57AKM-021",11,"elektryczny",1980,"złomowany",20/11/2015 00:00:00
+"EN57AKM-022",21,"elektryczny",1986,"złomowany",30/11/2014 00:00:00
+"EN57AL-001",14,"elektryczno-spalinowy",1988,"uszkodzony",21/6/2014 00:00:00
+"EN57AL-002",16,"elektryczny",2013,"nowy",16/4/2018 00:00:00
+"EN57AL-003",16,"spalinowy",2006,"uszkodzony",18/12/2014 00:00:00
+"EN57AL-004",6,"spalinowy",2010,"po naprawie",5/4/2016 00:00:00
+"EN57AL-005",12,"elektryczny",1999,"nowy",7/11/2020 00:00:00
+"EN57AL-006",15,"elektryczny",1989,"uszkodzony",19/4/2017 00:00:00
+"EN57AL-007",11,"elektryczny",1982,"nowy",3/3/2016 00:00:00
+"EN57AL-008",12,"elektryczny",1990,"uszkodzony",14/11/2018 00:00:00
+"EN57AL-009",5,"elektryczno-spalinowy",1999,"nowy",29/6/2017 00:00:00
+"EN57AL-010",3,"spalinowy",1993,"w naprawie",26/1/2016 00:00:00
+"EN57AL-011",6,"elektryczny",2000,"po naprawie",28/12/2018 00:00:00
+"EN57AL-012",3,"spalinowy",2006,"po naprawie",21/11/2019 00:00:00
+"EN57AL-013",21,"elektryczny",1993,"złomowany",12/6/2018 00:00:00
+"EN57AL-014",14,"elektryczno-spalinowy",1997,"złomowany",22/8/2018 00:00:00
+"EN57AL-015",7,"spalinowy",1986,"w naprawie",13/4/2019 00:00:00
+"EN57AL-016",1,"spalinowy",2002,"złomowany",3/7/2016 00:00:00
+"EN57AL-017",16,"elektryczno-spalinowy",1982,"w naprawie",30/12/2014 00:00:00
+"EN57AL-018",15,"elektryczny",2001,"w trakcie złomowania",29/3/2019 00:00:00
+"EN57AL-019",11,"elektryczny",2003,"nowy",15/11/2019 00:00:00
+"EN57AL-020",20,"elektryczno-spalinowy",2003,"w naprawie",20/9/2016 00:00:00
+"EN57AL-021",16,"spalinowy",2006,"uszkodzony",10/5/2018 00:00:00
+"EN57AL-022",17,"elektryczno-spalinowy",1992,"w trakcie złomowania",12/12/2015 00:00:00
+"EN57AL-023",2,"spalinowy",1995,"złomowany",26/4/2016 00:00:00
+"EN57AL-024",14,"elektryczno-spalinowy",1984,"nowy",23/5/2016 00:00:00
+"EN57AL-025",21,"elektryczno-spalinowy",2012,"po naprawie",17/8/2014 00:00:00
+"EN57AL-026",10,"elektryczno-spalinowy",2004,"w naprawie",25/12/2015 00:00:00
+"EN71-001",5,"elektryczny",2012,"złomowany",28/3/2019 00:00:00
+"EN71-002",17,"elektryczno-spalinowy",1999,"złomowany",1/5/2014 00:00:00
+"EN71-003",12,"elektryczny",1994,"w naprawie",9/3/2015 00:00:00
+"EN71-004",1,"elektryczny",1983,"złomowany",29/11/2017 00:00:00
+"EN71-005",19,"elektryczno-spalinowy",2010,"po naprawie",26/6/2016 00:00:00
+"EN71-006",6,"elektryczno-spalinowy",1992,"uszkodzony",25/1/2016 00:00:00
+"EN71-007",21,"spalinowy",1990,"w naprawie",30/1/2014 00:00:00
+"EN71-008",20,"spalinowy",2004,"w trakcie złomowania",7/8/2019 00:00:00
+"EN71-009",18,"elektryczno-spalinowy",2011,"po naprawie",21/4/2016 00:00:00
+"EN71-010",7,"elektryczny",1984,"po naprawie",14/1/2015 00:00:00
+"EN71-011",20,"elektryczny",1989,"w naprawie",14/1/2017 00:00:00
+"EN71-012",16,"elektryczny",1980,"nowy",9/7/2014 00:00:00
+"EN71-013",6,"elektryczny",2000,"w trakcie złomowania",17/7/2017 00:00:00
+"EN71-014",2,"elektryczny",2006,"złomowany",9/12/2014 00:00:00
+"EN71-015",19,"elektryczno-spalinowy",1983,"uszkodzony",13/5/2014 00:00:00
+"EN71-016",14,"spalinowy",2003,"uszkodzony",7/4/2015 00:00:00
+"EN71-017",18,"elektryczny",1994,"w naprawie",9/4/2018 00:00:00
+"EN71-018",12,"spalinowy",1993,"uszkodzony",24/5/2014 00:00:00
+"EN71-019",15,"elektryczno-spalinowy",1983,"nowy",4/4/2014 00:00:00
+"EN71-020",4,"elektryczno-spalinowy",1989,"nowy",24/2/2017 00:00:00
+"EN71-021",17,"elektryczny",2006,"w trakcie złomowania",22/5/2017 00:00:00
+"EN71-022",15,"elektryczno-spalinowy",1983,"nowy",5/12/2017 00:00:00
+"EN71-023",20,"elektryczno-spalinowy",1987,"złomowany",9/11/2020 00:00:00
+"EN71-024",11,"elektryczny",1987,"nowy",9/4/2016 00:00:00
+"EN71-025",9,"spalinowy",1985,"w naprawie",26/5/2018 00:00:00
+"EN76-001",10,"elektryczno-spalinowy",2014,"nowy",23/11/2020 00:00:00
+"EN76-002",2,"spalinowy",1990,"złomowany",28/3/2016 00:00:00
+"EN76-003",19,"spalinowy",2002,"w trakcie złomowania",30/6/2016 00:00:00
+"EN76-004",16,"spalinowy",2013,"po naprawie",11/3/2014 00:00:00
+"EN76-005",12,"elektryczny",1990,"w trakcie złomowania",6/5/2018 00:00:00
+"EN76-006",15,"elektryczno-spalinowy",2008,"złomowany",7/10/2014 00:00:00
+"EN76-007",2,"spalinowy",2010,"po naprawie",3/1/2019 00:00:00
+"EN76-008",9,"spalinowy",1999,"w trakcie złomowania",19/12/2017 00:00:00
+"EN76-009",4,"spalinowy",1983,"nowy",6/4/2016 00:00:00
+"EN76-010",16,"elektryczny",1988,"w naprawie",8/6/2018 00:00:00
+"EN76-011",20,"spalinowy",1982,"złomowany",26/3/2019 00:00:00
+"EN76-012",21,"elektryczno-spalinowy",2011,"uszkodzony",10/10/2016 00:00:00
+"EN76-013",19,"elektryczno-spalinowy",1995,"w trakcie złomowania",4/3/2015 00:00:00
+"EN76-014",9,"spalinowy",2007,"po naprawie",11/12/2014 00:00:00
+"EN76-015",20,"elektryczny",1980,"uszkodzony",10/9/2015 00:00:00
+"EN76-016",21,"elektryczny",1993,"w trakcie złomowania",1/2/2014 00:00:00
+"EN76-017",14,"elektryczny",1981,"uszkodzony",1/8/2014 00:00:00
+"EN76-018",14,"spalinowy",1995,"uszkodzony",30/6/2020 00:00:00
+"EN76-019",13,"elektryczno-spalinowy",2010,"złomowany",26/6/2017 00:00:00
+"EN78-001",15,"spalinowy",1993,"w trakcie złomowania",22/6/2018 00:00:00
+"EN78-002",2,"spalinowy",2001,"nowy",14/5/2014 00:00:00
+"EN78-003",16,"spalinowy",1989,"po naprawie",15/6/2014 00:00:00
+"EN78-004",3,"elektryczno-spalinowy",2006,"w naprawie",4/10/2014 00:00:00
+"EN78-005",16,"spalinowy",1984,"po naprawie",28/6/2017 00:00:00
+"EN78-006",17,"elektryczny",1980,"złomowany",25/11/2016 00:00:00
+"EN78-007",9,"elektryczno-spalinowy",1980,"złomowany",24/5/2018 00:00:00
+"EN78-008",6,"elektryczny",2000,"w naprawie",28/9/2018 00:00:00
+"EN78-009",11,"elektryczno-spalinowy",1987,"nowy",16/10/2018 00:00:00
+"EN78-010",10,"spalinowy",2012,"po naprawie",27/3/2014 00:00:00
+"EN78-011",2,"elektryczno-spalinowy",2008,"uszkodzony",2/11/2015 00:00:00
+"EN78-012",18,"elektryczny",1981,"w trakcie złomowania",16/11/2019 00:00:00
+"EN78-013",12,"elektryczno-spalinowy",2005,"w naprawie",12/5/2014 00:00:00
+"EN78-014",4,"elektryczny",2000,"w naprawie",12/8/2015 00:00:00
+"EN78-015",5,"spalinowy",2004,"złomowany",6/2/2018 00:00:00
+"EN78-016",10,"spalinowy",1987,"w naprawie",7/4/2016 00:00:00
+"EN78-017",11,"elektryczno-spalinowy",1986,"po naprawie",23/3/2016 00:00:00
+"EN78-018",16,"elektryczny",2000,"nowy",9/3/2017 00:00:00
+"EN78-019",14,"elektryczno-spalinowy",2011,"po naprawie",1/7/2018 00:00:00
+"EN78-020",15,"elektryczno-spalinowy",2002,"złomowany",10/11/2019 00:00:00
+"EN78-021",13,"spalinowy",1987,"w trakcie złomowania",25/1/2017 00:00:00
+"EN78-022",20,"elektryczno-spalinowy",2010,"złomowany",17/1/2014 00:00:00
+"EP07-001",18,"spalinowy",1995,"w trakcie złomowania",12/12/2015 00:00:00
+"EP07-002",10,"elektryczno-spalinowy",1999,"po naprawie",14/12/2015 00:00:00
+"EP07-003",21,"elektryczno-spalinowy",2012,"w trakcie złomowania",6/7/2019 00:00:00
+"EP07-004",8,"elektryczno-spalinowy",1991,"w naprawie",31/10/2017 00:00:00
+"EP07-005",9,"elektryczno-spalinowy",1980,"w naprawie",28/9/2019 00:00:00
+"EP07-006",18,"elektryczny",1990,"złomowany",1/4/2017 00:00:00
+"EP07-007",18,"elektryczno-spalinowy",1992,"złomowany",1/1/2019 00:00:00
+"EP07-008",3,"elektryczny",1982,"w trakcie złomowania",3/4/2018 00:00:00
+"EP07-009",4,"spalinowy",2009,"w naprawie",17/6/2014 00:00:00
+"EP07-010",6,"spalinowy",1995,"w trakcie złomowania",13/3/2018 00:00:00
+"EP07-011",15,"spalinowy",2007,"w naprawie",22/7/2018 00:00:00
+"EP07-012",13,"elektryczny",1997,"uszkodzony",22/7/2017 00:00:00
+"EP07-013",10,"elektryczno-spalinowy",1987,"w naprawie",23/7/2017 00:00:00
+"EP07-014",2,"elektryczno-spalinowy",1987,"złomowany",12/9/2015 00:00:00
+"EP07-015",4,"elektryczno-spalinowy",1983,"po naprawie",28/3/2020 00:00:00
+"EP09-001",14,"elektryczny",1980,"złomowany",25/6/2014 00:00:00
+"EP09-002",20,"elektryczny",1987,"w trakcie złomowania",27/7/2019 00:00:00
+"EP09-003",14,"spalinowy",2001,"złomowany",17/11/2015 00:00:00
+"EP09-004",4,"spalinowy",2012,"uszkodzony",4/1/2014 00:00:00
+"EP09-005",18,"elektryczny",1992,"uszkodzony",27/11/2018 00:00:00
+"EP09-006",2,"spalinowy",1984,"po naprawie",24/8/2020 00:00:00
+"EP09-007",2,"elektryczno-spalinowy",1981,"nowy",29/3/2015 00:00:00
+"EP09-008",15,"elektryczno-spalinowy",1986,"po naprawie",30/6/2015 00:00:00
+"EP09-009",21,"spalinowy",2008,"nowy",10/11/2014 00:00:00
+"EP09-010",4,"elektryczno-spalinowy",1991,"w naprawie",15/5/2017 00:00:00
+"EP09-011",3,"elektryczno-spalinowy",2003,"uszkodzony",4/6/2018 00:00:00
+"EP09-012",3,"elektryczny",2000,"uszkodzony",1/2/2017 00:00:00
+"EP09-013",21,"spalinowy",1998,"uszkodzony",23/8/2018 00:00:00
+"EP09-014",10,"elektryczny",2014,"w trakcie złomowania",6/12/2018 00:00:00
+"EP09-015",4,"spalinowy",1994,"po naprawie",18/5/2014 00:00:00
+"ET22-001",4,"elektryczno-spalinowy",2007,"nowy",13/7/2014 00:00:00
+"ET22-002",9,"spalinowy",2005,"uszkodzony",5/10/2014 00:00:00
+"ET22-003",16,"elektryczny",2011,"uszkodzony",23/9/2019 00:00:00
+"ET22-004",21,"spalinowy",2001,"uszkodzony",19/8/2020 00:00:00
+"ET22-005",6,"elektryczny",1982,"w naprawie",8/8/2019 00:00:00
+"ET22-006",4,"elektryczny",1997,"w trakcie złomowania",13/8/2015 00:00:00
+"ET22-007",16,"spalinowy",1985,"złomowany",17/6/2017 00:00:00
+"ET22-008",3,"elektryczny",1980,"w naprawie",16/2/2020 00:00:00
+"ET22-009",17,"spalinowy",2000,"nowy",23/11/2014 00:00:00
+"ET22-010",9,"spalinowy",1993,"po naprawie",27/10/2017 00:00:00
+"ET22-011",12,"spalinowy",2006,"uszkodzony",9/12/2018 00:00:00
+"ET22-012",19,"elektryczno-spalinowy",2013,"w trakcie złomowania",12/4/2014 00:00:00
+"ET22-013",1,"elektryczny",2001,"w naprawie",5/5/2016 00:00:00
+"ET22-014",16,"spalinowy",1989,"w naprawie",7/8/2020 00:00:00
+"ET22-015",1,"elektryczny",2005,"nowy",11/6/2015 00:00:00
+"ET22-016",4,"elektryczny",1996,"po naprawie",6/10/2016 00:00:00
+"ET22-017",14,"spalinowy",1984,"nowy",7/4/2016 00:00:00
+"EU160-001",17,"spalinowy",2009,"w naprawie",24/10/2020 00:00:00
+"EU160-002",17,"elektryczny",1981,"złomowany",16/3/2019 00:00:00
+"EU160-003",11,"elektryczno-spalinowy",1997,"uszkodzony",17/7/2017 00:00:00
+"EU160-004",15,"elektryczno-spalinowy",1990,"po naprawie",27/5/2014 00:00:00
+"EU160-005",5,"spalinowy",2013,"złomowany",2/11/2019 00:00:00
+"EU160-006",9,"elektryczno-spalinowy",1994,"w naprawie",17/8/2017 00:00:00
+"EU160-007",2,"spalinowy",2013,"w naprawie",17/10/2018 00:00:00
+"EU160-008",21,"elektryczno-spalinowy",1983,"po naprawie",3/8/2016 00:00:00
+"EU160-009",21,"elektryczno-spalinowy",1994,"w naprawie",10/1/2015 00:00:00
+"EU160-010",18,"elektryczny",1987,"w naprawie",2/1/2019 00:00:00
+"EU160-011",6,"spalinowy",1993,"po naprawie",22/8/2017 00:00:00
+"EU160-012",19,"elektryczno-spalinowy",2010,"w naprawie",7/2/2020 00:00:00
+"EU160-013",20,"elektryczno-spalinowy",1996,"w naprawie",10/9/2020 00:00:00
+"EU160-014",18,"spalinowy",1986,"po naprawie",9/3/2019 00:00:00
+"EU160-015",15,"spalinowy",1981,"w naprawie",6/12/2015 00:00:00
+"EU160-016",19,"spalinowy",1986,"w naprawie",24/10/2020 00:00:00
+"SA103-001",14,"elektryczny",1992,"po naprawie",20/11/2017 00:00:00
+"SA103-002",8,"elektryczno-spalinowy",1981,"w trakcie złomowania",25/4/2017 00:00:00
+"SA103-003",4,"spalinowy",2006,"nowy",30/4/2019 00:00:00
+"SA103-004",2,"elektryczno-spalinowy",2005,"w trakcie złomowania",5/12/2017 00:00:00
+"SA103-005",9,"spalinowy",2006,"złomowany",14/1/2017 00:00:00
+"SA103-006",12,"elektryczno-spalinowy",2014,"po naprawie",29/6/2019 00:00:00
+"SA103-007",17,"elektryczno-spalinowy",1986,"uszkodzony",28/12/2014 00:00:00
+"SA103-008",6,"spalinowy",2002,"uszkodzony",6/1/2017 00:00:00
+"SA103-009",19,"elektryczno-spalinowy",2003,"w trakcie złomowania",27/2/2016 00:00:00
+"SA103-010",10,"elektryczno-spalinowy",2013,"w naprawie",18/2/2016 00:00:00
+"SA103-011",5,"elektryczno-spalinowy",2013,"złomowany",19/3/2019 00:00:00
+"SA103-012",6,"spalinowy",2010,"uszkodzony",5/12/2016 00:00:00
+"SA103-013",9,"spalinowy",2002,"nowy",23/9/2015 00:00:00
+"SA103-014",10,"spalinowy",1994,"nowy",27/11/2018 00:00:00
+"SA103-015",19,"elektryczno-spalinowy",2010,"złomowany",24/11/2016 00:00:00
+"SA103-016",14,"elektryczno-spalinowy",2005,"po naprawie",16/5/2020 00:00:00
+"SA103-017",7,"elektryczny",2008,"w naprawie",6/9/2019 00:00:00
+"SA103-018",11,"elektryczny",1983,"uszkodzony",13/11/2019 00:00:00
+"SA103-019",4,"spalinowy",1985,"w naprawie",19/12/2014 00:00:00
+"SA103-020",17,"elektryczny",1989,"w naprawie",25/2/2020 00:00:00
+"SA106-001",13,"elektryczno-spalinowy",2003,"w naprawie",23/10/2014 00:00:00
+"SA106-002",20,"spalinowy",1988,"nowy",14/10/2015 00:00:00
+"SA106-003",12,"elektryczno-spalinowy",1993,"złomowany",8/1/2016 00:00:00
+"SA106-004",11,"elektryczno-spalinowy",2002,"nowy",23/6/2016 00:00:00
+"SA106-005",21,"elektryczno-spalinowy",1994,"w naprawie",7/10/2018 00:00:00
+"SA106-006",21,"elektryczny",1986,"nowy",8/7/2020 00:00:00
+"SA106-007",17,"elektryczno-spalinowy",2003,"złomowany",3/9/2017 00:00:00
+"SA106-008",6,"elektryczno-spalinowy",1990,"po naprawie",2/3/2016 00:00:00
+"SA106-009",16,"spalinowy",1981,"uszkodzony",23/4/2014 00:00:00
+"SA106-010",16,"elektryczno-spalinowy",1982,"złomowany",2/11/2020 00:00:00
+"SA106-011",2,"elektryczno-spalinowy",1983,"po naprawie",15/2/2019 00:00:00
+"SA106-012",15,"elektryczno-spalinowy",1992,"złomowany",15/11/2016 00:00:00
+"SA106-013",17,"elektryczno-spalinowy",1989,"uszkodzony",14/2/2014 00:00:00
+"SA106-014",3,"elektryczno-spalinowy",1989,"złomowany",29/5/2016 00:00:00
+"SA106-015",16,"spalinowy",1993,"w trakcie złomowania",13/3/2015 00:00:00
+"SA106-016",3,"elektryczno-spalinowy",1984,"w naprawie",19/7/2017 00:00:00
+"SA106-017",17,"elektryczny",2002,"uszkodzony",20/8/2020 00:00:00
+"SA106-018",16,"elektryczno-spalinowy",1984,"złomowany",11/12/2020 00:00:00
+"SA106-019",21,"spalinowy",1990,"złomowany",21/8/2018 00:00:00
+"SA106-020",9,"elektryczny",2001,"złomowany",20/8/2018 00:00:00
+"SA106-021",8,"elektryczno-spalinowy",2010,"uszkodzony",23/3/2015 00:00:00
+"SA106-022",11,"spalinowy",2014,"w trakcie złomowania",29/7/2016 00:00:00
+"SA106-023",19,"elektryczno-spalinowy",1991,"złomowany",19/8/2014 00:00:00
+"SA106-024",3,"spalinowy",1992,"po naprawie",11/6/2016 00:00:00
+"SA133-001",10,"elektryczny",2013,"w trakcie złomowania",17/5/2015 00:00:00
+"SA133-002",2,"elektryczny",2004,"w trakcie złomowania",15/7/2014 00:00:00
+"SA133-003",7,"spalinowy",1993,"w naprawie",13/2/2019 00:00:00
+"SA133-004",7,"elektryczno-spalinowy",1986,"nowy",13/4/2016 00:00:00
+"SA133-005",14,"elektryczno-spalinowy",2007,"złomowany",19/3/2020 00:00:00
+"SA133-006",18,"elektryczny",2005,"złomowany",24/3/2019 00:00:00
+"SA133-007",15,"elektryczny",1986,"złomowany",1/10/2020 00:00:00
+"SA133-008",16,"elektryczno-spalinowy",2006,"w naprawie",19/7/2015 00:00:00
+"SA133-009",12,"elektryczno-spalinowy",1999,"w trakcie złomowania",14/8/2017 00:00:00
+"SA133-010",21,"elektryczno-spalinowy",2009,"w trakcie złomowania",28/2/2014 00:00:00
+"SA133-011",9,"elektryczny",1998,"uszkodzony",24/7/2018 00:00:00
+"SA133-012",7,"spalinowy",2012,"uszkodzony",25/1/2015 00:00:00
+"SA133-013",8,"elektryczno-spalinowy",2008,"uszkodzony",2/10/2020 00:00:00
+"SA133-014",5,"spalinowy",1983,"uszkodzony",29/3/2019 00:00:00
+"SA133-015",6,"spalinowy",2006,"uszkodzony",9/4/2020 00:00:00
+"SA133-016",13,"spalinowy",2011,"uszkodzony",10/11/2019 00:00:00
+"SA133-017",3,"elektryczno-spalinowy",1980,"złomowany",28/11/2015 00:00:00
+"SA133-018",14,"spalinowy",1985,"uszkodzony",22/2/2015 00:00:00
+"SA133-019",20,"elektryczny",1995,"w naprawie",10/7/2018 00:00:00
+"SA133-020",3,"elektryczny",2006,"w naprawie",17/2/2014 00:00:00
+"SA133-021",8,"elektryczno-spalinowy",2003,"złomowany",28/4/2018 00:00:00
+"SA133-022",9,"spalinowy",1984,"złomowany",14/6/2016 00:00:00
+"SA133-023",17,"elektryczny",2014,"po naprawie",16/1/2020 00:00:00
+"SA133-024",19,"spalinowy",1984,"w trakcie złomowania",5/12/2015 00:00:00
+"SM42-001",11,"elektryczny",1997,"w naprawie",1/8/2015 00:00:00
+"SM42-002",5,"elektryczny",1988,"złomowany",29/4/2017 00:00:00
+"SM42-003",2,"elektryczno-spalinowy",2009,"uszkodzony",23/3/2017 00:00:00
+"SM42-004",18,"elektryczno-spalinowy",2014,"nowy",10/3/2018 00:00:00
+"SM42-005",21,"elektryczno-spalinowy",2007,"nowy",24/8/2018 00:00:00
+"SM42-006",7,"elektryczny",2006,"nowy",2/12/2019 00:00:00
+"SM42-007",12,"spalinowy",1996,"po naprawie",18/2/2020 00:00:00
+"SM42-008",2,"elektryczny",2014,"nowy",18/10/2016 00:00:00
+"SM42-009",4,"elektryczno-spalinowy",1997,"uszkodzony",10/6/2015 00:00:00
+"SM42-010",21,"spalinowy",1997,"nowy",20/8/2014 00:00:00
+"SM42-011",1,"spalinowy",2002,"w trakcie złomowania",19/2/2019 00:00:00
+"SM42-012",5,"spalinowy",1990,"złomowany",20/7/2017 00:00:00
+"SM42-013",5,"elektryczny",1980,"złomowany",27/11/2020 00:00:00
+"SM42-014",21,"elektryczno-spalinowy",1997,"po naprawie",24/6/2015 00:00:00
+"SM42-015",6,"elektryczny",2003,"złomowany",3/10/2019 00:00:00
+"SM42-016",18,"spalinowy",2014,"uszkodzony",19/4/2019 00:00:00
+"SM42-017",19,"spalinowy",1992,"nowy",6/2/2015 00:00:00
+"SM42-018",2,"elektryczno-spalinowy",1992,"nowy",21/2/2018 00:00:00
+"SM42-019",1,"spalinowy",2002,"po naprawie",8/11/2015 00:00:00
+"SM42-020",17,"elektryczny",1983,"uszkodzony",19/12/2014 00:00:00
+"SM42Dn-001",9,"elektryczny",1999,"uszkodzony",28/7/2015 00:00:00
+"SM42Dn-002",1,"elektryczno-spalinowy",1982,"uszkodzony",11/1/2018 00:00:00
+"SM42Dn-003",7,"elektryczny",1998,"w naprawie",28/10/2016 00:00:00
+"SM42Dn-004",12,"spalinowy",2008,"w trakcie złomowania",13/9/2017 00:00:00
+"SM42Dn-005",8,"spalinowy",2000,"nowy",14/9/2017 00:00:00
+"SM42Dn-006",11,"elektryczny",1991,"nowy",5/5/2015 00:00:00
+"SM42Dn-007",17,"spalinowy",1988,"nowy",22/7/2019 00:00:00
+"SM42Dn-008",13,"elektryczny",1991,"złomowany",11/2/2018 00:00:00
+"SM42Dn-009",10,"elektryczno-spalinowy",1986,"uszkodzony",12/2/2018 00:00:00
+"SM42Dn-010",3,"spalinowy",2001,"w naprawie",13/7/2018 00:00:00
+"SM42Dn-011",10,"spalinowy",1984,"w naprawie",25/10/2018 00:00:00
+"SM42Dn-012",1,"elektryczno-spalinowy",2014,"po naprawie",31/3/2018 00:00:00
+"SM42Dn-013",21,"elektryczny",1981,"w trakcie złomowania",25/8/2019 00:00:00
+"SM42Dn-014",12,"elektryczny",2008,"po naprawie",30/9/2020 00:00:00
+"SM42Dn-015",15,"spalinowy",2004,"po naprawie",19/9/2019 00:00:00
+"SM42Dn-016",11,"elektryczno-spalinowy",1984,"po naprawie",18/4/2015 00:00:00
+"SM42Dn-017",14,"elektryczny",1984,"nowy",9/3/2016 00:00:00
+"SM42Dn-018",15,"elektryczny",1986,"w trakcie złomowania",13/6/2015 00:00:00
+"SM42Dn-019",9,"elektryczny",1991,"złomowany",17/4/2020 00:00:00
+"SM42Dn-020",2,"elektryczny",2000,"w naprawie",26/10/2015 00:00:00

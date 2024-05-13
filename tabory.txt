@@ -1,11 +1,11 @@
-SA133-001,2002,w naprawie,2019-09-30,spalinowy
-EU160-001,1993,złomowany,2015-04-09,elektryczny
-ET22-001,2012,nowy,2016-12-11,elektryczny
-33We-001,1980,uszkodzony,2018-04-25,spalinowy
-EP07-001,1989,w trakcie złomowania,2014-11-22,spalinowy
-ED160-001,2006,nowy,2020-07-08,elektryczno-spalinowy
-SM42-001,2005,nowy,2018-01-22,elektryczno-spalinowy
-EN78-001,2000,uszkodzony,2015-04-05,elektryczny
+SA133-001,1,2002,w naprawie,2019-09-30,spalinowy
+EU160-001,2,1993,złomowany,2015-04-09,elektryczny
+ET22-001,3,2012,nowy,2016-12-11,elektryczny
+33We-001,4,1980,uszkodzony,2018-04-25,spalinowy
+EP07-001,5,1989,w trakcie złomowania,2014-11-22,spalinowy
+ED160-001,6,2006,nowy,2020-07-08,elektryczno-spalinowy
+SM42-001,7,2005,nowy,2018-01-22,elektryczno-spalinowy
+EN78-001,8,2000,uszkodzony,2015-04-05,elektryczny
 EN57AKM-001,2002,w trakcie złomowania,2020-07-05,spalinowy
 SA133-002,1993,nowy,2018-09-18,spalinowy
 ET22-002,2013,w naprawie,2020-06-02,elektryczny
