@@ -1,222 +1,246 @@
-1,33We-001,2022-07-23,nie rozpoczęte,Pułtusk,problemy z układem paliwowym,168
-2,EN78-001,2022-05-13,nie rozpoczęte,Radomsko,wypadki drogowe,92
-3,EN76-001,2022-10-26,nie rozpoczęte,Ełk,zakamienienie lub korozja,304
-4,ED160-002,2022-07-30,nie rozpoczęte,Gliwice,zużycie mechaniczne,168
-5,EP07-002,2022-08-02,nie rozpoczęte,Sanok,problemy z układem paliwowym,168
-6,EN57AL-001,2022-05-13,nie rozpoczęte,Malbork,błąd ludzki,494
-7,EU160-002,2023-12-18,nie rozpoczęte,Chojnice,defekty fabryczne lub wadliwe części,168
-8,SM42Dn-002,2022-02-10,nie rozpoczęte,Przemyśl,awaria systemu chłodzenia,304
-9,SA106-003,2023-01-23,nie rozpoczęte,Racibórz,błąd ludzki,494
-10,E4MSUa-004,2023-03-11,nie rozpoczęte,Sanok,uszkodzenia spowodowane uderzeniami,432
-11,EP07-004,2023-09-07,nie rozpoczęte,Lidzbark Warmiński,niedostateczna konserwacja,18
-12,ET22-005,2023-05-02,nie rozpoczęte,Jelenia Góra,awaria systemu chłodzenia,10
-13,ED160-004,2022-11-14,nie rozpoczęte,Sulejówek,defekty fabryczne lub wadliwe części,92
-14,48We-004,2022-08-02,nie rozpoczęte,Nowe Kramsko,problemy z układem hamulcowym,92
-15,E4MSUa-005,2022-03-17,nie rozpoczęte,Jastarnia,uszkodzenie przez wandalizm,304
-16,EN76-005,2022-08-17,nie rozpoczęte,Kraśnik,awaria elektryczna,206
-17,SA103-003,2022-09-27,nie rozpoczęte,Leszno,niedostateczna konserwacja,494
-18,36WEhd-002,2023-05-17,nie rozpoczęte,Myszków,zakamienienie lub korozja,206
-19,SA103-004,2023-02-17,nie rozpoczęte,Zielona Góra,problemy z układem hamulcowym,304
-20,EN71-004,2023-04-19,nie rozpoczęte,Nowy Dwór Mazowiecki,defekty fabryczne lub wadliwe części,404
-21,EN57AKM-007,2022-02-10,nie rozpoczęte,Piaseczno,problemy z układem paliwowym,404
-22,E4MSUa-007,2022-12-04,nie rozpoczęte,Częstochowa,zakamienienie lub korozja,304
-23,ED74-005,2022-02-20,nie rozpoczęte,Pieszyce,błąd ludzki,404
-24,SA103-008,2022-01-05,nie rozpoczęte,Jadowniki,zakamienienie lub korozja,404
-25,SM42Dn-007,2023-07-15,nie rozpoczęte,Kielce,uszkodzenia spowodowane zewnętrznymi czynnikami,10
-26,EN71-010,2022-08-08,nie rozpoczęte,Skierniewice,błąd ludzki,494
-27,ED74-007,2022-03-10,nie rozpoczęte,Pruszków,uszkodzenia spowodowane uderzeniami,300
-28,SM42Dn-008,2023-11-28,nie rozpoczęte,Nowe Kramsko,uszkodzenia spowodowane zewnętrznymi czynnikami,206
-29,EP09-009,2023-05-29,nie rozpoczęte,Świebodzice,błąd ludzki,92
-30,ED74-009,2023-06-14,nie rozpoczęte,Łęczna,problemy z układem paliwowym,40
-31,SA133-012,2023-07-18,nie rozpoczęte,Skalbmierz,awaria systemu chłodzenia,168
-32,EP07-007,2022-06-19,nie rozpoczęte,Świdnik,defekty fabryczne lub wadliwe części,206
-33,SA106-009,2022-08-13,nie rozpoczęte,Jadowniki,błąd ludzki,168
-34,ED160-012,2022-01-02,nie rozpoczęte,Ostrów Mazowiecka,niedostateczne smarowanie,494
-35,ED74-010,2022-04-28,nie rozpoczęte,Franciszków,zużycie mechaniczne,300
-36,48We-013,2023-06-12,nie rozpoczęte,Myszków,niedostateczna konserwacja,92
-37,SM42Dn-012,2022-11-23,nie rozpoczęte,Szczecinek,zużycie mechaniczne,92
-38,ED250-011,2022-07-02,nie rozpoczęte,Żywiec,zużycie mechaniczne,40
-39,EU160-009,2022-09-06,nie rozpoczęte,Ostrzeszów,defekty fabryczne lub wadliwe części,168
-40,SM42-012,2022-12-13,nie rozpoczęte,Czarna Woda,defekty fabryczne lub wadliwe części,494
-41,EP07-010,2022-11-16,nie rozpoczęte,Pęcice,uszkodzenie przez wandalizm,304
-42,33We-006,2023-05-26,nie rozpoczęte,Krotoszyn,niewłaściwe użytkowanie,494
-43,ET22-010,2023-07-05,nie rozpoczęte,Bytom,uszkodzenia spowodowane zewnętrznymi czynnikami,92
-44,SA106-013,2023-08-13,nie rozpoczęte,Wyszków,niedostateczna konserwacja,18
-45,48We-015,2022-08-28,nie rozpoczęte,Biała Podlaska,niedostateczne smarowanie,40
-46,SA103-012,2022-09-20,nie rozpoczęte,Lubin,błąd ludzki,40
-47,SM42Dn-014,2023-11-05,nie rozpoczęte,Jemielnica,problemy z układem hamulcowym,206
-48,SA133-019,2022-05-08,nie rozpoczęte,Przędzel,niedostateczne smarowanie,304
-49,33We-007,2022-08-18,nie rozpoczęte,Leszno,niewłaściwe użytkowanie,10
-50,ED160-018,2023-07-21,nie rozpoczęte,Łoś,niedostateczna konserwacja,432
-51,EN57AL-018,2022-01-17,nie rozpoczęte,Nowy Sącz,uszkodzenia spowodowane uderzeniami,304
-52,36WEhd-013,2023-12-25,nie rozpoczęte,Łomża,uszkodzenia spowodowane uderzeniami,40
-53,SA106-019,2022-03-27,nie rozpoczęte,Darłowo,uszkodzenie przez wandalizm,92
-54,SA133-022,2022-11-18,nie rozpoczęte,Jastrzębie,błąd ludzki,304
-55,EN71-020,2022-04-21,nie rozpoczęte,Radomsko,uszkodzenia spowodowane uderzeniami,300
-56,EU160-014,2023-10-19,nie rozpoczęte,Śrem,niedostateczne smarowanie,206
-57,EP07-012,2023-03-29,nie rozpoczęte,Jelenia Góra,uszkodzenia spowodowane zewnętrznymi czynnikami,404
-58,ED250-021,2023-04-27,nie rozpoczęte,Ostróda,wypadki drogowe,432
-59,ED74-017,2022-12-30,nie rozpoczęte,Sulejówek,niewłaściwe użytkowanie,206
-60,33We-009,2023-03-13,nie rozpoczęte,Tarnów,niewłaściwe użytkowanie,18
-61,EN71-023,2022-03-04,nie rozpoczęte,Mielec,błąd ludzki,206
-62,EN71-025,2022-12-20,nie rozpoczęte,Nowy Sącz,zakamienienie lub korozja,404
-63,SM42-019,2023-07-01,nie rozpoczęte,Kościan,błąd ludzki,168
-64,E4MSUa-022,2023-02-04,nie rozpoczęte,Tarnobrzeg,uszkodzenia spowodowane zewnętrznymi czynnikami,404
-65,SM42Dn-019,2023-06-13,nie rozpoczęte,Szczawin,niedostateczne smarowanie,92
-66,EU160-015,2023-11-16,nie rozpoczęte,Mikołów,uszkodzenie przez wandalizm,432
-67,48We-021,2023-06-18,nie rozpoczęte,Kolonowskie,awaria elektryczna,10
-68,EN57AL-025,2023-01-22,nie rozpoczęte,Lubin,uszkodzenia spowodowane uderzeniami,168
-69,SA133-001,2022-09-24,w naprawie,Boguszów-Gorce,niedostateczne smarowanie,40
-70,ET22-002,2023-04-10,w naprawie,Konin,uszkodzenia spowodowane zewnętrznymi czynnikami,432
-71,SA106-002,2023-02-23,w naprawie,Olkusz,niewłaściwe użytkowanie,40
-72,SA133-005,2022-06-13,w naprawie,Warszawa,zużycie mechaniczne,168
-73,EP09-004,2022-11-24,w naprawie,Białystok,zakamienienie lub korozja,40
-74,48We-003,2023-11-06,w naprawie,Chorzów,niedostateczne smarowanie,404
-75,EP09-005,2023-02-28,w naprawie,Konstancin-Jeziorna,awaria elektryczna,206
-76,ET22-004,2023-12-02,w naprawie,Opole,wypadki drogowe,168
-77,EU160-004,2022-11-18,w naprawie,Zborowskie,zużycie mechaniczne,40
-78,E4MSUa-003,2023-11-01,w naprawie,Świebodzin,uszkodzenia spowodowane uderzeniami,206
-79,EN76-004,2023-04-13,w naprawie,Magdalenka,wypadki drogowe,432
-80,ED250-005,2022-03-25,w naprawie,Józefów,problemy z układem paliwowym,300
-81,EP09-008,2023-05-14,w naprawie,Szczytno,zakamienienie lub korozja,10
-82,EN71-003,2023-01-14,w naprawie,Pabianice,uszkodzenie przez wandalizm,300
-83,EN57AL-008,2022-08-01,w naprawie,Giżycko,problemy z układem hamulcowym,304
-84,SM42Dn-004,2023-01-13,w naprawie,Tczew,awaria systemu chłodzenia,404
-85,EN78-007,2022-12-30,w naprawie,Tomaszów Mazowiecki,niewłaściwe użytkowanie,92
-86,EN78-009,2023-08-23,w naprawie,Pułtusk,uszkodzenia spowodowane uderzeniami,432
-87,EN78-010,2023-06-12,w naprawie,Pszczyna,problemy z układem hamulcowym,10
-88,ED74-004,2023-05-26,w naprawie,Rzeszów,defekty fabryczne lub wadliwe części,432
-89,48We-008,2022-05-26,w naprawie,Szwecja,zakamienienie lub korozja,10
-90,ED160-007,2023-11-03,w naprawie,Świdnica,uszkodzenie przez wandalizm,92
-91,SA106-005,2022-01-06,w naprawie,Krosno,błąd ludzki,206
-92,EN57AKM-009,2023-10-09,w naprawie,Żywiec,awaria elektryczna,404
-93,EN78-012,2023-01-02,w naprawie,Wola Kiedrzyńska,uszkodzenie przez wandalizm,494
-94,SA106-006,2022-09-22,w naprawie,Swarzędz,zakamienienie lub korozja,494
-95,E4MSUa-009,2022-05-10,w naprawie,Chrzanów,problemy z układem hamulcowym,18
-96,SM42-005,2023-04-27,w naprawie,Kołobrzeg,niedostateczna konserwacja,300
-97,48We-009,2023-11-22,w naprawie,Kraśnik,uszkodzenia spowodowane uderzeniami,304
-98,36WEhd-006,2023-03-21,w naprawie,Kamieniec Ząbkowicki,wypadki drogowe,92
-99,ED74-008,2022-10-01,w naprawie,Piotrków Trybunalski,błąd ludzki,304
-100,SM42Dn-009,2023-09-03,w naprawie,Toruń,uszkodzenie przez wandalizm,432
-101,SA133-011,2023-03-25,w naprawie,Dębica,awaria systemu chłodzenia,10
-102,EN57AKM-013,2022-01-17,w naprawie,Czerwionka-Leszczyny,zakamienienie lub korozja,494
-103,SA103-010,2022-09-08,w naprawie,Sanok,uszkodzenie przez wandalizm,300
-104,ED250-008,2023-05-20,w naprawie,Pilchowo,uszkodzenie przez wandalizm,494
-105,SA133-013,2023-06-06,w naprawie,Zgorzelec,uszkodzenie przez wandalizm,304
-106,48We-012,2023-09-07,w naprawie,Nowe Kramsko,problemy z układem hamulcowym,168
-107,E4MSUa-011,2022-10-15,w naprawie,Lubartów,niewłaściwe użytkowanie,206
-108,33We-004,2022-09-24,w naprawie,Biała Podlaska,zakamienienie lub korozja,494
-109,E4MSUa-014,2023-01-08,w naprawie,Warszawa,uszkodzenia spowodowane uderzeniami,168
-110,SA106-012,2023-05-04,w naprawie,Mikołów,niewłaściwe użytkowanie,300
-111,ED160-014,2023-02-04,w naprawie,Nowe Kramsko,niedostateczna konserwacja,18
-112,ED250-012,2022-10-26,w naprawie,Władysławowo,awaria systemu chłodzenia,432
-113,EN76-011,2023-11-27,w naprawie,Franciszków,problemy z układem paliwowym,300
-114,ED160-015,2022-07-04,w naprawie,Mysłowice,błąd ludzki,18
-115,EP09-013,2023-11-16,w naprawie,Szwecja,uszkodzenia spowodowane uderzeniami,18
-116,EN57AKM-020,2022-01-29,w naprawie,Poznań,zakamienienie lub korozja,300
-117,ED74-012,2022-09-28,w naprawie,Jelenia Góra,awaria systemu chłodzenia,206
-118,48We-014,2023-11-15,w naprawie,Magdalenka,problemy z układem paliwowym,92
-119,EN78-016,2023-02-04,w naprawie,Świebodzin,błąd ludzki,168
-120,ED250-015,2023-08-29,w naprawie,Giżycko,zakamienienie lub korozja,92
-121,36WEhd-009,2022-09-05,w naprawie,Głogów,niewłaściwe użytkowanie,92
-122,E4MSUa-017,2023-09-20,w naprawie,Police,awaria elektryczna,40
-123,ED160-017,2022-12-29,w naprawie,Pruszków,uszkodzenia spowodowane zewnętrznymi czynnikami,168
-124,SA103-013,2023-04-03,w naprawie,Nowy Sącz,defekty fabryczne lub wadliwe części,18
-125,ED74-015,2022-10-05,w naprawie,Chojnice,awaria systemu chłodzenia,304
-126,ET22-014,2023-06-18,w naprawie,Zawiercie,błąd ludzki,494
-127,EU160-011,2023-10-27,w naprawie,Kamień,uszkodzenie przez wandalizm,432
-128,SA133-020,2023-03-19,w naprawie,Lubojenka,defekty fabryczne lub wadliwe części,300
-129,48We-017,2022-06-24,w naprawie,Katowice,awaria systemu chłodzenia,168
-130,ED74-016,2022-10-07,w naprawie,Jastarnia,uszkodzenia spowodowane uderzeniami,168
-131,ED160-020,2023-12-06,w naprawie,Legnica,zużycie mechaniczne,40
-132,EU160-013,2023-03-23,w naprawie,Gdańsk,awaria systemu chłodzenia,494
-133,EN71-021,2023-10-05,w naprawie,Olkusz,błąd ludzki,432
-134,SM42-016,2022-02-03,w naprawie,Otwock,problemy z układem hamulcowym,168
-135,EP07-013,2022-05-24,w naprawie,Gorlice,uszkodzenie przez wandalizm,494
-136,ET22-016,2022-01-10,w naprawie,Lubin,zakamienienie lub korozja,206
-137,ED160-021,2022-05-13,w naprawie,Gorzów Wielkopolski,awaria elektryczna,432
-138,EN78-021,2022-05-23,w naprawie,Studzienice,wypadki drogowe,10
-139,33We-012,2023-06-06,w naprawie,Świdnik,awaria systemu chłodzenia,304
-140,EN78-022,2023-03-16,w naprawie,Kuźnica Masłońska,problemy z układem hamulcowym,206
-141,SA133-024,2023-05-01,w naprawie,Elbląg,zużycie mechaniczne,168
-142,SM42Dn-001,2023-02-17,po naprawie,Łomża,uszkodzenia spowodowane uderzeniami,168
-143,EN78-002,2022-06-28,po naprawie,Ostrowiec Świętokrzyski,zakamienienie lub korozja,432
-144,48We-001,2023-03-04,po naprawie,Będzin,uszkodzenia spowodowane uderzeniami,18
-145,EU160-003,2023-06-30,po naprawie,Częstochowa,problemy z układem hamulcowym,40
-146,ED74-002,2023-07-08,po naprawie,Wałbrzych,błąd ludzki,168
-147,SM42Dn-003,2023-08-06,po naprawie,Lidzbark Warmiński,awaria elektryczna,206
-148,ED250-003,2022-03-26,po naprawie,Jelcz-Laskowice,awaria elektryczna,300
-149,EN57AL-004,2022-09-24,po naprawie,Wałbrzych,uszkodzenie przez wandalizm,206
-150,EN57AKM-002,2023-11-01,po naprawie,Żywiec,wypadki drogowe,494
-151,EU160-005,2022-11-21,po naprawie,Opole,zakamienienie lub korozja,10
-152,EU160-006,2022-08-07,po naprawie,Bieruń,wypadki drogowe,10
-153,SA106-004,2022-01-02,po naprawie,Malbork,niedostateczna konserwacja,494
-154,EN57AL-009,2023-02-18,po naprawie,Sandomierz,awaria elektryczna,304
-155,EN78-006,2023-06-02,po naprawie,Ostrzeszów,zakamienienie lub korozja,304
-156,EN57AKM-005,2023-04-15,po naprawie,Łęczna,problemy z układem paliwowym,18
-157,EN71-006,2023-06-16,po naprawie,Gdynia,zakamienienie lub korozja,10
-158,EN71-008,2022-01-27,po naprawie,Józefów,awaria elektryczna,10
-159,SM42-007,2022-11-12,po naprawie,Kamienica Królewska,awaria systemu chłodzenia,168
-160,SA103-007,2022-09-02,po naprawie,Ostróda,niedostateczne smarowanie,494
-161,EP07-006,2022-10-01,po naprawie,Pruszcz Gdański,niewłaściwe użytkowanie,40
-162,EN57AKM-011,2022-07-25,po naprawie,Siemianowice Śląskie,problemy z układem paliwowym,18
-163,EN57AKM-012,2023-01-04,po naprawie,Lębork,problemy z układem hamulcowym,494
-164,ET22-008,2023-11-08,po naprawie,Braniewo,wypadki drogowe,304
-165,SA133-010,2022-11-02,po naprawie,Gorzów Wielkopolski,defekty fabryczne lub wadliwe części,206
-166,EN76-007,2022-07-31,po naprawie,Kluczbork,uszkodzenia spowodowane uderzeniami,206
-167,ED160-011,2022-05-06,po naprawie,Bielawa,zakamienienie lub korozja,432
-168,36WEhd-007,2023-08-30,po naprawie,Zakopane,niedostateczne smarowanie,404
-169,EN57AL-012,2023-01-17,po naprawie,Zduńska Wola,problemy z układem hamulcowym,168
-170,EN78-014,2022-03-28,po naprawie,Krotoszyn,wypadki drogowe,304
-171,EN71-012,2022-03-17,po naprawie,Boguszów-Gorce,problemy z układem hamulcowym,304
-172,EN57AKM-015,2023-09-10,po naprawie,Jemielnica,zakamienienie lub korozja,404
-173,EN57AKM-016,2022-07-20,po naprawie,Studzienice,defekty fabryczne lub wadliwe części,10
-174,SA106-011,2022-01-08,po naprawie,Iława,defekty fabryczne lub wadliwe części,432
-175,EP09-011,2022-02-18,po naprawie,Koszalin,problemy z układem hamulcowym,40
-176,SA133-015,2022-05-30,po naprawie,Szczecinek,niewłaściwe użytkowanie,404
-177,EN71-013,2023-05-10,po naprawie,Jastrzębie,uszkodzenia spowodowane zewnętrznymi czynnikami,206
-178,EP09-012,2022-02-24,po naprawie,Lubliniec,uszkodzenia spowodowane uderzeniami,168
-179,EN71-015,2023-02-03,po naprawie,Szczytno,problemy z układem hamulcowym,206
-180,ET22-011,2023-09-06,po naprawie,Studzienice,wypadki drogowe,304
-181,ED74-013,2022-11-20,po naprawie,Sieradz,problemy z układem hamulcowym,404
-182,ED250-014,2023-11-23,po naprawie,Koszwały,uszkodzenia spowodowane zewnętrznymi czynnikami,304
-183,EN76-013,2023-01-20,po naprawie,Wałbrzych,awaria elektryczna,40
-184,SM42Dn-013,2022-02-07,po naprawie,Czerwionka-Leszczyny,problemy z układem hamulcowym,494
-185,EN76-015,2023-02-12,po naprawie,Lębork,błąd ludzki,168
-186,SA133-021,2023-07-06,po naprawie,Ełk,błąd ludzki,40
-187,SM42Dn-016,2023-02-02,po naprawie,Bogatynia,wypadki drogowe,92
-188,E4MSUa-018,2023-05-17,po naprawie,Racibórz,defekty fabryczne lub wadliwe części,404
-189,ED250-017,2023-04-14,po naprawie,Czerwionka-Leszczyny,uszkodzenia spowodowane uderzeniami,168
-190,48We-018,2022-04-11,po naprawie,Stalowa Wola,uszkodzenie przez wandalizm,168
-191,EN78-018,2023-09-28,po naprawie,Władysławowo,niedostateczne smarowanie,404
-192,SA103-016,2023-03-24,po naprawie,Sandomierz,niedostateczna konserwacja,40
-193,36WEhd-015,2022-11-06,po naprawie,Przemyśl,uszkodzenie przez wandalizm,40
-194,48We-019,2023-01-04,po naprawie,Ostróda,zakamienienie lub korozja,494
-195,33We-011,2023-01-26,po naprawie,Koło,problemy z układem hamulcowym,168
-196,ET22-017,2022-11-20,po naprawie,Tarnowskie Góry,awaria elektryczna,40
-197,EN78-019,2023-11-15,po naprawie,Tczew,zużycie mechaniczne,10
-198,EN57AL-023,2022-07-23,po naprawie,Tarnobrzeg,awaria elektryczna,40
-199,EN57AL-024,2023-04-22,po naprawie,Pęcice,zużycie mechaniczne,10
-200,SA103-020,2023-07-21,po naprawie,Oświęcim,uszkodzenia spowodowane zewnętrznymi czynnikami,494
-201,48We-022,2023-11-17,po naprawie,Jaroszowa Wola,awaria systemu chłodzenia,168
-202,EN57AKM-007,2021-05-28,po naprawie,Lublin,defekty fabryczne lub wadliwe części,10
-203,ED74-017,2021-10-07,po naprawie,Gliwice,awaria systemu chłodzenia,10
-204,EN57AL-025,2021-03-08,po naprawie,Iława,zakamienienie lub korozja,432
-205,SM42Dn-014,2021-05-29,po naprawie,Racibórz,awaria elektryczna,432
-206,SM42-019,2021-09-20,po naprawie,Kętrzyn,niedostateczna konserwacja,432
-207,EN76-005,2021-09-03,po naprawie,Orzesze,uszkodzenia spowodowane zewnętrznymi czynnikami,432
-208,EN71-023,2021-04-03,po naprawie,Słupsk,zużycie mechaniczne,18
-209,EN78-021,2021-03-04,po naprawie,Jarosław,awaria systemu chłodzenia,432
-210,EN78-016,2021-05-03,po naprawie,Zawiercie,awaria systemu chłodzenia,168
-211,SA133-013,2021-03-05,po naprawie,Czarna Woda,awaria elektryczna,432
-212,EN57AKM-020,2021-03-09,po naprawie,Płock,niedostateczne smarowanie,404
-213,SM42Dn-013,2021-08-31,po naprawie,Nowe Kramsko,problemy z układem hamulcowym,10
-214,SM42-007,2021-09-12,po naprawie,Gdańsk,problemy z układem paliwowym,206
-215,ED74-002,2021-09-13,po naprawie,Ostrołęka,niewłaściwe użytkowanie,304
-216,EN78-019,2021-11-17,po naprawie,Jastrzębie,uszkodzenia spowodowane uderzeniami,92
-217,EN57AL-024,2021-03-31,po naprawie,Tarnobrzeg,zużycie mechaniczne,300
-218,EU160-005,2021-12-05,po naprawie,Piekary Śląskie,problemy z układem hamulcowym,300
-219,EN71-006,2021-05-24,po naprawie,Szwecja,awaria elektryczna,40
-220,EP07-006,2021-06-17,po naprawie,Pruszków,uszkodzenia spowodowane zewnętrznymi czynnikami,40
-221,SA103-016,2021-08-15,po naprawie,Zakopane,wypadki drogowe,18
-222,EN71-008,2021-07-22,po naprawie,Tychy,uszkodzenie przez wandalizm,494
+1,33We-001,2023-01-09,nie rozpoczęte,Ostrzeszów,problemy z układem hamulcowym,92
+2,ET22-002,2023-12-11,nie rozpoczęte,Bielsko-Biała,niewłaściwe użytkowanie,92
+3,ET22-003,2023-11-01,nie rozpoczęte,Kamień,błąd ludzki,304
+4,SM42Dn-001,2022-02-21,nie rozpoczęte,Bogatynia,problemy z układem paliwowym,10
+5,EN57AL-001,2023-04-08,nie rozpoczęte,Białystok,awaria elektryczna,10
+6,SM42Dn-002,2023-07-17,nie rozpoczęte,Otwock,problemy z układem paliwowym,92
+7,EU160-003,2023-03-30,nie rozpoczęte,Tychy,niedostateczne smarowanie,40
+8,EP09-004,2022-02-22,nie rozpoczęte,Lubartów,niewłaściwe użytkowanie,206
+9,48We-003,2023-04-22,nie rozpoczęte,Będzin,zużycie mechaniczne,92
+10,EP09-005,2023-02-20,nie rozpoczęte,Sandomierz,uszkodzenie przez wandalizm,304
+11,ET22-004,2023-03-20,nie rozpoczęte,Świnoujście,defekty fabryczne lub wadliwe części,40
+12,EN57AL-003,2022-03-23,nie rozpoczęte,Rumia,błąd ludzki,432
+13,E4MSUa-003,2023-06-05,nie rozpoczęte,Legnica,awaria systemu chłodzenia,404
+14,ED250-003,2022-12-24,nie rozpoczęte,Mokrzyska,problemy z układem paliwowym,300
+15,ED250-005,2023-11-07,nie rozpoczęte,Lubliniec,błąd ludzki,300
+16,EN57AL-006,2023-01-12,nie rozpoczęte,Żywiec,problemy z układem hamulcowym,92
+17,EN57AL-008,2022-08-03,nie rozpoczęte,Kraśnik,awaria systemu chłodzenia,92
+18,EN57AKM-005,2023-10-29,nie rozpoczęte,Jastrzębie,wypadki drogowe,494
+19,48We-007,2022-11-16,nie rozpoczęte,Przędzel,defekty fabryczne lub wadliwe części,10
+20,EN71-006,2023-04-17,nie rozpoczęte,Świdnica,błąd ludzki,92
+21,EN78-011,2023-05-07,nie rozpoczęte,Elbląg,uszkodzenia spowodowane zewnętrznymi czynnikami,40
+22,36WEhd-003,2022-02-14,nie rozpoczęte,Szczytno,niedostateczne smarowanie,92
+23,SM42-003,2022-11-26,nie rozpoczęte,Pruszcz Gdański,błąd ludzki,10
+24,E4MSUa-007,2022-03-24,nie rozpoczęte,Jemielnica,wypadki drogowe,304
+25,SA103-007,2023-09-23,nie rozpoczęte,Rynarzewo,problemy z układem paliwowym,300
+26,SA103-008,2023-03-04,nie rozpoczęte,Trzebiatów,niewłaściwe użytkowanie,18
+27,48We-009,2022-03-11,nie rozpoczęte,Krosno,wypadki drogowe,206
+28,ED160-009,2023-01-27,nie rozpoczęte,Nowa Ruda,niewłaściwe użytkowanie,494
+29,E4MSUa-010,2023-04-17,nie rozpoczęte,Tczew,awaria elektryczna,18
+30,SM42Dn-009,2022-12-28,nie rozpoczęte,Turek,uszkodzenia spowodowane zewnętrznymi czynnikami,206
+31,SA133-011,2023-10-21,nie rozpoczęte,Nowa Sól,niedostateczne smarowanie,168
+32,48We-011,2022-04-09,nie rozpoczęte,Konstancin-Jeziorna,zużycie mechaniczne,10
+33,EN57AKM-013,2023-11-16,nie rozpoczęte,Szczawin,uszkodzenia spowodowane zewnętrznymi czynnikami,40
+34,SM42-009,2023-09-28,nie rozpoczęte,Radom,problemy z układem hamulcowym,404
+35,SA133-012,2023-10-07,nie rozpoczęte,Darłowo,niedostateczna konserwacja,40
+36,36WEhd-007,2023-03-27,nie rozpoczęte,Kamieniec Ząbkowicki,wypadki drogowe,40
+37,SA133-013,2023-06-04,nie rozpoczęte,Kutno,zakamienienie lub korozja,304
+38,33We-003,2022-04-02,nie rozpoczęte,Chełm,niewłaściwe użytkowanie,10
+39,SA106-009,2023-06-06,nie rozpoczęte,Czeladź,awaria systemu chłodzenia,40
+40,ED160-012,2022-12-27,nie rozpoczęte,Łódź,uszkodzenia spowodowane zewnętrznymi czynnikami,18
+41,ED74-010,2023-07-23,nie rozpoczęte,Słupsk,problemy z układem hamulcowym,432
+42,SA133-014,2023-01-10,nie rozpoczęte,Wola Kiedrzyńska,awaria elektryczna,18
+43,ED160-013,2022-04-01,nie rozpoczęte,Będzin,uszkodzenie przez wandalizm,304
+44,EP09-011,2023-01-16,nie rozpoczęte,Krępiec,problemy z układem paliwowym,494
+45,SA133-015,2022-07-05,nie rozpoczęte,Świdnica,awaria elektryczna,404
+46,SA133-016,2023-07-11,nie rozpoczęte,Żary,uszkodzenia spowodowane zewnętrznymi czynnikami,404
+47,EP09-012,2023-11-25,nie rozpoczęte,Elbląg,uszkodzenia spowodowane zewnętrznymi czynnikami,432
+48,ED160-015,2022-04-21,nie rozpoczęte,Jelcz-Laskowice,błąd ludzki,304
+49,EN71-015,2023-05-31,nie rozpoczęte,Ruda Śląska,awaria elektryczna,404
+50,EP09-013,2022-05-28,nie rozpoczęte,Oświęcim,uszkodzenia spowodowane uderzeniami,40
+51,EN71-016,2022-03-24,nie rozpoczęte,Bieruń,problemy z układem hamulcowym,206
+52,EN76-012,2023-10-09,nie rozpoczęte,Sosnowiec,zużycie mechaniczne,40
+53,ET22-011,2023-05-18,nie rozpoczęte,Brodnica,niedostateczna konserwacja,494
+54,SA106-013,2023-07-25,nie rozpoczęte,Mysłowice,defekty fabryczne lub wadliwe części,304
+55,EN71-018,2022-12-05,nie rozpoczęte,Ostróda,zużycie mechaniczne,40
+56,ED250-015,2022-01-11,nie rozpoczęte,Dąbrowa Górnicza,uszkodzenie przez wandalizm,206
+57,SA133-018,2022-04-22,nie rozpoczęte,Kalisz,niewłaściwe użytkowanie,168
+58,SA103-012,2022-11-18,nie rozpoczęte,Przemyśl,problemy z układem hamulcowym,206
+59,EN76-015,2022-02-10,nie rozpoczęte,Szczecinek,uszkodzenia spowodowane uderzeniami,404
+60,ED160-017,2022-09-03,nie rozpoczęte,Płock,uszkodzenia spowodowane zewnętrznymi czynnikami,18
+61,SA106-017,2023-07-04,nie rozpoczęte,Świnoujście,uszkodzenia spowodowane uderzeniami,404
+62,ED160-018,2023-07-07,nie rozpoczęte,Ilkowice,zużycie mechaniczne,300
+63,36WEhd-013,2023-06-29,nie rozpoczęte,Szwecja,defekty fabryczne lub wadliwe części,92
+64,EP07-012,2023-06-24,nie rozpoczęte,Głogów,awaria systemu chłodzenia,206
+65,EN57AL-021,2022-02-03,nie rozpoczęte,Oświęcim,niedostateczna konserwacja,206
+66,EN76-017,2022-04-07,nie rozpoczęte,Piekary Śląskie,niedostateczne smarowanie,404
+67,SM42-016,2023-08-28,nie rozpoczęte,Pruszcz Gdański,awaria elektryczna,304
+68,SA106-021,2022-05-19,nie rozpoczęte,Kościan,niewłaściwe użytkowanie,494
+69,33We-008,2022-08-01,nie rozpoczęte,Wejherowo,uszkodzenia spowodowane zewnętrznymi czynnikami,40
+70,48We-020,2023-07-28,nie rozpoczęte,Gołubie,zużycie mechaniczne,10
+71,EN76-018,2023-01-27,nie rozpoczęte,Szówsko,niedostateczne smarowanie,304
+72,ED250-022,2022-06-05,nie rozpoczęte,Żory,uszkodzenia spowodowane uderzeniami,92
+73,SA103-018,2022-08-13,nie rozpoczęte,Kamień,błąd ludzki,18
+74,36WEhd-018,2022-04-12,nie rozpoczęte,Czaplinek,niedostateczna konserwacja,300
+75,SM42-020,2023-09-22,nie rozpoczęte,Szczecin,uszkodzenia spowodowane uderzeniami,40
+76,48We-021,2023-03-03,nie rozpoczęte,Osówiec,wypadki drogowe,18
+77,33We-013,2023-10-22,nie rozpoczęte,Kraków,awaria elektryczna,168
+78,EU160-001,2023-08-31,w naprawie,Bieruń,niedostateczna konserwacja,432
+79,SM42-001,2023-05-03,w naprawie,Rumia,problemy z układem hamulcowym,432
+80,SA133-003,2022-03-12,w naprawie,Kolonowskie,zużycie mechaniczne,18
+81,ED74-001,2022-10-24,w naprawie,Darłowo,niedostateczne smarowanie,404
+82,SA106-001,2023-06-08,w naprawie,Lędziny,zakamienienie lub korozja,10
+83,48We-001,2022-01-28,w naprawie,Osówiec,niedostateczne smarowanie,304
+84,ED160-003,2023-08-15,w naprawie,Sulejówek,niedostateczna konserwacja,10
+85,E4MSUa-002,2023-01-14,w naprawie,Stargard,wypadki drogowe,10
+86,SM42Dn-003,2022-11-16,w naprawie,Siedlce,niewłaściwe użytkowanie,300
+87,EP07-004,2022-03-22,w naprawie,Bełchatów,uszkodzenie przez wandalizm,40
+88,ET22-005,2023-07-18,w naprawie,Wrocław,awaria elektryczna,494
+89,48We-004,2022-12-07,w naprawie,Piaseczno,wypadki drogowe,10
+90,48We-005,2023-02-16,w naprawie,Suwałki,niedostateczna konserwacja,10
+91,EN71-003,2022-11-06,w naprawie,Lębork,awaria systemu chłodzenia,10
+92,EU160-006,2023-12-22,w naprawie,Piotrków Trybunalski,uszkodzenia spowodowane zewnętrznymi czynnikami,206
+93,EN78-004,2022-12-27,w naprawie,Kościan,problemy z układem hamulcowym,494
+94,EP07-005,2023-12-19,w naprawie,Stargard,niedostateczna konserwacja,494
+95,36WEhd-002,2023-11-15,w naprawie,Gdynia,uszkodzenia spowodowane uderzeniami,10
+96,ED160-005,2023-12-01,w naprawie,Bieruń,awaria systemu chłodzenia,300
+97,EN57AKM-004,2023-07-20,w naprawie,Chojnice,problemy z układem hamulcowym,300
+98,EN78-008,2022-03-08,w naprawie,Pszczyna,problemy z układem hamulcowym,40
+99,EN71-007,2023-04-11,w naprawie,Ostrów Wielkopolski,uszkodzenia spowodowane uderzeniami,304
+100,SA133-008,2022-03-06,w naprawie,Franciszków,błąd ludzki,300
+101,EN57AKM-006,2022-07-08,w naprawie,Franciszków,uszkodzenia spowodowane zewnętrznymi czynnikami,300
+102,EN57AKM-007,2022-01-02,w naprawie,Kolonowskie,awaria elektryczna,404
+103,ED160-007,2023-10-03,w naprawie,Piotrków Trybunalski,błąd ludzki,300
+104,SA106-005,2022-05-31,w naprawie,Olsztyn,problemy z układem hamulcowym,40
+105,36WEhd-005,2023-10-05,w naprawie,Tczew,uszkodzenia spowodowane zewnętrznymi czynnikami,304
+106,ED250-007,2023-07-27,w naprawie,Kolonowskie,uszkodzenia spowodowane uderzeniami,304
+107,EN78-013,2023-08-04,w naprawie,Wągrowiec,błąd ludzki,40
+108,EN57AL-010,2022-02-01,w naprawie,Ciechanów,defekty fabryczne lub wadliwe części,300
+109,36WEhd-006,2022-10-25,w naprawie,Łomża,niedostateczne smarowanie,494
+110,ED74-008,2022-03-20,w naprawie,Mokrzyska,problemy z układem hamulcowym,168
+111,EU160-007,2022-01-13,w naprawie,Franciszków,uszkodzenie przez wandalizm,494
+112,ET22-008,2023-12-17,w naprawie,Zduńska Wola,problemy z układem paliwowym,168
+113,EN71-011,2023-12-06,w naprawie,Jasło,zużycie mechaniczne,300
+114,ED74-009,2023-05-27,w naprawie,Żory,awaria elektryczna,168
+115,SA103-010,2023-08-22,w naprawie,Kościerzyna,uszkodzenia spowodowane zewnętrznymi czynnikami,168
+116,ED160-011,2023-06-10,w naprawie,Krosno,wypadki drogowe,18
+117,EN78-014,2022-12-03,w naprawie,Zakopane,problemy z układem hamulcowym,10
+118,EP07-009,2022-04-04,w naprawie,Lidzbark Warmiński,niedostateczna konserwacja,300
+119,SM42Dn-010,2023-08-05,w naprawie,Legionowo,awaria elektryczna,304
+120,EP09-010,2023-10-14,w naprawie,Bogaczów,problemy z układem paliwowym,304
+121,ED250-009,2022-12-30,w naprawie,Kozienice,problemy z układem paliwowym,168
+122,E4MSUa-013,2022-04-07,w naprawie,Gołubie,uszkodzenia spowodowane zewnętrznymi czynnikami,18
+123,SM42Dn-011,2023-09-01,w naprawie,Brzeg,awaria elektryczna,10
+124,EN76-010,2023-05-11,w naprawie,Oświęcim,defekty fabryczne lub wadliwe części,92
+125,ED250-010,2023-11-17,w naprawie,Ciechanów,uszkodzenia spowodowane zewnętrznymi czynnikami,432
+126,ED160-014,2023-05-10,w naprawie,Pieszyce,awaria systemu chłodzenia,494
+127,ED250-012,2023-05-01,w naprawie,Wągrowiec,awaria systemu chłodzenia,300
+128,EU160-009,2023-10-13,w naprawie,Nowa Sól,niedostateczna konserwacja,304
+129,ED74-011,2023-04-10,w naprawie,Jelcz-Laskowice,niedostateczne smarowanie,300
+130,EU160-010,2022-11-07,w naprawie,Świdwin,zużycie mechaniczne,404
+131,EN71-017,2022-09-24,w naprawie,Brodnica,błąd ludzki,40
+132,EN78-016,2022-06-26,w naprawie,Czerwionka-Leszczyny,uszkodzenia spowodowane zewnętrznymi czynnikami,300
+133,EN57AL-015,2023-01-14,w naprawie,Kraśnik,uszkodzenia spowodowane uderzeniami,494
+134,SA106-016,2022-03-30,w naprawie,Bielawa,wypadki drogowe,168
+135,ET22-013,2023-07-12,w naprawie,Warszawa,defekty fabryczne lub wadliwe części,18
+136,ET22-014,2023-09-22,w naprawie,Krapkowice,niewłaściwe użytkowanie,168
+137,SA133-019,2022-04-25,w naprawie,Puławy,problemy z układem hamulcowym,206
+138,SA133-020,2022-06-24,w naprawie,Jadowniki,uszkodzenie przez wandalizm,92
+139,33We-007,2023-09-10,w naprawie,Tarnobrzeg,uszkodzenia spowodowane zewnętrznymi czynnikami,92
+140,EN57AL-017,2023-11-12,w naprawie,Dębogórze,awaria systemu chłodzenia,92
+141,EP07-011,2022-05-08,w naprawie,Skarżysko-Kamienna,uszkodzenia spowodowane uderzeniami,206
+142,ED160-019,2022-05-27,w naprawie,Mysłowice,uszkodzenia spowodowane zewnętrznymi czynnikami,92
+143,36WEhd-011,2023-12-11,w naprawie,Czarna Woda,uszkodzenia spowodowane uderzeniami,404
+144,EU160-012,2023-09-20,w naprawie,Poznań,uszkodzenie przez wandalizm,206
+145,36WEhd-014,2022-07-26,w naprawie,Łomża,defekty fabryczne lub wadliwe części,168
+146,EU160-013,2023-11-03,w naprawie,Inowrocław,zużycie mechaniczne,92
+147,E4MSUa-020,2022-12-22,w naprawie,Sanok,uszkodzenia spowodowane zewnętrznymi czynnikami,300
+148,36WEhd-015,2022-03-17,w naprawie,Piaseczno,zużycie mechaniczne,404
+149,EN57AL-020,2023-02-16,w naprawie,Skalbmierz,niedostateczna konserwacja,168
+150,E4MSUa-021,2022-02-26,w naprawie,Jastarnia,uszkodzenie przez wandalizm,206
+151,EP07-013,2023-03-19,w naprawie,Pułtusk,problemy z układem hamulcowym,304
+152,33We-009,2022-02-25,w naprawie,Warszawa,niewłaściwe użytkowanie,40
+153,ED250-023,2023-01-07,w naprawie,Studzienice,problemy z układem hamulcowym,40
+154,EN71-025,2023-01-07,w naprawie,Nowy Dwór Mazowiecki,wypadki drogowe,40
+155,SA103-017,2023-01-03,w naprawie,Bogaczów,uszkodzenie przez wandalizm,92
+156,33We-011,2022-05-19,w naprawie,Ciechanów,niewłaściwe użytkowanie,168
+157,ED74-018,2023-09-13,w naprawie,Pawłowice,uszkodzenia spowodowane uderzeniami,168
+158,ED160-022,2022-04-02,w naprawie,Kutno,problemy z układem paliwowym,92
+159,SM42Dn-020,2023-11-22,w naprawie,Świecie,awaria elektryczna,304
+160,SA103-019,2022-01-25,w naprawie,Ząbki,błąd ludzki,10
+161,SA103-020,2022-07-18,w naprawie,Żywiec,uszkodzenia spowodowane uderzeniami,168
+162,EU160-015,2023-01-26,w naprawie,Ełk,defekty fabryczne lub wadliwe części,304
+163,EU160-016,2023-05-18,w naprawie,Orzesze,uszkodzenia spowodowane zewnętrznymi czynnikami,18
+164,EN57AL-026,2022-03-29,w naprawie,Jastrzębie,awaria systemu chłodzenia,10
+165,ED160-002,2022-01-17,po naprawie,Mysłowice,problemy z układem hamulcowym,494
+166,EP07-002,2023-04-25,po naprawie,Częstochowa,problemy z układem hamulcowym,206
+167,EN78-003,2022-09-16,po naprawie,Gniezno,zużycie mechaniczne,92
+168,EU160-004,2022-10-25,po naprawie,Kołobrzeg,niedostateczna konserwacja,304
+169,SA103-001,2022-11-26,po naprawie,Sieradz,niewłaściwe użytkowanie,494
+170,EN76-004,2023-04-20,po naprawie,Chrzanów,błąd ludzki,304
+171,E4MSUa-004,2023-05-31,po naprawie,Przemyśl,uszkodzenia spowodowane uderzeniami,206
+172,EP09-006,2023-09-14,po naprawie,Bytom,defekty fabryczne lub wadliwe części,40
+173,EP09-008,2023-01-13,po naprawie,Koszalin,niedostateczne smarowanie,494
+174,EN57AL-004,2023-11-02,po naprawie,Szteklin,niedostateczna konserwacja,304
+175,EN57AKM-003,2023-01-05,po naprawie,Tarnobrzeg,uszkodzenie przez wandalizm,304
+176,EN78-005,2023-09-19,po naprawie,Lidzbark Warmiński,problemy z układem hamulcowym,494
+177,ED250-006,2023-02-03,po naprawie,Jasło,wypadki drogowe,206
+178,EN71-005,2023-05-06,po naprawie,Gliwice,defekty fabryczne lub wadliwe części,206
+179,ED160-006,2022-08-04,po naprawie,Nowa Sól,niewłaściwe użytkowanie,494
+180,EN78-010,2022-02-09,po naprawie,Kędzierzyn-Koźle,niedostateczna konserwacja,300
+181,ED74-004,2022-12-06,po naprawie,Jastrzębie-Zdrój,błąd ludzki,404
+182,SA103-006,2023-01-06,po naprawie,Płock,problemy z układem paliwowym,10
+183,E4MSUa-009,2023-01-05,po naprawie,Ławy,uszkodzenia spowodowane uderzeniami,18
+184,SM42-007,2022-11-18,po naprawie,Łódź,awaria systemu chłodzenia,168
+185,EN71-009,2022-09-09,po naprawie,Kuźnica Masłońska,niedostateczne smarowanie,432
+186,EN71-010,2023-11-06,po naprawie,Pułtusk,problemy z układem paliwowym,304
+187,EN57AL-011,2022-02-11,po naprawie,Piekary Śląskie,zużycie mechaniczne,18
+188,EN76-007,2023-06-05,po naprawie,Żyrardów,awaria systemu chłodzenia,432
+189,ED250-008,2023-01-28,po naprawie,Mysłowice,uszkodzenia spowodowane zewnętrznymi czynnikami,206
+190,EN57AL-012,2023-02-19,po naprawie,Władysławowo,problemy z układem paliwowym,206
+191,SA106-008,2022-12-30,po naprawie,Babienica,defekty fabryczne lub wadliwe części,40
+192,48We-012,2023-06-05,po naprawie,Studzienice,defekty fabryczne lub wadliwe części,432
+193,E4MSUa-011,2023-11-25,po naprawie,Biała Podlaska,awaria elektryczna,432
+194,SA106-011,2022-09-24,po naprawie,Sosnowiec,uszkodzenie przez wandalizm,92
+195,33We-004,2022-12-30,po naprawie,Września,defekty fabryczne lub wadliwe części,432
+196,SM42Dn-012,2023-02-14,po naprawie,Łaziska Górne,awaria systemu chłodzenia,40
+197,E4MSUa-015,2022-01-31,po naprawie,Kalisz,niewłaściwe użytkowanie,300
+198,EU160-008,2022-04-14,po naprawie,Poznań,niewłaściwe użytkowanie,404
+199,ED160-016,2022-10-03,po naprawie,Szteklin,niedostateczne smarowanie,206
+200,EN57AKM-020,2022-07-04,po naprawie,Police,niedostateczna konserwacja,494
+201,ED74-012,2023-10-15,po naprawie,Tarnobrzeg,problemy z układem hamulcowym,304
+202,ET22-010,2023-02-15,po naprawie,Swarzędz,niedostateczna konserwacja,168
+203,48We-015,2022-07-25,po naprawie,Świnoujście,niedostateczna konserwacja,304
+204,EN78-017,2022-05-14,po naprawie,Kwidzyn,problemy z układem paliwowym,18
+205,EN76-014,2023-02-21,po naprawie,Chełm,błąd ludzki,432
+206,SM42Dn-014,2023-12-25,po naprawie,Płazów,uszkodzenia spowodowane uderzeniami,404
+207,SM42-014,2022-04-29,po naprawie,Bolesławiec,uszkodzenie przez wandalizm,92
+208,EU160-011,2023-12-31,po naprawie,Sandomierz,niewłaściwe użytkowanie,432
+209,48We-017,2023-07-26,po naprawie,Chełm,niedostateczne smarowanie,40
+210,ED250-016,2022-01-01,po naprawie,Pruszcz Gdański,zakamienienie lub korozja,10
+211,SM42Dn-015,2023-11-11,po naprawie,Mielec,uszkodzenia spowodowane zewnętrznymi czynnikami,168
+212,SM42Dn-016,2022-01-29,po naprawie,Starachowice,awaria systemu chłodzenia,92
+213,EU160-014,2022-04-15,po naprawie,Płock,niewłaściwe użytkowanie,300
+214,SA103-016,2022-12-04,po naprawie,Dębica,niewłaściwe użytkowanie,432
+215,EP09-015,2023-11-19,po naprawie,Pabianice,wypadki drogowe,300
+216,ED250-018,2023-10-15,po naprawie,Jaworzno,niedostateczna konserwacja,10
+217,ED250-019,2022-11-03,po naprawie,Piotrków Trybunalski,uszkodzenie przez wandalizm,432
+218,48We-019,2023-02-13,po naprawie,Bełchatów,uszkodzenie przez wandalizm,92
+219,SM42-019,2023-10-03,po naprawie,Kołobrzeg,niedostateczna konserwacja,18
+220,ET22-016,2022-01-11,po naprawie,Suwałki,niedostateczna konserwacja,304
+221,SA106-024,2022-12-08,po naprawie,Przędzel,niedostateczne smarowanie,494
+222,SA133-023,2023-05-13,po naprawie,Wilkowice,zużycie mechaniczne,10
+223,EN78-019,2023-10-09,po naprawie,Świdwin,niedostateczna konserwacja,18
+224,EP07-015,2022-02-24,po naprawie,Płock,awaria elektryczna,404
+225,EN57AL-025,2023-09-15,po naprawie,Postęp,niewłaściwe użytkowanie,18
+226,48We-007,2021-02-16,po naprawie,Łoś,wypadki drogowe,10
+227,48We-007,2021-11-15,po naprawie,Kołobrzeg,awaria systemu chłodzenia,404
+228,E4MSUa-010,2021-11-10,po naprawie,Mielec,uszkodzenia spowodowane zewnętrznymi czynnikami,206
+229,SA133-013,2021-09-10,po naprawie,Bolesławiec,niewłaściwe użytkowanie,92
+230,EN57AL-006,2021-09-12,po naprawie,Bezrzecze,uszkodzenie przez wandalizm,10
+231,SM42-009,2021-12-30,po naprawie,Nysa,problemy z układem hamulcowym,404
+232,EN76-015,2021-07-05,po naprawie,Bełchatów,problemy z układem paliwowym,92
+233,EP07-009,2021-12-11,po naprawie,Ostrowiec Świętokrzyski,awaria systemu chłodzenia,40
+234,ED74-018,2021-11-08,po naprawie,Kolonowskie,awaria elektryczna,40
+235,ED74-018,2021-07-18,po naprawie,Grodzisk Mazowiecki,defekty fabryczne lub wadliwe części,494
+236,EU160-012,2021-03-22,po naprawie,Legnica,uszkodzenia spowodowane zewnętrznymi czynnikami,10
+237,48We-017,2021-08-02,po naprawie,Gniezno,uszkodzenia spowodowane uderzeniami,168
+238,SM42Dn-015,2021-04-06,po naprawie,Kętrzyn,uszkodzenia spowodowane zewnętrznymi czynnikami,300
+239,SM42-007,2021-08-08,po naprawie,Tarnobrzeg,błąd ludzki,18
+240,EN78-003,2021-01-25,po naprawie,Babienica,błąd ludzki,10
+241,ED250-008,2021-01-25,po naprawie,Świecie,wypadki drogowe,404
+242,EN71-010,2021-11-07,po naprawie,Orzesze,problemy z układem paliwowym,206
+243,EN57AL-025,2021-04-09,po naprawie,Oświęcim,wypadki drogowe,404
+244,48We-017,2021-06-01,po naprawie,Bochnia,niedostateczne smarowanie,18
+245,EN57AL-011,2021-12-18,po naprawie,Tarnowskie Góry,niedostateczna konserwacja,304
+246,EN71-005,2021-03-19,po naprawie,Koszalin,uszkodzenia spowodowane uderzeniami,206
