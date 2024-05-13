@@ -1,423 +1,423 @@
-1,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Sąsiedzka 64A 39-246 Olkusz,959813,202,nowy,44
-2,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Poniatowskiego 51A/32 11-849 Mokrzyska,1044592,147,nowy,44
-3,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Żurawia 72 10-262 Czaplinek,558469,80,do remontu,470
-4,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Czereśniowa 86 26-137 Pawłowice,535155,138,do remontu,344
-5,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Wilcza 38/57 82-749 Sosnowiec,657953,105,w budowie,44
-6,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Porzeczkowa 85A/11 00-647 Kolonowskie,746493,191,opuszczony,132
-7,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Czereśniowa 99 52-806 Ostrzeszów,971155,231,po remoncie,96
-8,działka,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",Wschodnia 72A 61-145 Olsztyn,459894,163,do remontu,424
-9,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Piaskowa 36A 94-750 Szówsko,1036192,202,w budowie,470
-10,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Pułaskiego 45 20-815 Włocławek,603263,199,opuszczony,224
-11,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Topolowa 18A/98 20-265 Świdnica,765291,35,opuszczony,220
-12,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Łomżyńska 65A/54 84-670 Siemianowice Śląskie,421170,257,opuszczony,514
-13,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Sucha 99A/12 95-937 Szwecja,495725,342,opuszczony,118
-14,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Iwaszkiewicza 48A/23 16-242 Pruszków,428403,77,po remoncie,16
-15,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Okólna 65 46-418 Zgorzelec,400104,204,po remoncie,44
-16,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Kruczkowskiego 81A/92 57-101 Dębica,414034,189,w budowie,118
-17,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Franciszkańska 70 17-095 Jeziorna,562419,104,w budowie,344
-18,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Al. Solidarności 43A 91-297 Kościan,867845,297,opuszczony,58
-19,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Bolesława Prusa 18 28-051 Jawor,1041613,333,do remontu,424
-20,budynek,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",Kasztanowa 30 58-674 Dzierżoniów,1117344,330,w budowie,514
-21,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Przyjaźni 08A 72-011 Zgierz,1105213,96,nowy,132
-22,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Rolnicza 98A/15 29-706 Starachowice,476259,137,nowy,224
-23,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Przyjaźni 45 59-582 Suwałki,1273568,243,do remontu,470
-24,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",3 Maja 67/32 09-348 Czaplinek,886475,123,do remontu,224
-25,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Głowackiego 96 72-587 Józefów,1122260,99,w budowie,220
-26,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Szarych Szeregów 87A 73-693 Jaworzno,645295,63,opuszczony,58
-27,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Bolesława Chrobrego 28/11 78-631 Dąbrowa Górnicza,1166905,236,w budowie,470
-28,budynek,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",Wczasowa 13A/11 38-010 Pęcice,449804,248,po remoncie,58
-29,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Katowicka 32 73-990 Orzesze,418620,191,po remoncie,44
-30,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Truskawkowa 67 13-077 Sulejówek,1176817,322,w budowie,118
-31,budynek,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",Senatorska 82A/14 27-489 Ławy,431477,96,po remoncie,16
-32,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Staromiejska 02A/99 53-212 Jawor,1012977,223,do remontu,44
-33,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Saperów 64/42 67-069 Pruszków,1030200,241,w budowie,436
-34,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Łomżyńska 50A 56-638 Łódź,399586,81,do remontu,514
-35,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Księżycowa 56/81 23-961 Przędzel,834384,214,do remontu,470
-36,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Wincentego Pola 23A 00-931 Poznań,1195023,260,do remontu,96
-37,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Nadbrzeżna 18A/69 17-988 Pruszków,1231279,157,do remontu,424
-38,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Wojska Polskiego 74/80 86-493 Braniewo,864934,113,w budowie,514
-39,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Bolesława Chrobrego 12 03-383 Żory,792296,170,do remontu,344
-40,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Kwiatowa 59A 97-123 Pszczyna,552313,154,nowy,58
-41,działka,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",Łokietka 73 18-995 Świdnica,1082508,268,do remontu,118
-42,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Akacjowa 20 68-814 Mikołów,794848,334,po remoncie,44
-43,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Dąbrowskiego 46A/81 56-741 Zawiercie,1112544,332,nowy,514
-44,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Towarowa 97A/83 40-296 Żyrardów,921870,100,nowy,502
-45,działka,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",Urocza 20A/83 27-005 Pruszcz Gdański,705394,135,opuszczony,16
-46,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Pl. Wolności 15/95 24-879 Gliwice,1175366,215,nowy,514
-47,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Sucha 94A 25-608 Świdnik,425587,249,do remontu,58
-48,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Koralowa 31/28 77-899 Czeladź,770255,258,po remoncie,224
-49,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Przyjaźni 79 72-062 Krępiec,1194998,140,do remontu,132
-50,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Królowej Jadwigi 84/90 94-198 Zduńska Wola,687113,86,opuszczony,514
-51,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Rolnicza 13/77 59-901 Kuźnica Masłońska,428164,305,po remoncie,344
-52,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Czwartaków 34A/19 25-127 Braniewo,643565,331,opuszczony,344
-53,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Fredry 81 51-498 Żory,1242371,219,opuszczony,436
-54,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Bałtycka 31 54-970 Września,1057882,201,po remoncie,220
-55,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Kopernika 87A/55 39-098 Ełk,778525,115,po remoncie,16
-56,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Toruńska 83A/37 35-497 Sandomierz,560728,122,opuszczony,118
-57,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Kościuszki 20A 72-378 Magdalenka,707462,269,po remoncie,220
-58,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Rubinowa 78 40-467 Puławy,1121996,46,opuszczony,96
-59,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Rumiankowa 14 35-431 Kluczbork,792277,210,po remoncie,514
-60,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Okrzei 91 55-092 Ostróda,394276,93,nowy,344
-61,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Litewska 85 37-767 Darłowo,587318,48,do remontu,16
-62,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Szpitalna 71A/34 69-257 Siemianowice Śląskie,641369,114,nowy,502
-63,działka,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",Łukasiewicza 86 64-325 Rumia,1022093,56,nowy,344
-64,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Jeżynowa 19A/51 15-365 Kołobrzeg,596088,65,nowy,470
-65,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Świętokrzyska 47 51-176 Krapkowice,593809,89,w budowie,58
-66,działka,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",Sucha 26A 95-134 Mokrzyska,1098365,283,w budowie,502
-67,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Ogrodowa 16/80 20-013 Lidzbark Warmiński,1118279,343,w budowie,96
-68,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Saperów 18 94-633 Jeziorna,466922,72,opuszczony,118
-69,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Kolberga 66 26-690 Nowy Targ,854496,269,do remontu,220
-70,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Podwale 66A 63-165 Łomianki,695118,88,do remontu,44
-71,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Konarskiego 47/19 90-782 Ciechanów,962572,352,w budowie,502
-72,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Świętokrzyska 39A 20-682 Sanok,913883,344,po remoncie,58
-73,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Szeroka 77 62-598 Magdalenka,672705,200,po remoncie,58
-74,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Głogowa 73A/11 61-495 Czarna Woda,555528,264,nowy,502
-75,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Porzeczkowa 47/36 17-493 Sandomierz,825474,211,nowy,470
-76,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Wronia 52A 05-713 Gołubie,988057,37,po remoncie,436
-77,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Czwartaków 54 77-932 Osówiec,812646,243,nowy,224
-78,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Bielska 77 57-988 Mielec,1217334,311,nowy,224
-79,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Zakopiańska 94A 98-236 Ostrołęka,1207095,77,opuszczony,16
-80,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Litewska 83/42 87-418 Jemielnica,1295617,126,po remoncie,470
-81,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Studzienna 97 35-545 Kielce,774453,172,opuszczony,220
-82,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Batalionów Chłopskich 64 82-653 Wągrowiec,601529,262,nowy,502
-83,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Zajęcza 28 46-626 Bydgoszcz,484965,53,nowy,514
-84,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Łukasiewicza 11A 50-012 Marylka,1080550,82,po remoncie,96
-85,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Nowowiejska 10A/55 72-668 Ząbki,1095685,219,po remoncie,118
-86,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Orzechowa 56/26 39-339 Tarnowskie Góry,702693,253,nowy,436
-87,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Litewska 93/82 56-414 Myszków,912243,352,nowy,344
-88,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Spacerowa 33 61-103 Śrem,471272,261,nowy,96
-89,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Koralowa 12A 55-129 Luboń,670709,217,nowy,16
-90,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Jana III Sobieskiego 83 62-586 Szczytno,614731,110,opuszczony,220
-91,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Dąbrówki 06A 23-284 Jemielnica,1108363,340,do remontu,132
-92,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Kręta 29/93 92-804 Marylka,487890,317,do remontu,502
-93,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Wiejska 84/71 35-947 Starachowice,1107678,229,w budowie,424
-94,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Szewska 08A 34-451 Mysłowice,660405,224,po remoncie,118
-95,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Jagiellońska 30/70 81-620 Łomża,673506,180,w budowie,514
-96,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Kopalniana 13A/60 55-748 Nowa Ruda,969177,157,do remontu,16
-97,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Piekarska 72/83 45-611 Braniewo,499441,236,do remontu,514
-98,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Strzelecka 21A 49-739 Swarzędz,733530,279,opuszczony,16
-99,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Litewska 48 80-018 Legnica,506300,308,po remoncie,58
-100,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Malczewskiego 21 14-244 Toruń,844457,183,po remoncie,96
-101,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Nałkowskiej 88 85-142 Żyrardów,927588,252,w budowie,502
-102,działka,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",Piwna 05A/35 03-214 Legnica,1208372,126,opuszczony,344
-103,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Żwirowa 89A/45 15-778 Tarnobrzeg,540774,344,do remontu,96
-104,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Kasztanowa 30/95 82-020 Zakopane,465132,305,nowy,224
-105,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Baczyńskiego 55A/15 97-954 Świebodzice,1070688,336,po remoncie,224
-106,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Krasińskiego 78 50-231 Wałbrzych,545861,222,w budowie,514
-107,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Handlowa 54/80 50-754 Ostrów Mazowiecka,646679,314,do remontu,220
-108,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Kościuszki 60A 39-237 Lębork,1252300,82,do remontu,58
-109,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Korfantego 19 67-560 Bytom,465629,286,do remontu,118
-110,działka,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",Królowej Jadwigi 78A 72-975 Postęp,523033,245,do remontu,436
-111,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Pl. Kościuszki 92 76-095 Lubojenka,955340,85,w budowie,132
-112,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Poznańska 13A/33 59-387 Mokrzyska,437442,193,nowy,132
-113,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Żniwna 54 36-628 Bielsko-Biała,991945,80,w budowie,424
-114,działka,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",Batorego 62/95 13-165 Ustka,442030,152,po remoncie,224
-115,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Mała 43A 65-411 Tomaszów Mazowiecki,851990,240,w budowie,44
-116,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Żółkiewskiego 68 33-513 Koło,817246,278,do remontu,470
-117,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Ogrodowa 59 73-964 Konin,940877,328,nowy,470
-118,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Łódzka 78/14 88-656 Darłowo,966750,88,opuszczony,502
-119,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Królewska 37A 34-557 Leszno,1230617,250,w budowie,132
-120,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Olsztyńska 42A 85-251 Babienica,486115,277,w budowie,132
-121,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Fiołkowa 81A/12 20-208 Jaroszowa Wola,1292321,282,nowy,436
-122,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Żurawia 88 27-087 Kolonowskie,587746,61,nowy,470
-123,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Husarska 10/95 43-729 Krępiec,1035475,72,do remontu,424
-124,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Słowackiego 87 68-093 Olkusz,807104,81,nowy,96
-125,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Zakopiańska 90A/75 91-889 Grodzisk Mazowiecki,1234506,320,w budowie,220
-126,działka,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",Łanowa 38A 00-542 Olkusz,929044,218,w budowie,16
-127,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Nadrzeczna 59 13-074 Bogatynia,942749,92,do remontu,224
-128,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Staffa 94A/28 66-862 Mikołów,1269956,327,do remontu,514
-129,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Poziomkowa 96 02-910 Tarnów,1048829,306,po remoncie,44
-130,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Robotnicza 45/75 40-136 Łódź,864641,132,do remontu,436
-131,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Kasprowicza 01A 73-921 Rybnik,834212,349,opuszczony,44
-132,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Skrajna 74/12 09-901 Nowy Sącz,1239039,205,po remoncie,132
-133,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Mazurska 67A 09-869 Dębogórze,704917,275,w budowie,224
-134,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Rybacka 79/83 03-147 Pieszyce,708926,309,w budowie,44
-135,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Wrzosowa 73A 48-759 Skierniewice,1040665,52,opuszczony,58
-136,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Pocztowa 93/38 26-051 Ostróda,1294002,266,po remoncie,502
-137,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Górnośląska 82A 96-154 Przędzel,422199,331,opuszczony,424
-138,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Tulipanowa 18/42 94-301 Kozienice,613996,105,opuszczony,58
-139,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Boczna 88/63 07-138 Łowicz,456022,296,opuszczony,16
-140,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Gajowa 94A 87-421 Zawiercie,493847,310,opuszczony,58
-141,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Maczka 96A 72-660 Chrzanów,908782,223,po remoncie,118
-142,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Małopolska 85A/96 39-508 Ostrów Wielkopolski,696067,264,w budowie,44
-143,działka,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",Kartuska 32A 72-763 Cieszyn,1256867,322,po remoncie,118
-144,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Korfantego 54/50 18-012 Gniezno,1186235,260,nowy,96
-145,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Rolnicza 32/49 33-765 Częstochowa,1058628,325,do remontu,344
-146,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Kossaka 73 41-740 Wyszków,652085,37,po remoncie,502
-147,działka,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",Witosa 74A/90 22-092 Mikołów,980788,144,nowy,58
-148,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Gagarina 77A/52 65-916 Wejherowo,1096769,150,opuszczony,424
-149,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Piekarska 69A 76-434 Boguszów-Gorce,394869,227,w budowie,58
-150,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Spółdzielcza 53/48 59-157 Płock,641733,40,po remoncie,132
-151,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Norwida 37 27-444 Sopot,1194154,279,do remontu,118
-152,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Lubelska 28A 90-268 Grudziądz,568041,231,po remoncie,436
-153,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Curie-Skłodowskiej 52/18 87-033 Bezrzecze,1093893,150,w budowie,16
-154,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Rodzinna 35 76-438 Lubartów,415292,305,opuszczony,424
-155,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Broniewskiego 24A 82-654 Koło,662393,77,po remoncie,58
-156,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Siewna 16A 60-137 Koło,455090,164,po remoncie,436
-157,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Piaskowa 85/41 31-328 Zakopane,831702,33,po remoncie,132
-158,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Konopnickiej 45 33-703 Gliwice,599552,268,opuszczony,96
-159,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Małopolska 56A 56-040 Gniezno,1279611,243,nowy,118
-160,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Piękna 31/97 99-341 Bochnia,752142,348,do remontu,424
-161,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Odrodzenia 37 83-390 Ławy,1038876,215,po remoncie,344
-162,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Cieszyńska 68 69-763 Pawłowice,1094192,166,po remoncie,424
-163,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Nowa 24 26-094 Koło,978331,195,do remontu,502
-164,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Niska 43A 99-524 Wilkowice,1047794,255,nowy,220
-165,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Leśna 41A 70-539 Przemyśl,1204078,194,nowy,118
-166,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Warmińska 19 58-486 Malbork,539890,203,po remoncie,58
-167,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Kilińskiego 38/56 22-705 Świnoujście,723937,247,po remoncie,470
-168,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Jaśminowa 49/30 89-043 Lublin,1232512,114,nowy,514
-169,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Rolna 53 54-662 Myszków,468081,223,do remontu,44
-170,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Łagiewnicka 87 96-514 Jastarnia,782296,188,do remontu,96
-171,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Husarska 35/75 02-569 Radomsko,647636,247,po remoncie,220
-172,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Norwida 35A 61-258 Sandomierz,986700,94,po remoncie,44
-173,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Jaśminowa 17/69 64-362 Lubin,589800,111,do remontu,502
-174,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Liliowa 33/38 18-912 Pszczyna,845968,314,nowy,44
-175,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Gdyńska 69A 25-896 Ostrowiec Świętokrzyski,461100,85,po remoncie,224
-176,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Fiołkowa 47A 82-187 Koszalin,1220258,274,po remoncie,514
-177,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Racławicka 30 73-995 Bieruń,920409,36,nowy,514
-178,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Szczęśliwa 47/74 99-767 Szówsko,965711,175,w budowie,118
-179,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Zdrojowa 30/94 69-386 Zamość,843661,140,po remoncie,16
-180,działka,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",Polna 85A 44-123 Ostrołęka,741187,175,do remontu,514
-181,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Jagiellońska 65 40-331 Kościerzyna,730647,219,po remoncie,470
-182,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Świerkowa 31 91-719 Ciechanów,955450,53,do remontu,58
-183,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Reymonta 17/56 45-264 Ostróda,1298408,85,w budowie,58
-184,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Okopowa 37A/21 65-024 Jemielnica,894879,345,opuszczony,58
-185,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Grochowska 03A 10-758 Zabrze,454440,257,opuszczony,220
-186,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Piłsudskiego 56 15-095 Władysławowo,1289884,228,opuszczony,224
-187,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Gdyńska 63 01-537 Elbląg,1294676,157,do remontu,424
-188,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1 Maja 86A/29 55-200 Bielsko-Biała,735253,186,do remontu,220
-189,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Starowiejska 59A 62-854 Grodzisk Mazowiecki,1036431,302,nowy,436
-190,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Cmentarna 94 23-598 Łęczna,1022014,120,nowy,118
-191,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Perłowa 92/69 43-657 Ostrów Wielkopolski,400584,315,opuszczony,220
-192,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Wita Stwosza 54/85 72-800 Krapkowice,1249938,208,po remoncie,118
-193,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Gościnna 50/66 16-181 Jaroszowa Wola,1140766,248,do remontu,424
-194,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Rybacka 14/70 34-354 Starogard Gdański,634996,39,nowy,470
-195,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Szkolna 34/27 68-133 Ostrzeszów,1261804,219,do remontu,514
-196,działka,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",Urocza 35A 74-612 Szczytno,766817,88,opuszczony,502
-197,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Senatorska 87 43-952 Pęcice,967045,229,opuszczony,470
-198,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Chopina Fryderyka 53 52-689 Giżycko,983858,155,do remontu,224
-199,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Wspólna 10 92-887 Nowa Ruda,1211803,223,po remoncie,58
-200,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Moniuszki 30/85 29-571 Czechowice-Dziedzice,1243627,263,w budowie,96
-201,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Przybyszewskiego 51A/31 23-610 Bełchatów,869999,189,opuszczony,16
-202,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Racławicka 14/16 74-263 Kalisz,994861,52,w budowie,436
-203,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Konwaliowa 55 25-400 Lubliniec,1170768,345,do remontu,514
-204,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Gajowa 17A 54-698 Września,708404,166,w budowie,470
-205,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Siemiradzkiego 09A 85-681 Ciechanów,916059,352,w budowie,96
-206,działka,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",Maczka 63/16 20-202 Września,616849,306,po remoncie,470
-207,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Spokojna 30A 76-649 Grudziądz,709525,186,w budowie,470
-208,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Rolnicza 24A 34-205 Olsztyn,1092944,146,po remoncie,436
-209,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Sucharskiego 71A/92 42-518 Słupsk,609377,257,po remoncie,132
-210,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Ciasna 16 43-942 Kalisz,935464,264,po remoncie,132
-211,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Os. Piastowskie 20A/21 06-207 Pułtusk,1133689,171,nowy,16
-212,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Truskawkowa 47 57-887 Przędzel,1110631,220,w budowie,470
-213,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Piłsudskiego 53/77 76-763 Sochaczew,1015361,171,nowy,344
-214,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Okulickiego 46 42-720 Żywiec,826466,77,w budowie,132
-215,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Hallera 09A 90-376 Czeladź,513664,34,po remoncie,58
-216,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Witosa 06A/49 59-959 Stalowa Wola,586455,169,nowy,502
-217,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Lwowska 10 22-382 Świebodzice,927239,280,do remontu,502
-218,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Wojska Polskiego 69A/32 32-882 Żary,1201663,59,w budowie,132
-219,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Al. Jana Pawła II 87 80-990 Żyrardów,539118,271,do remontu,436
-220,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Skośna 64 21-921 Stalowa Wola,925534,166,opuszczony,470
-221,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Cieszyńska 20A 57-388 Częstochowa,486021,68,opuszczony,118
-222,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Przechodnia 85A/36 33-856 Kamień,471261,219,opuszczony,132
-223,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Piastowska 77A/12 62-403 Skarżysko-Kamienna,811327,207,nowy,220
-224,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Łokietka 37A 67-957 Wodzisław Śląski,493732,179,w budowie,424
-225,działka,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",Kasprowicza 34A 30-434 Września,828009,284,po remoncie,502
-226,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Słowiańska 75/39 22-900 Tychy,1037932,263,nowy,220
-227,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Sawickiej 80A 54-577 Łaziska Górne,772599,344,do remontu,16
-228,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Witosa 03A 53-008 Łomża,631864,179,w budowie,96
-229,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Fredry 64A 45-392 Szczecin,846107,238,nowy,514
-230,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Beskidzka 32A 38-426 Siedlce,1038215,306,w budowie,436
-231,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Lechicka 83 08-607 Łaziska Górne,481479,233,nowy,514
-232,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Wileńska 13/30 01-231 Nowy Targ,924313,253,nowy,16
-233,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Piłsudskiego 08A/79 63-933 Jastrzębie,406337,98,w budowie,470
-234,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Legionów 30A 72-308 Żory,399993,232,po remoncie,224
-235,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Ludowa 92A/55 14-215 Gniezno,943925,306,opuszczony,470
-236,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Iwaszkiewicza 26A 99-489 Stargard,458009,97,opuszczony,118
-237,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Tuwima 70A/67 70-072 Września,1295761,330,opuszczony,424
-238,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Żurawia 48 78-891 Bartoszyce,545429,288,nowy,220
-239,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Piotrkowska 39 18-419 Płazów,1044230,113,po remoncie,58
-240,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Radomska 60A/22 79-212 Pszczyna,685492,344,po remoncie,344
-241,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Rzemieślnicza 52A 11-697 Cieszyn,649715,133,w budowie,220
-242,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Lwowska 82 54-954 Będzin,464423,264,nowy,96
-243,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Żołnierska 29 39-960 Pszczyna,872392,331,w budowie,424
-244,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Radosna 56 20-452 Szówsko,495561,178,do remontu,424
-245,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Limanowskiego 77 77-564 Malbork,745954,298,po remoncie,436
-246,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Głogowa 75/14 51-133 Nowa Sól,1103239,347,po remoncie,16
-247,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Grzybowa 26 76-389 Nowe Kramsko,1270752,238,po remoncie,514
-248,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Miła 65 74-615 Nowy Sącz,1159622,93,nowy,132
-249,działka,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",Klonowa 59A/84 22-868 Żywiec,1153106,25,do remontu,424
-250,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Pocztowa 79/84 01-603 Bogaczów,485708,69,nowy,44
-251,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Narutowicza 37A 62-583 Jadowniki,1073231,175,opuszczony,220
-252,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Królewska 94A/49 11-728 Września,842779,136,po remoncie,16
-253,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Stolarska 85A/57 27-815 Zgorzelec,944755,339,opuszczony,58
-254,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Pawia 94 43-896 Giżycko,991543,198,do remontu,344
-255,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Jałowcowa 85/96 11-583 Katowice,573306,25,do remontu,344
-256,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Nowa 13A 95-537 Rynarzewo,888119,120,opuszczony,132
-257,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Pszenna 38A 09-426 Ławy,755359,58,nowy,132
-258,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Lazurowa 99A/59 49-047 Łomża,1115737,138,w budowie,436
-259,działka,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",Kosmonautów 10A 45-733 Pułtusk,669526,77,po remoncie,44
-260,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Drzymały 75A 98-546 Bielawa,1147197,50,do remontu,436
-261,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Kusocińskiego 48 89-882 Żory,1191012,338,nowy,470
-262,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Chłodna 29A 31-505 Lidzbark Warmiński,1023774,265,opuszczony,514
-263,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Rzemieślnicza 78A/98 13-347 Oświęcim,463266,340,opuszczony,132
-264,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Główna 05A/99 49-396 Wągrowiec,883797,316,nowy,344
-265,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Plebiscytowa 13A 41-977 Kętrzyn,562790,274,po remoncie,424
-266,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Makuszyńskiego 86A/19 65-191 Nowy Sącz,1030229,211,nowy,132
-267,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Siemiradzkiego 71 16-640 Kłobuck,379441,86,w budowie,118
-268,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Zwycięstwa 28 49-863 Chojnice,1101055,258,opuszczony,344
-269,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",11 Listopada 08A/23 82-282 Pieszyce,448609,67,w budowie,44
-270,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Lwowska 69 25-864 Czerwionka-Leszczyny,382592,120,nowy,220
-271,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Krzywa 52A 94-203 Myszków,1239494,84,opuszczony,424
-272,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Przybyszewskiego 53 34-289 Łowicz,1128065,69,opuszczony,344
-273,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Kolejowa 16A/67 17-987 Brodnica,1193474,263,nowy,132
-274,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Al. Wojska Polskiego 48A 18-515 Kłodzko,835424,46,po remoncie,58
-275,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Drzymały 90 31-131 Elbląg,1128971,353,opuszczony,44
-276,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Rycerska 36/95 43-248 Jadowniki,1145949,320,do remontu,58
-277,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Kolejowa 63A/16 96-374 Wrocław,881172,353,do remontu,16
-278,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Olchowa 86/96 55-690 Oświęcim,1174995,339,w budowie,424
-279,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Malinowa 30/83 98-205 Olkusz,1208255,36,w budowie,424
-280,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Różana 92 39-959 Ustka,621252,324,nowy,118
-281,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Gdyńska 54 94-423 Skierniewice,959401,256,opuszczony,436
-282,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Saperów 16 30-482 Jemielnica,565576,60,w budowie,132
-283,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Jagodowa 30A 85-629 Wągrowiec,894971,68,nowy,502
-284,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Hoża 04A/24 77-853 Lublin,760263,47,opuszczony,118
-285,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Kalinowa 16A/33 64-609 Lubliniec,423023,299,opuszczony,424
-286,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Orzechowa 41/16 90-513 Boguszów-Gorce,1160997,66,do remontu,502
-287,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Niemcewicza 36 50-963 Siedlce,1150411,308,do remontu,224
-288,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Leśmiana 66 31-270 Sopot,883678,49,opuszczony,344
-289,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Legnicka 80A 27-084 Wola Kiedrzyńska,1007251,112,nowy,58
-290,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Małopolska 44/82 66-456 Szczecin,652949,34,opuszczony,118
-291,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Batorego 20/81 75-547 Szczawin,558724,75,w budowie,224
-292,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Wesoła 37A/13 74-722 Studzienice,596429,140,do remontu,224
-293,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Morska 13A 38-752 Pilchowo,644637,77,do remontu,470
-294,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Sowińskiego 88 97-480 Żary,843200,246,do remontu,436
-295,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Chopina Fryderyka 75A/36 53-315 Piła,1282142,46,po remoncie,58
-296,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Grójecka 46 02-792 Skarżysko-Kamienna,391051,289,po remoncie,344
-297,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Powstańców Wielkopolskich 47A/99 94-501 Radomsko,596016,215,do remontu,132
-298,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Rybnicka 26A 84-935 Ciechanów,1274014,137,w budowie,436
-299,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Modra 69A 02-363 Grodzisk Mazowiecki,740946,76,opuszczony,96
-300,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Wyzwolenia 95/85 06-616 Brzeg,1212700,81,do remontu,132
-301,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",11 Listopada 38A/54 99-832 Piaseczno,1117136,56,do remontu,502
-302,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Południowa 36A/57 91-601 Kamień,867856,319,opuszczony,96
-303,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Strumykowa 82A 95-610 Skarżysko-Kamienna,628048,41,po remoncie,118
-304,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Kolejowa 87A/88 20-978 Kutno,461327,205,w budowie,470
-305,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Skłodowskiej-Curie 92/34 34-356 Siedlce,527535,64,nowy,424
-306,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Koralowa 11A/66 33-081 Tarnowskie Góry,750948,314,do remontu,118
-307,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Źródlana 34A 49-852 Kościan,470705,321,nowy,118
-308,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Turkusowa 65/80 38-067 Zabrze,1268948,289,opuszczony,58
-309,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Przyjaźni 86 13-713 Jeziorna,1163509,131,nowy,44
-310,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Poprzeczna 18/29 66-114 Kuźnica Masłońska,867625,306,opuszczony,502
-311,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Granitowa 35A/89 52-094 Lidzbark Warmiński,811586,157,po remoncie,58
-312,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Chełmońskiego 62/28 06-244 Zakopane,1246921,163,nowy,220
-313,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Robotnicza 93/21 60-860 Gdynia,587610,101,opuszczony,514
-314,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Gdańska 14A/39 32-197 Kamień,583965,59,po remoncie,16
-315,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Partyzantów 27A/35 90-805 Sopot,759972,78,po remoncie,58
-316,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Sandomierska 23A/10 47-586 Opole,757903,124,w budowie,514
-317,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Kosynierów 04A 17-308 Wejherowo,471993,57,po remoncie,424
-318,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Pocztowa 97/78 01-965 Płock,1274306,93,nowy,96
-319,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Torowa 89/70 09-016 Cieszyn,884504,208,do remontu,514
-320,działka,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",Okopowa 43/36 84-059 Żary,917930,130,do remontu,220
-321,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Piekarska 37A/16 16-475 Kołobrzeg,1019410,275,opuszczony,132
-322,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Plebiscytowa 65 08-545 Jastrzębie,490787,270,po remoncie,16
-323,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Srebrna 96/82 75-794 Brzeg,393678,312,w budowie,132
-324,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Inżynierska 48A/51 36-548 Szówsko,930607,184,do remontu,58
-325,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Szpitalna 89A/61 90-289 Zawiercie,1147590,239,nowy,502
-326,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Olimpijska 85/62 69-969 Gołubie,840923,82,nowy,514
-327,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Wojska Polskiego 07A 53-430 Koło,796029,71,nowy,58
-328,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Tuwima 00A/70 82-583 Starogard Gdański,687291,85,w budowie,44
-329,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Fałata 87/28 44-579 Ławy,947150,26,w budowie,118
-330,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Młynarska 78/35 06-116 Będzin,1148926,186,po remoncie,96
-331,działka,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",Powstańców Wielkopolskich 83/16 89-455 Ząbki,534538,149,opuszczony,436
-332,działka,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",Sienkiewicza 72A 21-947 Gdańsk,1285271,41,opuszczony,220
-333,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Osiedlowa 35A 57-876 Puławy,1184987,43,w budowie,58
-334,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Pokoju 67A/47 66-752 Kluczbork,1189391,198,po remoncie,16
-335,budynek,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",Sowińskiego 64 81-736 Bydgoszcz,813805,193,nowy,514
-336,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Odrodzenia 48/18 23-548 Władysławowo,1001113,333,w budowie,224
-337,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Władysława IV 82A/27 21-637 Sandomierz,1183119,59,po remoncie,514
-338,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Orzechowa 17A 87-095 Jadowniki,637606,137,opuszczony,118
-339,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Botaniczna 44 01-556 Skarżysko-Kamienna,1102781,73,nowy,44
-340,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Brzozowa 10/54 90-416 Oświęcim,512250,316,do remontu,224
-341,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Inżynierska 65 43-563 Częstochowa,735436,253,opuszczony,470
-342,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Szeroka 68A/72 42-671 Ławy,1118894,320,do remontu,118
-343,działka,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",Willowa 29A 53-525 Legionowo,429947,93,opuszczony,424
-344,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Słonecznikowa 63A/80 07-933 Pabianice,634433,97,w budowie,344
-345,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Agrestowa 75/33 23-255 Jemielnica,1205680,119,w budowie,502
-346,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Wspólna 94A 37-796 Stalowa Wola,625848,64,nowy,44
-347,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Wita Stwosza 70A/12 67-862 Szwecja,664678,334,do remontu,132
-348,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Towarowa 24/13 73-075 Jaroszowa Wola,637833,354,do remontu,58
-349,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Szafirowa 04A 17-340 Lębork,657613,66,opuszczony,16
-350,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Wileńska 99 15-815 Jemielnica,543135,206,w budowie,118
-351,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Jana III Sobieskiego 51A 16-737 Olsztyn,927094,53,po remoncie,16
-352,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Nałkowskiej 36 59-646 Iława,1068332,166,w budowie,470
-353,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Ciasna 48/99 93-985 Kolonowskie,1083957,171,nowy,58
-354,budynek,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",Staromiejska 21/37 90-367 Toruń,400034,318,w budowie,470
-355,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Targowa 57/49 73-619 Gniezno,535242,285,do remontu,224
-356,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Długosza 18A/10 49-227 Września,1047462,35,po remoncie,132
-357,budynek,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",Grochowska 54A 05-603 Sulejówek,882900,40,opuszczony,118
-358,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Al. Niepodległości 77A/65 94-020 Przędzel,1024547,284,do remontu,436
-359,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Żeromskiego 13A 44-496 Mysłowice,380194,214,po remoncie,436
-360,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Opolska 44 85-676 Rybnik,873919,303,do remontu,470
-361,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Lisia 25 55-159 Świdnica,687998,190,po remoncie,470
-362,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Górna 33A/20 10-515 Świebodzice,755061,161,do remontu,132
-363,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Lwowska 75/44 72-041 Babienica,1091121,327,w budowie,502
-364,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Niepodległości 68A/69 13-213 Darłowo,1017751,142,nowy,502
-365,działka,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",Sądowa 12 38-404 Świętochłowice,564775,51,nowy,224
-366,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Przybyszewskiego 88A/24 22-789 Bełchatów,700624,322,po remoncie,58
-367,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Wolności 26A 48-601 Olkusz,1094079,303,po remoncie,502
-368,działka,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",Senatorska 29/17 62-782 Skarżysko-Kamienna,1060429,232,opuszczony,220
-369,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Rzeczna 48A 42-866 Płock,405524,56,do remontu,224
-370,lokal,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",Kaliska 85 28-503 Biała Podlaska,1127803,167,po remoncie,132
-371,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Wiosenna 49/15 71-715 Chorzów,762725,253,w budowie,44
-372,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Grota-Roweckiego 47 72-527 Gdynia,1260269,291,nowy,436
-373,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Podleśna 60 44-194 Kozienice,1195736,164,opuszczony,502
-374,działka,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",Gdyńska 81/70 13-161 Stalowa Wola,1177215,330,do remontu,220
-375,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Jesionowa 80A/23 24-370 Knurów,917941,78,nowy,132
-376,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Poziomkowa 05A 33-532 Piotrków Trybunalski,741776,174,w budowie,132
-377,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Zwycięstwa 80/55 65-115 Śrem,1224203,128,nowy,502
-378,budynek,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",Bursztynowa 47A/22 08-566 Żywiec,822380,59,opuszczony,424
-379,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Ligonia 25 03-776 Turek,1164921,93,po remoncie,514
-380,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Olsztyńska 17 98-922 Myszków,1161179,241,po remoncie,470
-381,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Senatorska 76 21-999 Pułtusk,1069168,337,do remontu,44
-382,lokal,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",Zacisze 81A 17-308 Będzin,1122497,153,opuszczony,58
-383,budynek,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",Dworcowa 19A 16-894 Szczecinek,578888,274,w budowie,514
-384,lokal,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",Strumykowa 60/76 35-243 Pruszków,653683,193,do remontu,96
-385,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Azaliowa 62 22-063 Bezrzecze,492410,134,nowy,58
-386,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Solskiego 22/26 86-898 Czarna Woda,1195481,97,nowy,470
-387,działka,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",Hoża 82A/79 90-851 Świętochłowice,493702,160,po remoncie,96
-388,lokal,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",Gdyńska 08A/45 52-035 Koszalin,732623,193,opuszczony,58
-389,lokal,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",Chłopska 41 31-649 Jastrzębie,817742,216,nowy,424
-390,budynek,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",Łagiewnicka 14/92 15-835 Lubartów,951589,332,nowy,16
-391,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Bałtycka 56A 12-891 Żory,421555,88,nowy,44
-392,działka,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",Malczewskiego 51 94-033 Zamość,377340,137,w budowie,436
-393,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Nałkowskiej 13A 58-889 Sopot,1111570,347,po remoncie,470
-394,lokal,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",Paderewskiego 11A 59-298 Orzesze,934864,283,do remontu,16
-395,działka,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",Prosta 80 81-741 Lębork,883083,64,po remoncie,224
-396,działka,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",Liliowa 24 17-282 Lidzbark Warmiński,981384,309,do remontu,436
-397,działka,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",Przyjaźni 36/95 70-044 Zielona Góra,637791,324,po remoncie,424
-398,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Rubinowa 75/40 75-754 Łowicz,1027192,43,opuszczony,424
-399,lokal,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",Błękitna 36 83-855 Świnoujście,549673,62,do remontu,470
-400,działka,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",Sucharskiego 56/73 85-931 Gdańsk,485634,134,po remoncie,220
-401,budynek,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",Łabędzia 15 35-141 Zamość,1182176,251,do remontu,220
-402,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Willowa 75A 14-406 Sochaczew,938335,106,po remoncie,132
-403,działka,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",Malinowa 25/99 85-001 Starachowice,822394,69,do remontu,436
-404,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Podchorążych 00A 53-908 Legnica,947526,286,w budowie,514
-405,działka,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",Bydgoska 91/35 77-987 Gorzów Wielkopolski,1265118,230,po remoncie,44
-406,lokal,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",Reymonta 26 40-514 Kolonowskie,1291596,56,w budowie,502
-407,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Średnia 22 69-818 Jaworzno,571751,333,po remoncie,424
-408,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Gałczyńskiego 17A 36-878 Zamość,582522,123,po remoncie,436
-409,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Matejki 07A 64-267 Przędzel,1102000,121,nowy,514
-410,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Głogowska 35A 73-021 Śrem,1235304,177,po remoncie,16
-411,lokal,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",Cisowa 75A/48 27-370 Dąbrowa Górnicza,962428,75,opuszczony,436
-412,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Łabędzia 44A/62 46-553 Jadowniki,389291,147,po remoncie,514
-413,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Energetyków 51A/49 13-809 Osówiec,438160,112,w budowie,58
-414,działka,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",Ogrodowa 02A 94-217 Kuźnica Masłońska,957315,340,po remoncie,44
-415,budynek,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",Okólna 32A/19 52-684 Mielec,1062363,319,po remoncie,514
-416,lokal,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",Śląska 52A 91-796 Świebodzin,916360,294,po remoncie,344
-417,działka,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",Świdnicka 27A 02-144 Dąbrowa Górnicza,1253751,80,nowy,470
-418,budynek,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",Fredry 40 88-890 Koszalin,567831,333,nowy,436
-419,budynek,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",Nowowiejskiego 56 90-467 Tarnobrzeg,1256681,211,do remontu,220
-420,budynek,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",Krótka 75A 94-481 Lubin,1112466,174,po remoncie,58
-421,budynek,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",Malczewskiego 59A/76 54-044 Pabianice,837526,234,po remoncie,16
-422,działka,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",Królewska 16 38-832 Lubin,473324,91,w budowie,16
-423,budynek,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",Dąbrowszczaków 34A 28-872 Dzierżoniów,1234405,207,nowy,424
+1,58,lokal,nowy,Olchowa 30A/77,Konstancin-Jeziorna,14-702,445233,57,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+2,436,budynek,do remontu,Ptasia 16/95,Września,45-405,644604,55,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",1
+3,502,budynek,po remoncie,Korfantego 62A,Jelenia Góra,82-150,642503,169,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",1
+4,224,działka,do remontu,Świerkowa 12/26,Białystok,31-156,1183262,321,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+5,44,działka,do remontu,Morcinka 94A/76,Ostrowiec Świętokrzyski,21-370,781330,335,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+6,118,budynek,w budowie,Łokietka 47A,Osówiec,95-857,534728,157,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+7,16,działka,po remoncie,Wybickiego 95/76,Toruń,63-270,649071,291,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+8,44,lokal,do remontu,Letnia 86/99,Lubliniec,84-535,937997,202,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+9,44,lokal,do remontu,Senatorska 36A,Szwecja,03-732,634170,138,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+10,424,lokal,po remoncie,Tatrzańska 49/14,Opole,94-508,1142253,69,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+11,424,lokal,nowy,Curie-Skłodowskiej 41A/81,Kamieniec Ząbkowicki,44-170,700342,320,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+12,436,budynek,do remontu,Traugutta 70,Ełk,99-721,1039425,330,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",0
+13,132,budynek,opuszczony,Kościuszki 71A,Ilkowice,34-815,1087795,94,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+14,436,budynek,po remoncie,Żwirki i Wigury 85A/97,Rybnik,80-071,739845,142,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",1
+15,132,budynek,do remontu,Niedziałkowskiego 83A,Tarnobrzeg,74-921,1057395,37,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+16,514,działka,opuszczony,Stolarska 18A/34,Orzesze,52-534,437884,284,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",1
+17,58,działka,do remontu,Działkowa 23/14,Knurów,34-602,1184262,212,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",0
+18,470,lokal,do remontu,Szkolna 88A,Babienica,71-487,1121837,89,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+19,118,lokal,nowy,Korczaka 56/64,Koło,60-205,777470,346,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+20,96,lokal,opuszczony,Piłsudskiego 13,Brodnica,73-396,780886,115,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+21,344,budynek,w budowie,Sosnowa 68A,Jawor,13-331,715336,149,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+22,470,działka,w budowie,Żeromskiego 55A/66,Bydgoszcz,22-780,882614,315,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",0
+23,16,lokal,do remontu,Modrzewiowa 88,Świętochłowice,33-093,662248,96,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+24,220,lokal,do remontu,Kowalska 21A,Sosnowiec,17-539,1082595,81,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+25,132,działka,opuszczony,Rzeczna 45,Gniezno,18-860,570485,105,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",1
+26,344,lokal,do remontu,Leśna 88A/39,Gdynia,88-276,423252,255,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+27,424,działka,do remontu,Zakopiańska 61A,Postęp,06-030,427236,300,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+28,220,działka,opuszczony,Grzybowa 95/54,Gdańsk,85-102,1045612,278,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+29,224,działka,nowy,Łanowa 53A,Chrzanów,58-058,921712,199,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+30,58,działka,po remoncie,Szpitalna 39/45,Lubartów,41-157,700242,42,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+31,224,działka,w budowie,Chopina Fryderyka 41/30,Grodzisk Mazowiecki,10-497,557421,252,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+32,58,lokal,do remontu,Słowackiego 11A/55,Świecie,87-784,734807,107,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+33,436,budynek,do remontu,Os. Jagiellońskie 56/56,Oświęcim,90-770,593471,126,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",1
+34,96,działka,w budowie,Nowowiejskiego 60/37,Ostrzeszów,78-065,867676,171,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+35,118,lokal,nowy,Klonowa 79A,Lębork,86-064,566587,234,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+36,224,działka,opuszczony,Kowalska 82,Ostrołęka,95-845,1271776,128,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+37,132,działka,nowy,Zgierska 85/82,Marylka,11-438,1045300,206,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+38,118,działka,do remontu,Orkana 33/39,Bogatynia,73-001,678276,225,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",1
+39,224,budynek,nowy,Cegielniana 43,Malbork,77-380,1273740,193,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+40,344,budynek,opuszczony,Wrocławska 75A/92,Babienica,85-875,722109,74,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",0
+41,118,budynek,do remontu,Dworcowa 48/17,Kraśnik,78-515,678507,157,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+42,224,działka,do remontu,Obrońców Westerplatte 70A/43,Tarnobrzeg,51-488,1278205,92,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+43,96,lokal,po remoncie,Zamenhofa 49/78,Wejherowo,43-936,1054316,346,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+44,502,lokal,po remoncie,Konwaliowa 61/99,Krapkowice,45-105,393614,263,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+45,220,działka,po remoncie,Odrodzenia 28A,Szówsko,29-647,642976,120,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+46,16,działka,nowy,Marszałkowska 90A/63,Elbląg,07-208,747932,212,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+47,16,działka,do remontu,Powstańców 28A,Czaplinek,39-147,464576,248,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+48,58,lokal,w budowie,Krasickiego 40/51,Nowy Dwór Mazowiecki,73-534,1032874,158,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+49,96,lokal,do remontu,Przyjaźni 92/34,Mokrzyska,89-657,954927,351,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+50,132,działka,nowy,Wronia 74,Mielec,04-516,545594,334,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+51,224,lokal,opuszczony,3 Maja 51/23,Czaplinek,55-702,582782,86,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+52,132,lokal,po remoncie,Modlińska 17A/82,Łowicz,70-140,1205399,260,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+53,58,lokal,do remontu,Olsztyńska 97A,Jastrzębie,91-256,556747,346,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",0
+54,514,działka,po remoncie,Świerkowa 65A/79,Rzeszów,83-246,646715,198,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+55,344,działka,po remoncie,Curie-Skłodowskiej 75,Wodzisław Śląski,80-105,1137096,36,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+56,344,lokal,nowy,Gnieźnieńska 19A/37,Legnica,94-327,614994,194,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+57,224,lokal,po remoncie,Czwartaków 68A,Lędziny,09-441,1050450,43,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+58,118,lokal,po remoncie,Ciasna 70A/87,Lubojenka,26-206,691741,287,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+59,16,budynek,opuszczony,Topolowa 66A/14,Bełchatów,33-701,498782,353,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+60,58,działka,w budowie,Agrestowa 30,Gorlice,41-092,792798,58,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+61,44,lokal,po remoncie,Daszyńskiego 30/74,Jarosław,14-550,490052,352,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",0
+62,132,budynek,opuszczony,Modrzejewskiej 59,Jemielnica,19-657,636389,82,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+63,44,lokal,opuszczony,Staromiejska 63A,Zborowskie,96-475,1284014,134,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+64,44,działka,do remontu,Daleka 81A,Czechowice-Dziedzice,49-982,800199,291,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",1
+65,16,lokal,nowy,Racławicka 02A/28,Września,84-782,1104146,254,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+66,514,budynek,po remoncie,Mokra 86/13,Wejherowo,83-381,425583,182,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+67,220,budynek,nowy,Ceglana 74/76,Wejherowo,98-680,1161922,286,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+68,16,lokal,w budowie,Żabia 43A/59,Września,80-911,988430,148,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+69,344,działka,do remontu,Agrestowa 18/68,Lubin,34-393,893075,81,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",1
+70,220,budynek,do remontu,Puławska 97A,Brodnica,67-250,927661,80,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",0
+71,424,lokal,nowy,Ludowa 55A/10,Starogard Gdański,12-667,1031490,346,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+72,502,działka,nowy,Piotra Skargi 29A,Ostrzeszów,06-007,470961,279,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",0
+73,58,działka,opuszczony,Zwycięstwa 17A,Pruszków,02-945,698531,46,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+74,58,działka,w budowie,Świętokrzyska 73A/95,Czechowice-Dziedzice,04-245,912637,87,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",1
+75,16,budynek,nowy,Żniwna 24A,Boguszów-Gorce,72-347,639171,35,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+76,16,budynek,do remontu,Piłsudskiego 24/15,Kłobuck,61-978,593832,215,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",1
+77,344,budynek,w budowie,11 Listopada 51A/60,Szówsko,33-180,1122956,292,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+78,224,budynek,do remontu,Bolesława Prusa 08A/57,Pisz,10-856,593093,254,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+79,436,budynek,w budowie,Karpacka 40A,Sieradz,74-173,788884,280,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",1
+80,16,lokal,opuszczony,Mokra 23A,Malbork,51-176,1208037,335,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+81,424,lokal,nowy,Słoneczna 01A,Ławy,75-369,960780,163,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+82,118,działka,po remoncie,Szewska 34/45,Darłowo,58-501,1061530,101,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",1
+83,224,działka,opuszczony,Zielna 72A/39,Poznań,21-285,1099137,304,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",1
+84,502,lokal,nowy,Łukasiewicza 94/60,Piła,87-505,1119907,183,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+85,224,działka,do remontu,Chopina Fryderyka 68A,Kołobrzeg,41-567,582662,344,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+86,16,lokal,do remontu,Kaliska 92,Przędzel,21-197,819282,158,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+87,344,działka,po remoncie,Krasickiego 58/25,Kamienica Królewska,11-836,774948,214,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+88,344,działka,opuszczony,Kasprzaka Marcina 95A,Wola Kiedrzyńska,29-271,1082170,137,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",1
+89,470,działka,opuszczony,Kaliska 46A,Czeladź,04-530,977734,93,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+90,16,lokal,w budowie,Batalionów Chłopskich 55,Nowa Ruda,72-393,681955,260,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+91,118,działka,nowy,Lompy 20A,Legnica,00-808,1133777,145,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",0
+92,16,lokal,w budowie,Starowiejska 11A/79,Świętochłowice,67-216,500112,149,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+93,58,działka,opuszczony,3 Maja 54,Chorzów,54-825,448473,248,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+94,470,działka,opuszczony,Łódzka 05A,Zamość,18-829,933458,100,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+95,132,działka,nowy,Cisowa 84A/67,Białystok,75-811,1249389,26,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",1
+96,424,działka,opuszczony,Sucha 59,Wyszków,89-597,995734,304,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+97,220,działka,opuszczony,Jaracza 45/59,Skarżysko-Kamienna,04-003,1268174,297,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+98,436,działka,do remontu,Senatorska 20/91,Jarosław,17-757,1244145,43,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",1
+99,118,działka,opuszczony,Barlickiego 25A,Ostrołęka,63-053,1299667,34,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+100,16,działka,nowy,Klonowa 86A/16,Zduńska Wola,24-649,768914,98,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+101,220,lokal,do remontu,Dąbrowskiej 91,Cieszyn,81-457,843553,37,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+102,344,lokal,nowy,Środkowa 66A,Opole,73-639,604498,312,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+103,220,działka,opuszczony,Żabia 41,Świdnica,80-834,1112849,38,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+104,502,lokal,opuszczony,Krótka 44/60,Lublin,96-540,595215,36,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+105,344,budynek,opuszczony,Hoża 35/63,Poznań,45-150,1297936,223,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+106,118,budynek,po remoncie,Widok 67A/26,Olkusz,25-870,678035,180,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+107,220,działka,po remoncie,Bałtycka 30,Kościerzyna,25-387,808491,252,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",1
+108,16,budynek,opuszczony,Sienkiewicza 64,Lubartów,63-033,1004383,53,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",1
+109,470,budynek,do remontu,Łabędzia 50A,Czaplinek,27-723,981911,234,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+110,220,lokal,po remoncie,Drzymały 56A/33,Chorzów,89-203,1014332,99,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",0
+111,502,działka,opuszczony,Al. Niepodległości 54,Giżycko,64-689,639062,279,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",0
+112,132,lokal,do remontu,Krasickiego 77A,Łaziska Górne,63-257,1099620,211,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+113,436,budynek,w budowie,Kolberga 01A,Szczawin,69-353,532760,254,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+114,436,lokal,w budowie,Górnośląska 76,Ostrzeszów,21-746,1070303,112,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+115,224,budynek,po remoncie,Kłosowa 13A,Mysłowice,47-546,653677,136,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",1
+116,96,działka,do remontu,Modlińska 66/93,Kolonowskie,64-199,1255199,159,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+117,118,działka,opuszczony,Lwowska 19,Wyszków,42-580,998222,102,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",1
+118,44,budynek,w budowie,Lechicka 51/71,Świętochłowice,01-359,670098,89,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",1
+119,502,działka,po remoncie,Łąkowa 42,Siemianowice Śląskie,34-689,840415,332,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+120,502,działka,do remontu,Morcinka 38,Mysłowice,72-904,990379,318,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+121,132,działka,po remoncie,Tatrzańska 71,Szczytno,95-138,735219,304,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",1
+122,44,lokal,do remontu,Kalinowa 20,Postęp,20-553,981505,185,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+123,220,lokal,po remoncie,Sikorskiego 81,Chojnice,13-327,974706,284,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+124,224,budynek,do remontu,Promienna 18,Kamień,28-102,806567,150,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",1
+125,436,działka,w budowie,Zwierzyniecka 15A,Pułtusk,11-344,509108,216,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",0
+126,16,działka,w budowie,Konstytucji 3 Maja 94A/71,Starogard Gdański,64-327,1133022,149,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+127,220,budynek,po remoncie,Wiosenna 84A,Jelcz-Laskowice,43-138,388655,266,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+128,470,działka,po remoncie,Rybna 51A/63,Czechowice-Dziedzice,26-644,1056130,144,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+129,424,działka,do remontu,Łomżyńska 48,Kołobrzeg,99-978,898565,82,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+130,224,budynek,opuszczony,Pawia 04A/66,Lubin,45-781,1294857,38,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+131,220,działka,opuszczony,Struga 80A,Tarnobrzeg,79-673,872571,231,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+132,220,działka,nowy,Willowa 71A,Łowicz,72-202,1140651,52,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+133,224,działka,do remontu,Harcerska 53/96,Dzierżoniów,47-868,1244019,303,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",0
+134,118,budynek,opuszczony,Kresowa 35,Czerwionka-Leszczyny,85-310,1023780,107,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",1
+135,514,lokal,nowy,Litewska 18/54,Sulejówek,07-209,1017221,172,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+136,220,lokal,w budowie,Wyszyńskiego 82A,Babienica,43-502,730245,91,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+137,502,budynek,nowy,Orla 65A,Radom,31-989,800462,264,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+138,16,działka,w budowie,Gołębia 92/84,Racibórz,35-895,679556,66,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+139,436,budynek,opuszczony,Rzeczna 87/94,Piotrków Trybunalski,46-714,795813,89,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+140,44,działka,nowy,Sosnowa 24A,Świętochłowice,59-258,1000979,192,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+141,132,budynek,opuszczony,Wita Stwosza 90A/65,Rybnik,89-888,512765,134,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+142,514,działka,opuszczony,Dąbrowszczaków 47/91,Siemianowice Śląskie,40-835,952232,197,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+143,470,budynek,nowy,Błękitna 56A,Dąbrowa Górnicza,72-717,1045333,52,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+144,118,budynek,po remoncie,Sportowa 55/93,Lubliniec,78-855,430384,292,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",1
+145,16,lokal,nowy,Królowej Jadwigi 32,Kozienice,40-530,497176,244,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+146,58,lokal,nowy,Zamkowa 39/96,Cieszyn,77-573,417917,170,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+147,16,budynek,do remontu,Łączna 35,Sosnowiec,58-745,1273558,36,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+148,224,budynek,opuszczony,Dmowskiego 21A,Police,69-538,605368,290,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+149,436,lokal,do remontu,Bielska 07A/41,Szczawin,81-089,1134776,92,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+150,502,lokal,opuszczony,Kilińskiego 56A,Nysa,38-416,794768,44,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+151,514,budynek,po remoncie,Podhalańska 73A,Łęczna,59-874,655981,250,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+152,224,lokal,do remontu,Krucza 16/15,Mikołów,97-877,479424,249,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+153,424,budynek,do remontu,Świętokrzyska 46/62,Kędzierzyn-Koźle,56-822,379881,306,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",1
+154,224,budynek,nowy,Inżynierska 51/13,Dzierżoniów,76-955,426074,277,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+155,502,lokal,po remoncie,Gminna 68,Ełk,42-102,458008,142,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+156,344,działka,po remoncie,Tęczowa 00A,Jastrzębie-Zdrój,32-060,585357,40,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+157,220,budynek,opuszczony,Wileńska 04A,Babienica,57-670,971460,94,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+158,118,budynek,w budowie,Orkana 78/37,Łowicz,95-698,770894,116,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",0
+159,502,budynek,opuszczony,Wiosenna 26A,Szwecja,58-897,545669,238,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+160,96,działka,po remoncie,Ciasna 49A/33,Kościerzyna,24-042,775282,289,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+161,16,działka,opuszczony,Jasna 35A,Krapkowice,59-337,1202252,85,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+162,424,lokal,w budowie,Bursztynowa 74/96,Tomaszów Mazowiecki,19-097,999517,240,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+163,132,lokal,opuszczony,11 Listopada 87A,Ostrzeszów,57-640,1252067,224,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+164,132,działka,nowy,Rejtana 71A,Sulejówek,39-321,744799,79,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+165,44,lokal,do remontu,Sadowa 88,Piła,13-379,783692,73,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+166,118,lokal,po remoncie,Sawickiej 23A,Sulejówek,88-329,957873,310,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+167,96,lokal,po remoncie,Pocztowa 82A/73,Wodzisław Śląski,57-024,1105842,196,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+168,220,budynek,do remontu,Poprzeczna 43A/84,Rzeszów,44-195,881039,219,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+169,424,budynek,po remoncie,Sadowa 39/29,Szczecin,42-895,1234475,54,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",1
+170,436,budynek,opuszczony,Świerkowa 23/18,Sanok,06-195,697486,272,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+171,502,budynek,po remoncie,Sądowa 94A/17,Bartoszyce,98-592,633431,349,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",1
+172,344,działka,nowy,Wołodyjowskiego 60A,Zduńska Wola,83-499,960419,336,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",1
+173,470,działka,do remontu,Wrzosowa 68A/20,Koszwały,71-085,710929,148,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",0
+174,514,budynek,w budowie,Warmińska 47/29,Konin,05-683,756619,111,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+175,44,lokal,do remontu,Kalinowa 30A,Głogów,02-214,942819,85,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+176,514,budynek,opuszczony,Wincentego Pola 49/55,Leszno,86-070,836847,220,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+177,58,budynek,do remontu,Kazimierza Wielkiego 78A,Koszwały,14-297,1174034,308,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+178,44,działka,do remontu,Piotra Skargi 71/34,Piekary Śląskie,66-614,1251642,95,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",1
+179,16,działka,po remoncie,Szpitalna 47/38,Wodzisław Śląski,24-725,1078407,212,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",1
+180,344,działka,po remoncie,Piastowska 21/79,Stargard,78-318,927898,233,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+181,424,lokal,opuszczony,Partyzantów 74,Będzin,65-103,699445,70,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+182,424,lokal,nowy,Makuszyńskiego 60A,Ilkowice,20-819,884808,273,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+183,436,lokal,po remoncie,Reymonta 26A/88,Puławy,40-115,931983,48,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+184,502,działka,po remoncie,Nadrzeczna 01A/61,Wyszków,51-417,1215705,51,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+185,58,budynek,opuszczony,Wielkopolska 85A,Pabianice,39-543,1220965,112,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",1
+186,424,budynek,po remoncie,Wielkopolska 60,Opole,39-941,651532,89,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",1
+187,58,działka,opuszczony,Długosza 34A/97,Nowa Sól,42-926,523403,131,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",0
+188,220,działka,po remoncie,Warmińska 46/85,Pawłowice,04-074,1212512,131,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+189,44,budynek,do remontu,Słowackiego 29,Ruda Śląska,20-161,499203,195,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+190,220,działka,opuszczony,Mazurska 29/14,Rzeszów,11-310,1015228,296,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+191,16,lokal,po remoncie,Niedziałkowskiego 89/37,Bogaczów,04-032,929924,270,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+192,502,lokal,nowy,Ułańska 66A/95,Myszków,31-454,1144084,245,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+193,436,lokal,w budowie,Mostowa 16/78,Magdalenka,02-842,413559,245,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+194,224,lokal,do remontu,Krzywa 87A,Skalbmierz,62-895,751481,173,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+195,436,działka,w budowie,Kochanowskiego 54A,Krapkowice,43-134,549660,77,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+196,96,działka,po remoncie,Dąbrówki 34/27,Słupsk,74-507,1039518,189,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+197,470,działka,po remoncie,Chabrowa 38,Jawor,44-521,1054700,342,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+198,224,działka,opuszczony,Kowalska 16A/73,Piekary Śląskie,54-814,609416,140,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+199,16,lokal,do remontu,Husarska 41A/43,Sosnowiec,63-263,1295062,140,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+200,132,budynek,opuszczony,Chełmońskiego 81A/41,Lubliniec,56-407,1293390,344,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",1
+201,502,działka,po remoncie,Szeroka 02A,Nysa,71-871,1009665,345,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+202,118,budynek,opuszczony,Pułaskiego 74/29,Nowe Kramsko,10-473,764628,293,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+203,118,działka,nowy,Sienkiewicza 16A/35,Kościerzyna,28-130,647609,222,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",0
+204,96,działka,w budowie,Kossaka 92,Nowe Kramsko,65-394,476213,84,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+205,224,działka,w budowie,Spacerowa 15A,Ostrów Mazowiecka,50-597,1174476,300,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+206,436,lokal,do remontu,Rybna 81/40,Grudziądz,97-405,1189079,270,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+207,132,lokal,do remontu,Nałkowskiej 90/68,Szczawin,49-941,715544,269,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+208,44,działka,po remoncie,Wapienna 75/16,Sosnowiec,84-451,823217,173,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",0
+209,514,budynek,do remontu,Cmentarna 91A,Franciszków,88-321,863354,295,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+210,514,działka,opuszczony,Wojska Polskiego 89A,Łomża,42-035,1299284,114,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+211,96,lokal,do remontu,Dworcowa 53/24,Krapkowice,70-514,962120,169,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+212,514,lokal,po remoncie,Skrajna 88A,Ostrowiec Świętokrzyski,72-784,1132518,91,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+213,436,działka,po remoncie,Robotnicza 61/74,Przędzel,66-747,471957,260,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",1
+214,16,działka,nowy,Kręta 23A,Zawiercie,07-983,1188952,164,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+215,470,budynek,do remontu,Zgierska 17A,Lublin,83-410,943395,127,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+216,344,budynek,nowy,Wiśniowa 38A/63,Lubojenka,39-386,622050,328,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+217,424,lokal,w budowie,Obrońców Westerplatte 27A,Police,06-208,602202,227,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+218,514,działka,opuszczony,Sawickiej 90A/50,Zabrze,80-635,923555,274,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+219,58,lokal,po remoncie,Cieszyńska 99/58,Busko-Zdrój,91-667,1053856,228,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+220,224,budynek,po remoncie,Tylna 39,Swarzędz,10-953,963087,133,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",1
+221,224,lokal,opuszczony,Południowa 53A/45,Suwałki,70-988,793902,309,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+222,470,lokal,opuszczony,Nowy Świat 96A/52,Jaworzno,08-068,578906,66,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+223,44,lokal,opuszczony,Legionów 36A,Pułtusk,67-637,455770,37,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+224,132,działka,opuszczony,Gałczyńskiego 26A,Tomaszów Mazowiecki,99-340,888899,60,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+225,132,działka,opuszczony,Limanowskiego 64/19,Skierniewice,06-638,915515,45,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",1
+226,344,działka,nowy,Główna 19,Bogaczów,44-011,1028088,198,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+227,220,budynek,do remontu,Kosmonautów 66/53,Osówiec,69-845,1114284,25,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+228,344,lokal,po remoncie,Krasińskiego 68,Gliwice,29-482,1213097,26,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+229,424,lokal,po remoncie,Zamenhofa 28A,Świebodzice,11-084,966984,124,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+230,224,budynek,nowy,Brzoskwiniowa 08A/97,Giżycko,54-885,700651,91,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+231,470,budynek,do remontu,Rumiankowa 71,Zgorzelec,77-850,877957,187,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",0
+232,424,budynek,do remontu,Wróblewskiego 14,Świdwin,05-722,704225,27,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",1
+233,58,działka,do remontu,Sobieskiego 49A,Tarnów,71-056,830776,115,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",0
+234,424,działka,nowy,Fałata 45/88,Jasło,49-421,1086333,108,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+235,58,budynek,nowy,Strażacka 97,Ostrowiec Świętokrzyski,94-147,595554,59,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+236,502,działka,w budowie,Brzozowa 28/73,Chojnice,74-242,823468,337,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",1
+237,436,budynek,po remoncie,Łowicka 29A,Krapkowice,12-202,1102324,197,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",1
+238,224,budynek,w budowie,Plebiscytowa 72,Magdalenka,93-072,1177321,178,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+239,344,działka,w budowie,Ludowa 20/31,Szteklin,21-034,1147254,324,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+240,224,lokal,po remoncie,Lubelska 05A,Lubliniec,62-907,669348,161,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+241,344,działka,nowy,Solskiego 42A/86,Bełchatów,31-297,477542,117,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+242,514,działka,po remoncie,Chabrowa 58A,Osówiec,10-913,778984,175,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+243,514,budynek,do remontu,Wileńska 30,Skierniewice,48-253,813816,230,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",1
+244,514,lokal,nowy,Wojska Polskiego 23A,Łomianki,74-914,431266,253,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+245,224,działka,po remoncie,Sikorskiego 28/97,Malbork,58-373,1200307,238,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+246,470,działka,po remoncie,Myśliwska 00A,Pułtusk,57-174,394962,251,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",1
+247,424,działka,opuszczony,Składowa 47A,Kołobrzeg,11-205,447735,228,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",1
+248,514,działka,do remontu,Kasprowicza 66A,Mysłowice,02-928,1107442,41,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+249,132,budynek,do remontu,Lisia 11/96,Tarnowskie Góry,22-282,490893,155,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",1
+250,118,lokal,do remontu,Chmielna 17A/16,Bolesławiec,27-986,1133166,251,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+251,436,lokal,po remoncie,Składowa 68/30,Mysłowice,89-724,702941,53,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+252,514,działka,nowy,Spółdzielcza 59,Bogaczów,16-601,552316,210,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+253,96,działka,po remoncie,Żołnierska 93A,Biała Podlaska,25-403,430485,314,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+254,514,lokal,nowy,Ligonia 87A,Radom,64-736,380516,351,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+255,44,budynek,do remontu,Hoża 96/81,Łoś,30-253,615296,204,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+256,502,działka,nowy,Pułaskiego 21A/98,Nowy Dwór Mazowiecki,15-495,1267453,29,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",1
+257,132,budynek,opuszczony,Skłodowskiej-Curie 93A,Sandomierz,86-079,419360,307,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+258,470,budynek,po remoncie,Równa 39/11,Jastrzębie-Zdrój,35-744,759220,270,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+259,220,lokal,do remontu,Kaszubska 09A,Gołubie,83-037,957454,90,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+260,514,działka,po remoncie,Krótka 59,Tczew,18-843,929683,296,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+261,470,lokal,nowy,Czereśniowa 54/41,Marylka,00-216,1078135,312,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+262,224,lokal,nowy,Staszica 15/47,Siemianowice Śląskie,98-552,715707,313,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+263,96,działka,opuszczony,Opolska 10/68,Ustka,70-028,903987,199,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+264,436,działka,do remontu,Brzechwy 50,Kętrzyn,94-087,726750,107,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",1
+265,344,działka,nowy,Długa 35/25,Grodzisk Mazowiecki,97-287,1237468,32,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+266,96,lokal,opuszczony,Nadbrzeżna 23A,Brzeg,93-281,1052095,262,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+267,220,lokal,w budowie,Inżynierska 11A/76,Lębork,84-008,1198719,254,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+268,220,działka,nowy,Jaśminowa 01A,Olkusz,75-073,1203403,186,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",1
+269,16,działka,opuszczony,Szczęśliwa 91A/44,Sandomierz,55-307,505132,137,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+270,470,lokal,po remoncie,Kleeberga 81/63,Bielsko-Biała,88-488,1107339,221,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+271,344,budynek,do remontu,Karłowicza 23A/74,Chojnice,23-852,1079459,181,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+272,16,budynek,do remontu,Niemcewicza 72A,Pabianice,35-089,1179632,288,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+273,132,działka,w budowie,Korczaka 21,Wrocław,80-369,639047,337,"Działka na terenie parku krajobrazowego z zachowaną przyrodą! Idealna harmonia z naturą w ekologicznym domu.",1
+274,344,lokal,po remoncie,Baczyńskiego 68/48,Jadowniki,80-983,783330,254,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+275,16,lokal,opuszczony,Plebiscytowa 48/58,Rybnik,29-109,1006699,174,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+276,224,budynek,do remontu,Towarowa 33,Wilkowice,82-595,1116484,49,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+277,224,lokal,do remontu,Popiełuszki 40,Sandomierz,35-414,586128,318,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+278,514,działka,opuszczony,Kaliska 67A/96,Jelcz-Laskowice,17-541,1225606,92,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+279,132,lokal,w budowie,Grodzka 98A/73,Sopot,31-139,1254108,277,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+280,344,budynek,po remoncie,Dmowskiego 91A/80,Tarnobrzeg,14-032,1136442,153,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",1
+281,44,lokal,nowy,Prosta 28A,Jastarnia,82-585,443150,92,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+282,224,budynek,opuszczony,Gałczyńskiego 96A,Inowrocław,19-593,1078589,69,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+283,96,lokal,do remontu,Sportowa 25A,Kalisz,17-642,812943,44,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+284,220,lokal,w budowie,Żytnia 21,Koszwały,73-810,582817,58,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",0
+285,424,działka,po remoncie,Bukowa 85A,Racibórz,20-278,611194,288,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+286,132,działka,nowy,Struga 17,Lidzbark Warmiński,14-740,376536,187,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+287,16,działka,do remontu,Gliwicka 05A,Bolesławiec,88-570,997813,211,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+288,514,budynek,opuszczony,Główna 49A/49,Będzin,50-681,1097029,199,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+289,344,budynek,po remoncie,Siewna 92,Tarnowskie Góry,35-157,901241,165,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",1
+290,344,lokal,do remontu,Brzechwy 92,Bogatynia,36-514,452495,279,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+291,220,działka,do remontu,Lwowska 91A/76,Pruszków,71-709,854436,83,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+292,220,budynek,nowy,Czwartaków 75A,Świecie,36-971,1290750,183,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+293,436,lokal,w budowie,Saperów 79,Chojnice,90-434,553289,186,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+294,132,lokal,opuszczony,11 Listopada 39A,Ostrzeszów,64-985,871291,295,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+295,344,działka,do remontu,Nowowiejskiego 72A,Kamieniec Ząbkowicki,85-692,975547,174,"Działka rolno-budowlana z możliwością podziału! Elastyczna opcja dla prowadzenia działalności rolniczej lub budowy domu.",1
+296,16,działka,do remontu,Świerkowa 95/61,Krosno,04-022,1160934,87,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+297,132,lokal,nowy,Kochanowskiego 35A/64,Kolonowskie,37-929,458926,254,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+298,220,działka,nowy,Legnicka 55/20,Biała Podlaska,18-645,449980,235,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+299,44,działka,w budowie,Jasna 54/32,Krępiec,24-381,559403,321,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+300,220,lokal,w budowie,Drzymały 13/67,Czaplinek,34-296,800992,123,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+301,44,lokal,opuszczony,Bydgoska 75A/89,Brzeg,25-746,707312,322,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+302,436,działka,do remontu,Podhalańska 19/17,Sandomierz,27-257,544379,89,"Działka w rejonie turystycznym z potencjałem inwestycyjnym! Doskonała opcja inwestycyjna w branży turystycznej.",1
+303,44,budynek,do remontu,Długa 16,Kraśnik,77-958,941828,320,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+304,424,lokal,po remoncie,Harcerska 84/85,Piotrków Trybunalski,07-859,652906,344,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+305,96,lokal,w budowie,Warmińska 71A/54,Szczecinek,63-171,441094,334,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+306,132,lokal,po remoncie,Ligonia 95/52,Wejherowo,80-625,1051218,206,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+307,118,działka,po remoncie,Sowińskiego 26A,Jelcz-Laskowice,68-121,1000614,333,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+308,220,działka,nowy,Zwierzyniecka 26A,Łomża,32-859,1065928,158,"Działka w okolicy z potencjałem turystycznym! Idealna inwestycja dla przedsiębiorców zainteresowanych sektorem turystycznym.",1
+309,96,działka,do remontu,Szafirowa 33,Rzeszów,17-195,1248697,37,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",0
+310,470,lokal,po remoncie,Szarych Szeregów 56,Bytom,43-274,654260,187,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+311,436,działka,do remontu,Energetyków 05A,Czechowice-Dziedzice,68-024,924529,319,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+312,132,lokal,w budowie,Husarska 19/12,Nowy Targ,32-766,915928,352,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",0
+313,470,lokal,po remoncie,Bohaterów Westerplatte 70A,Wodzisław Śląski,57-371,397802,330,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+314,58,budynek,po remoncie,Tęczowa 65,Ząbki,04-314,1254498,31,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+315,424,działka,po remoncie,Skrajna 91A,Iława,63-326,1048119,100,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+316,118,działka,w budowie,Jaśminowa 42,Pruszków,37-846,669622,51,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",0
+317,502,budynek,po remoncie,Wybickiego 59A/42,Orzesze,38-310,900003,196,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+318,424,działka,opuszczony,Batorego 52A,Katowice,74-124,453556,60,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+319,224,działka,opuszczony,Błękitna 14A,Mysłowice,17-642,997023,189,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+320,96,lokal,opuszczony,Wita Stwosza 56/13,Czaplinek,24-927,1268126,178,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+321,44,działka,nowy,Świdnicka 28/36,Nowy Targ,95-869,912738,139,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+322,220,budynek,nowy,Sądowa 40/61,Ostrów Wielkopolski,10-362,734548,63,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+323,58,działka,do remontu,Chełmońskiego 34A/53,Pęcice,56-549,506042,75,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+324,344,lokal,nowy,Osiedlowa 48,Nowe Kramsko,50-983,1281062,286,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+325,220,lokal,w budowie,Hutnicza 12/62,Łęczna,58-193,444909,158,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+326,436,działka,po remoncie,Lipowa 76,Zamość,10-780,764195,300,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",0
+327,16,działka,opuszczony,Modlińska 99,Kłobuck,54-140,1001701,31,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+328,44,działka,opuszczony,Księżycowa 10/70,Stalowa Wola,06-461,941822,311,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+329,470,lokal,opuszczony,Kolorowa 29A,Wrocław,76-862,783956,329,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+330,96,lokal,po remoncie,Pl. Wolności 33A/50,Tarnobrzeg,03-967,1051100,153,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+331,344,lokal,w budowie,Węglowa 62/54,Inowrocław,80-920,848821,129,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+332,118,budynek,opuszczony,Kwiatkowskiego 26A/53,Kamieniec Ząbkowicki,10-667,493590,217,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+333,132,lokal,w budowie,Chmielna 37A/80,Kędzierzyn-Koźle,65-477,1040397,196,"Klimatyczna restauracja z ogródkiem letnim. Wykwintna kuchnia i przytulna atmosfera.",1
+334,436,działka,opuszczony,Łączna 76,Lubliniec,49-941,994507,65,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+335,224,budynek,po remoncie,Wronia 45A/51,Zborowskie,13-630,1157236,137,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+336,514,lokal,do remontu,Mazowiecka 69,Ostrów Mazowiecka,68-770,893335,236,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+337,502,lokal,opuszczony,Żwirki i Wigury 37A/51,Swarzędz,24-792,1257476,97,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+338,424,lokal,opuszczony,Pogodna 82A,Będzin,95-253,901818,189,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+339,436,budynek,w budowie,Siemiradzkiego 73,Lubojenka,53-304,861234,106,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+340,344,lokal,nowy,Staffa 18A,Gdynia,70-693,799768,352,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+341,132,lokal,po remoncie,Wesoła 07A,Koszwały,22-029,1053564,177,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+342,502,działka,do remontu,Orzechowa 71A/20,Koszwały,00-523,419269,124,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",1
+343,470,lokal,w budowie,Staszica 42A,Płock,68-950,417851,84,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+344,16,lokal,opuszczony,Starowiejska 96A,Skalbmierz,86-296,789924,144,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+345,96,lokal,w budowie,Wesoła 18/96,Jaroszowa Wola,64-680,1182766,140,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+346,220,lokal,opuszczony,Wierzbowa 24A/86,Ostrzeszów,85-065,793274,46,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+347,118,lokal,po remoncie,Orkana 49,Bielsko-Biała,94-755,1234048,65,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+348,424,lokal,opuszczony,Diamentowa 61,Ostrów Mazowiecka,15-370,1205126,329,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+349,514,lokal,nowy,Gagarina 90A/75,Jarosław,20-714,1062601,39,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+350,344,lokal,opuszczony,Robotnicza 25,Bieruń,95-272,881734,341,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+351,118,budynek,nowy,Sikorskiego 35/48,Sopot,48-585,381639,244,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",1
+352,220,lokal,opuszczony,Porzeczkowa 20/21,Chełm,75-431,896710,175,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+353,224,budynek,po remoncie,Topolowa 94A/76,Będzin,29-171,947590,79,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",0
+354,514,budynek,opuszczony,Sandomierska 49A/30,Przędzel,45-111,1004791,34,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",1
+355,224,lokal,nowy,Willowa 20/46,Łomianki,60-608,1281824,273,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+356,436,lokal,do remontu,Przemysłowa 80,Rumia,62-719,808288,281,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+357,436,lokal,w budowie,Kaliska 96,Bielawa,47-156,588382,51,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+358,132,lokal,w budowie,Wrzosowa 12A,Wejherowo,68-134,716281,182,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+359,16,działka,w budowie,Szewska 16A/75,Inowrocław,13-026,828067,72,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+360,118,lokal,opuszczony,Astrów 77/82,Szczecin,90-278,895624,148,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+361,470,lokal,po remoncie,Osiedlowa 10A/93,Jadowniki,20-791,1270588,88,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+362,118,budynek,po remoncie,Wyszyńskiego 84A/86,Nowy Targ,79-625,541642,123,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",0
+363,344,budynek,do remontu,Iwaszkiewicza 42/94,Lublin,88-474,393483,101,"Nowoczesny apartament (60 m²) w centrum miasta z restauracjami, sklepami i atrakcjami. Wyposażony w klimatyzację i inteligentny system domowy, zapewniający komfortowe życie w dynamicznym otoczeniu miejskim.",1
+364,220,lokal,do remontu,Lechicka 42,Skierniewice,89-240,879242,175,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+365,344,budynek,w budowie,Niecała 29A/96,Lubartów,88-515,1114850,133,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",1
+366,436,działka,po remoncie,Puławska 50A/44,Stalowa Wola,76-360,761295,200,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+367,502,lokal,nowy,Kielecka 69A/91,Sochaczew,59-780,549936,156,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",0
+368,470,lokal,po remoncie,Majowa 71,Kędzierzyn-Koźle,43-496,451812,353,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+369,344,budynek,po remoncie,Składowa 91A,Bełchatów,12-641,425796,32,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+370,96,działka,po remoncie,Skośna 83A,Świecie,42-837,587249,230,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",0
+371,224,lokal,nowy,Rumiankowa 73A/88,Lubartów,04-346,430225,233,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+372,470,budynek,w budowie,Wołodyjowskiego 20,Stargard,27-119,500308,300,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",0
+373,436,budynek,opuszczony,Kaliska 93,Sieradz,74-295,876783,288,"Ekskluzywna rezydencja z 300-metrowym ogrodem i basenem. Luksusowy styl życia, wyjątkowe wzornictwo i panoramiczne widoki.",1
+374,224,działka,do remontu,Strażacka 61A/46,Będzin,88-385,676433,150,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",0
+375,502,lokal,nowy,Olimpijska 49,Gorzów Wielkopolski,64-704,397412,64,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+376,514,działka,opuszczony,Wróblewskiego 92A/92,Świdnica,91-657,764553,85,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+377,220,budynek,opuszczony,Nowa 97A,Poznań,67-966,752459,141,"Przestronny dom rodzinny! 200 m² idealne dla rodziny. Duży salon, jasna kuchnia, cztery sypialnie i przestronny ogród. Doskonałe warunki do życia i relaksu.",1
+378,436,działka,opuszczony,Wschodnia 58A,Śrem,39-914,785516,235,"Działka rekreacyjna z sadem owocowym! Idealna na spędzanie czasu na świeżym powietrzu i zbieranie świeżych owoców.",0
+379,436,lokal,do remontu,Tylna 93A,Lubliniec,63-655,1187166,220,"Przytulna kawiarnia w centrum! Urokliwa kawiarnia z miłą atmosferą. Idealna na spotkania czy relaks przy kawie.",1
+380,132,budynek,do remontu,Podhalańska 29/63,Zabrze,92-040,1287240,178,"Kamienica z klimatem w centrum! Odrestaurowana z urokiem i nowoczesnością. Drewniane belki, kute balustrady, antyczne meble. Idealna dla miłośników historii i estetyki.",0
+381,224,lokal,do remontu,Podwale 79/99,Malbork,02-948,726014,337,"Przestronny lokal handlowy z dużymi witrynami. Ruchliwa lokalizacja i elastyczna przestrzeń.",1
+382,118,budynek,do remontu,Miła 59A,Kuźnica Masłońska,05-039,481609,220,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",0
+383,220,budynek,opuszczony,Hoża 19/25,Starogard Gdański,30-581,1048213,150,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+384,502,działka,w budowie,Legnicka 78A/99,Konstancin-Jeziorna,42-415,1115632,334,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+385,44,działka,w budowie,Gałczyńskiego 14A,Jeziorna,43-455,572699,34,"Malownicza działka leśna w górach! Raj dla miłośników przyrody z możliwością budowy domu letniskowego.",0
+386,424,lokal,opuszczony,Piaskowa 96A/98,Pisz,72-193,1166804,275,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+387,44,działka,po remoncie,Żółkiewskiego 78/92,Warszawa,90-634,604833,213,"Działka budowlana z widokiem na góry! Niesamowite widoki i możliwość budowy domu z panoramicznymi oknami.",1
+388,58,działka,opuszczony,Dworcowa 99A/84,Łódź,21-438,999732,197,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+389,224,lokal,nowy,Waryńskiego 93A/62,Nowa Sól,94-654,1173216,190,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+390,224,działka,nowy,Olsztyńska 24,Ostróda,20-970,1264202,347,"Działka nadmorska z dostępem do plaży! Wymarzone warunki dla miłośników życia nad wodą.",1
+391,58,budynek,nowy,Cedrowa 40/76,Ostrów Mazowiecka,00-586,407254,37,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+392,470,lokal,opuszczony,Dożynkowa 58A/65,Sosnowiec,85-092,795296,132,"Ekskluzywny butik z designerskimi ubraniami. Wyjątkowe kolekcje i eleganckie wnętrze.",1
+393,96,lokal,do remontu,Waryńskiego 28/25,Legnica,49-481,555953,116,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+394,224,budynek,nowy,Węglowa 12,Oświęcim,12-515,998374,347,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+395,502,działka,opuszczony,Wapienna 44A,Zborowskie,34-837,375821,80,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+396,58,budynek,nowy,Lelewela 89A,Chorzów,72-743,466275,168,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+397,220,lokal,do remontu,Husarska 79,Świdnik,20-236,632626,286,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+398,96,budynek,nowy,Batalionów Chłopskich 83,Głogów,20-663,542852,135,"Apartament z widokiem na góry! Urokliwy apartament na wzgórzu. Widoki na góry i jezioro, zachody słońca. Idealny dla miłośników przyrody i spokoju.",1
+399,118,działka,po remoncie,Krasińskiego 93A,Luboń,72-416,397537,268,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",1
+400,220,działka,po remoncie,Słonecznikowa 97,Konstancin-Jeziorna,66-165,1106353,252,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+401,132,lokal,opuszczony,Żwirowa 20A,Zielona Góra,59-176,868348,225,"Stylowy salon fryzjerski z pełnym wyposażeniem. Eleganckie otoczenie i wysoka jakość usług.",1
+402,224,budynek,po remoncie,Źródlana 77/24,Kolonowskie,52-720,1066028,310,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+403,44,budynek,nowy,Świętojańska 93/17,Bielawa,92-730,612506,306,"Komfortowy dom w lesie! Cisza natury, nowoczesny komfort. Duże okna, taras z widokiem na drzewa, przytulny kominek. Idealne schronienie wśród przyrody.",1
+404,220,budynek,nowy,Wałowa 90,Tarnowskie Góry,18-659,1074003,301,"Przestronne mieszkanie (80 m²) w spokojnej okolicy, blisko pięknego parku. Duże okna, widok na drzewa i kwiaty z balkonu. Idealne dla miłośników natury i spokoju.",1
+405,118,lokal,do remontu,Curie-Skłodowskiej 13A/26,Nowy Sącz,61-185,1070095,336,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+406,436,budynek,do remontu,Kosmonautów 37A/78,Braniewo,51-750,625474,64,"Uroczy dom na przedmieściach z ogrodem i tarasem, harmonia między domowym ogniskiem a relaksem na świeżym powietrzu. Przestronny taras z widokiem na ogród, idealny na rodzinne grillowanie i spotkania.",0
+407,344,lokal,opuszczony,Kołobrzeska 55/26,Łoś,48-964,1000457,146,"Kreatywne biuro coworkingowe dla freelancerów. Elastyczna przestrzeń i inspirująca atmosfera.",1
+408,96,działka,po remoncie,Wysoka 52/46,Łódź,51-711,749162,270,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+409,220,działka,po remoncie,Brzechwy 12/20,Ustka,45-264,965821,234,"Działka z dostępem do rzeki idealna dla wędkarzy! Raj dla miłośników przyrody i spokoju nad wodą.",1
+410,132,działka,opuszczony,Błękitna 66/40,Nowe Kramsko,33-606,529693,166,"Działka z warzywnikiem i szklarnią! Doskonałe warunki do uprawy warzyw i owoców przez cały rok.",1
+411,436,lokal,po remoncie,Różana 70/81,Świebodzice,91-054,596405,275,"Przyjazny klub fitness dla całej rodziny. Bogata oferta zajęć i udogodnień.",1
+412,424,lokal,do remontu,Ściegiennego 66/64,Czeladź,39-505,1189391,337,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",1
+413,16,działka,do remontu,Przybyszewskiego 57A,Bielsko-Biała,94-855,422034,41,"Działka z licznymi drzewami owocowymi i nasadzeniami! Sprzyja samowystarczalnemu trybowi życia i zdrowemu odżywianiu.",1
+414,424,lokal,po remoncie,Wybickiego 06A/87,Koszwały,14-337,484110,51,"Nowoczesne studio fitness z bogatą ofertą zajęć. Doświadczeni instruktorzy i wysokiej jakości sprzęt.",1
+415,470,działka,do remontu,Łowicka 68A,Zgorzelec,86-346,1116802,138,"Rozległa działka rolna w otoczeniu pól i łąk! Doskonałe warunki do uprawy roślin lub hodowli zwierząt.",1
+416,344,budynek,po remoncie,Modrzejewskiej 58A/55,Braniewo,52-194,1153362,78,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
+417,502,działka,w budowie,Zakopiańska 60A/93,Sieradz,07-471,672260,198,"Działka rekreacyjna z budynkiem gospodarczym! Zapewnia mnóstwo możliwości do relaksu i aktywnego spędzania czasu na świeżym powietrzu.",1
+418,118,działka,po remoncie,Powstańców 13/56,Lubojenka,12-766,1062102,261,"Działka pod uprawy sadownicze lub winnice! Atrakcyjna propozycja dla osób zainteresowanych rolnictwem.",1
+419,44,działka,po remoncie,Podwale 10A/76,Konstancin-Jeziorna,63-455,813410,207,"Urokliwa działka nad jeziorem z prywatnym dostępem do wody! Idealne miejsce na budowę domu letniskowego lub całorocznego.",0
+420,132,budynek,nowy,Agrestowa 42/89,Kłobuck,99-519,421602,315,"Elegancka willa nad morzem! Panoramiczny widok na morze, prywatna plaża. Przestronne tarasy, luksusowe wyposażenie, dostęp do wody. Idealna dla miłośników luksusu i relaksu.",1
+421,514,lokal,do remontu,Pawia 45A/54,Rybnik,38-352,853012,316,"Nowoczesny biurowiec w prestiżowej dzielnicy. Dogodna lokalizacja i wysoka jakość biur.",0
+422,224,lokal,w budowie,Mokra 45/97,Świebodzin,37-325,671458,264,"Nowoczesny gabinet medyczny z kompleksową opieką. Profesjonalna opieka i najnowszy sprzęt.",1
+423,118,budynek,nowy,Popiełuszki 67/70,Szówsko,77-714,695503,176,"Stylowa loftowa przestrzeń! Loft w fabrycznym budynku. Industrialny charakter, nowoczesny styl. Wysokie sufity, duże okna, otwarta przestrzeń. Nietuzinkowe mieszkanie.",1
