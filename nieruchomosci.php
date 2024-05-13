@@ -73,34 +73,37 @@
                 $address .= ",";
             }
         } // adres
-        $str .= $address." ".$adres2[1]." ".$city; // kod pocztowy
+        $str .= $address.",".$city.",".$adres2[1]; // kod pocztowy
         return $str;
     }
 
     for($i=0;$i<423;++$i){
         $faker = Faker\Factory::create("pl_PL");
         echo "<div style='display:flex;'>";
+            $type = rand(1,3);
+            $adres = getAddress($faker);
+
+
             $str = "";
             $str .= ($i + 1).","; // inkrementacja
-            $type = rand(1,3);
+            $str .= $pracownicy[rand(0,count($pracownicy)-1)].","; // id_pracownika
             $str .= $types[$type-1].","; // typ
-            switch($type){
-                case 1:
-                    $str .= '"'.$opisy_budynek[rand(0,9)].'"'.","; // opis
-                    break;
-                case 2:
-                    $str .= '"'.$opisy_dzialki[rand(0,14)].'"'.","; // opis
-                    break;
-                case 3:
-                    $str .= '"'.$opisy_lokale[rand(0,9)].'"'.","; // opis
-                    break;
-            }
-            $adres = getAddress($faker);
-            $str .= $adres.","; // adres
+            $str .= $stan[rand(0,4)].","; // stan
+            $str .= $adres.","; // adres (adres + miasto + kod pocztowy)
             $str .= $faker->numberBetween(375000, 1300000).","; // cena
             $str .= $faker->numberBetween(25, 354).","; // powierzchnia
-            $str .= $stan[rand(0,4)].","; // powierzchnia
-            $str .= $pracownicy[rand(0,count($pracownicy)-1)]; // id_pracownika
+            switch($type){
+                case 1:
+                    $str .= '"'.$opisy_budynek[rand(0,9)].'",'; // opis
+                    break;
+                case 2:
+                    $str .= '"'.$opisy_dzialki[rand(0,14)].'",'; // opis
+                    break;
+                case 3:
+                    $str .= '"'.$opisy_lokale[rand(0,9)].'",'; // opis
+                    break;
+            }
+            $str .= ($faker->numberBetween(1, 10)%9!=0?1:0); // sprzedany
 
             echo $str;
         echo "</div>";
