@@ -1,0 +1,243 @@
+1,Kamienica Królewska,Chełm,3,7.66
+2,Ilkowice,Grodzisk Mazowiecki,15,9.99
+3,Bartoszyce,Kętrzyn,8,11.59
+4,Bielawa,Poznań,14,10.36
+5,Braniewo,Starogard Gdański,18,3.91
+6,Łódź,Szwecja,6,7.93
+7,Jasło,Kamieniec Ząbkowicki,15,12.20
+8,Jastrzębie-Zdrój,Lębork,19,14.11
+9,Łoś,Babienica,11,19.76
+10,Malbork,Turek,5,19.61
+11,Grudziądz,Wilkowice,25,3.65
+12,Bartoszyce,Kutno,8,2.60
+13,Kłobuck,Września,12,3.3
+14,Swarzędz,Płazów,1,3.85
+15,Nowy Dwór Mazowiecki,Nowy Targ,10,16.27
+16,Szteklin,Józefów,20,3.54
+17,Tarnowskie Góry,Zawiercie,22,7.98
+18,Racibórz,Zgierz,10,2.37
+19,Żory,Chełm,3,17.89
+20,Września,Szczawin,12,5.64
+21,Wrocław,Chrzanów,2,18.67
+22,Studzienice,Zielona Góra,7,11.22
+23,Piaseczno,Mielec,2,7.40
+24,Pęcice,Gołubie,24,5.51
+25,Marylka,Studzienice,7,8.31
+26,Jaworzno,Konstancin-Jeziorna,14,3.30
+27,Nowa Sól,Kielce,6,4.71
+28,Kościan,Gorzów Wielkopolski,17,2.2
+29,Lublin,Września,12,9.17
+30,Zawiercie,Katowice,22,6.3
+31,Lubartów,Rzeszów,17,2.92
+32,Stargard,Poznań,14,18.70
+33,Czerwionka-Leszczyny,Lubin,11,15.56
+34,Ząbki,Szczecin,14,8.89
+35,Ostróda,Malbork,5,5.12
+36,Pawłowice,Dzierżoniów,25,11.93
+37,Kuźnica Masłońska,Czaplinek,21,8.26
+38,Ruda Śląska,Wągrowiec,4,5.11
+39,Jasło,Grodzisk Mazowiecki,15,5.19
+40,Koszalin,Jaroszowa Wola,10,7.50
+41,Kluczbork,Czarna Woda,19,8.23
+42,Koło,Rzeszów,17,15.72
+43,Kraków,Władysławowo,21,13.87
+44,Myszków,Tychy,3,12.65
+45,Ostrołęka,Piotrków Trybunalski,24,2.71
+46,Bogaczów,Szteklin,20,9.96
+47,Kolonowskie,Bogaczów,20,5.93
+48,Ostrołęka,Rumia,24,4.14
+49,Łowicz,Nowe Kramsko,22,5.67
+50,Kielce,Łomża,6,18.86
+51,Józefów,Bogaczów,20,8.10
+52,Grudziądz,Pawłowice,25,4.65
+53,Boguszów-Gorce,Postęp,13,18.64
+54,Siemianowice Śląskie,Poznań,14,19.8
+55,Wola Kiedrzyńska,Chełm,3,5.24
+56,Łowicz,Katowice,22,6.73
+57,Sieradz,Bartoszyce,8,6.56
+58,Turek,Czechowice-Dziedzice,5,11.50
+59,Ilkowice,Jasło,15,6.61
+60,Brodnica,Rzeszów,17,10.25
+61,Zborowskie,Braniewo,18,9.12
+62,Sochaczew,Józefów,20,14.37
+63,Zgorzelec,Jadowniki,16,10.29
+64,Przędzel,Żary,9,14.36
+65,Szczawin,Knurów,12,3.34
+66,Pisz,Dębica,17,11.42
+67,Szczecin,Stargard,14,11.51
+68,Bieruń,Szwecja,6,2.97
+69,Żary,Przędzel,9,17.4
+70,Suwałki,Przędzel,9,10.32
+71,Luboń,Starogard Gdański,18,10.79
+72,Bezrzecze,Pruszków,23,8.60
+73,Pawłowice,Dzierżoniów,25,14.45
+74,Sosnowiec,Czechowice-Dziedzice,5,11.32
+75,Mysłowice,Kędzierzyn-Koźle,6,6.25
+76,Sosnowiec,Malbork,5,18.2
+77,Świętochłowice,Pilchowo,10,4.83
+78,Łaziska Górne,Radom,8,5.62
+79,Stalowa Wola,Szteklin,20,10.73
+80,Szczawin,Kłobuck,12,6.5
+81,Olkusz,Lubojenka,16,17.44
+82,Trzebiatów,Chorzów,24,8.45
+83,Pilchowo,Zabrze,10,14.50
+84,Olkusz,Kwidzyn,16,19.40
+85,Konstancin-Jeziorna,Poznań,14,4.2
+86,Płock,Lędziny,21,12.51
+87,Legnica,Piekary Śląskie,23,9.66
+88,Dębogórze,Krępiec,9,12.83
+89,Zborowskie,Krotoszyn,18,7.35
+90,Magdalenka,Katowice,22,11.45
+91,Jastrzębie-Zdrój,Kluczbork,19,3.10
+92,Poznań,Ząbki,14,8.90
+93,Poznań,Konstancin-Jeziorna,14,7.98
+94,Mysłowice,Kielce,6,2.35
+95,Przędzel,Żary,9,6.75
+96,Świdnica,Pawłowice,25,15.21
+97,Łomianki,Bieruń,6,5.53
+98,Olkusz,Świdwin,16,6.72
+99,Pabianice,Bogaczów,20,2.71
+100,Stargard,Szczecin,14,18.23
+101,Płock,Inowrocław,21,3.28
+102,Bolesławiec,Ostróda,5,17.43
+103,Magdalenka,Nowe Kramsko,22,18.58
+104,Rynarzewo,Bolesławiec,5,8.30
+105,Ostrołęka,Pęcice,24,6.31
+106,Jemielnica,Kłodzko,7,10.66
+107,Pisz,Lubartów,17,9.9
+108,Jastarnia,Myszków,3,5.56
+109,Magdalenka,Nowe Kramsko,22,16.21
+110,Giżycko,Przędzel,9,4.74
+111,Grudziądz,Wilkowice,25,2.38
+112,Zamość,Szczawin,12,9.31
+113,Żywiec,Grodzisk Mazowiecki,15,14.67
+114,Czaplinek,Płock,21,12.66
+115,Gorlice,Radom,8,8.13
+116,Lubartów,Police,17,13.47
+117,Szczawin,Września,12,18.72
+118,Bochnia,Ilkowice,15,19.19
+119,Malbork,Bolesławiec,5,3.9
+120,Tczew,Leszno,13,19.79
+121,Łowicz,Nowe Kramsko,22,9.18
+122,Warszawa,Piaseczno,2,2.88
+123,Szczawin,Września,12,17.83
+124,Jadowniki,Lubojenka,16,15.67
+125,Czerwionka-Leszczyny,Szówsko,11,4.44
+126,Żywiec,Kamieniec Ząbkowicki,15,18.22
+127,Dębogórze,Żary,9,14.3
+128,Biała Podlaska,Kutno,8,2.47
+129,Przędzel,Cieszyn,9,4.92
+130,Piła,Poznań,14,13.53
+131,Wągrowiec,Ełk,4,16.97
+132,Szczecin,Poznań,14,19.80
+133,Pisz,Lubartów,17,14.33
+134,Jawor,Legionowo,4,2.22
+135,Police,Lubartów,17,19.77
+136,Bielawa,Jaworzno,14,15.11
+137,Żyrardów,Płazów,1,14.82
+138,Suwałki,Kraśnik,9,9.34
+139,Rumia,Chorzów,24,16.42
+140,Lidzbark Warmiński,Legnica,23,13.23
+141,Busko-Zdrój,Wałbrzych,24,16.12
+142,Świecie,Mysłowice,6,10.98
+143,Babienica,Czerwionka-Leszczyny,11,6.14
+144,Gdynia,Skalbmierz,10,14.94
+145,Jastarnia,Nowy Sącz,3,6.93
+146,Jeziorna,Ruda Śląska,4,19.53
+147,Zawiercie,Magdalenka,22,13.40
+148,Sanok,Ostrów Wielkopolski,23,17.51
+149,Zgorzelec,Świdwin,16,13.63
+150,Jemielnica,Lubliniec,7,14.30
+151,Myszków,Chełm,3,14.71
+152,Kłobuck,Września,12,12.16
+153,Kołobrzeg,Zborowskie,18,9.76
+154,Ciechanów,Osówiec,1,8.89
+155,Kłodzko,Ustka,7,18.9
+156,Zborowskie,Starogard Gdański,18,15.51
+157,Skalbmierz,Przemyśl,10,12.69
+158,Jastarnia,Pieszyce,3,7.50
+159,Inowrocław,Czaplinek,21,15.14
+160,Rynarzewo,Sosnowiec,5,15.39
+161,Kluczbork,Czarna Woda,19,2.64
+162,Rzeszów,Brodnica,17,5.22
+163,Ełk,Ruda Śląska,4,9.5
+164,Suwałki,Żary,9,6.12
+165,Tczew,Tarnobrzeg,13,15.1
+166,Bolesławiec,Turek,5,7.59
+167,Nowa Ruda,Gorzów Wielkopolski,17,8.93
+168,Bolesławiec,Turek,5,7.82
+169,Szteklin,Bogaczów,20,6.28
+170,Ełk,Wągrowiec,4,5.99
+171,Jasło,Bochnia,15,8.15
+172,Wejherowo,Opole,11,15.62
+173,Września,Lublin,12,8.45
+174,Krępiec,Przędzel,9,15.12
+175,Żywiec,Ilkowice,15,2.47
+176,Gliwice,Szczecinek,23,3.93
+177,Pruszków,Piekary Śląskie,23,3.96
+178,Lubojenka,Kwidzyn,16,8.72
+179,Studzienice,Ustka,7,13.21
+180,Czeladź,Tarnobrzeg,13,13.64
+181,Lędziny,Władysławowo,21,8.47
+182,Leszno,Boguszów-Gorce,13,18.23
+183,Łowicz,Włocławek,22,16.31
+184,Kętrzyn,Koszwały,8,18.79
+185,Świebodzin,Gołubie,24,4.58
+186,Chorzów,Pęcice,24,3.60
+187,Brodnica,Elbląg,17,5.78
+188,Kłodzko,Marylka,7,8.6
+189,Lidzbark Warmiński,Sulejówek,23,7.9
+190,Jasło,Kamieniec Ząbkowicki,15,16.46
+191,Jadowniki,Kwidzyn,16,6.84
+192,Suwałki,Giżycko,9,17.43
+193,Czarna Woda,Sopot,19,9.91
+194,Bydgoszcz,Skalbmierz,10,19.47
+195,Wejherowo,Ostrowiec Świętokrzyski,11,9.86
+196,Sandomierz,Pisz,17,19.96
+197,Płazów,Siedlce,1,17.5
+198,Koszwały,Słupsk,8,18.28
+199,Kamieniec Ząbkowicki,Ilkowice,15,9.56
+200,Opole,Świdnik,11,7.15
+201,Nowe Kramsko,Łowicz,22,15.37
+202,Lublin,Września,12,13.79
+203,Malbork,Turek,5,7.93
+204,Kamień,Zborowskie,18,3.49
+205,Głogów,Pułtusk,25,10.22
+206,Szczecin,Tomaszów Mazowiecki,14,9.84
+207,Kłodzko,Ustka,7,9.64
+208,Żory,Jastrzębie,3,11.56
+209,Skierniewice,Zielona Góra,7,16.99
+210,Władysławowo,Kuźnica Masłońska,21,11.25
+211,Będzin,Ostrów Wielkopolski,23,2.83
+212,Marylka,Zakopane,7,9.33
+213,Olsztyn,Ostrów Wielkopolski,23,18.97
+214,Mokrzyska,Bartoszyce,8,16.78
+215,Świdwin,Kwidzyn,16,17.54
+216,Inowrocław,Otwock,21,8.43
+217,Dąbrowa Górnicza,Wodzisław Śląski,11,19.33
+218,Piotrków Trybunalski,Rumia,24,4.52
+219,Konstancin-Jeziorna,Piła,14,12.5
+220,Inowrocław,Otwock,21,4.10
+221,Pieszyce,Kamienica Królewska,3,12.70
+222,Sieradz,Gorlice,8,11.16
+223,Sosnowiec,Rynarzewo,5,16.14
+224,Kamienica Królewska,Pieszyce,3,12.31
+225,Grudziądz,Wilkowice,25,17.39
+226,Września,Szczawin,12,13.75
+227,Kamienica Królewska,Żory,3,7.88
+228,Tychy,Kamienica Królewska,3,13.17
+229,Zduńska Wola,Czaplinek,21,4.90
+230,Toruń,Żywiec,15,8.35
+231,Szteklin,Bielsko-Biała,20,17.90
+232,Będzin,Gliwice,23,7.29
+233,Rynarzewo,Turek,5,3.26
+234,Koło,Sandomierz,17,15.78
+235,Sandomierz,Gorzów Wielkopolski,17,15.73
+236,Orzesze,Władysławowo,21,3.59
+237,Jawor,Wągrowiec,4,2.8
+238,Zakopane,Zielona Góra,7,8.55
+239,Kościerzyna,Gdynia,10,7.15
+240,Sopot,Darłowo,19,16.29
+241,Pruszków,Ostrów Wielkopolski,23,16.32
+242,Swarzędz,Ciechanów,1,12.86
+243,Turek,Bolesławiec,5,17.17
